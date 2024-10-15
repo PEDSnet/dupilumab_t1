@@ -1,0 +1,10 @@
+concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason
+45595618,Candidal esophagitis,Condition,ICD10CM,5-char billing code,NA,B37.81,1970-01-01,2099-12-31,NA
+45538508,Eosinophilic esophagitis,Condition,ICD10CM,4-char billing code,NA,K20.0,1970-01-01,2099-12-31,NA
+45605923,Other esophagitis,Condition,ICD10CM,4-char nonbill code,NA,K20.8,1970-01-01,2099-12-31,NA
+725359,Other esophagitis without bleeding,Condition,ICD10CM,5-char billing code,NA,K20.80,2021-01-01,2099-12-31,NA
+45548149,"Esophagitis, unspecified",Condition,ICD10CM,4-char nonbill code,NA,K20.9,1970-01-01,2099-12-31,NA
+725361,"Esophagitis, unspecified without bleeding",Condition,ICD10CM,5-char billing code,NA,K20.90,2021-01-01,2099-12-31,NA
+30753,Esophagitis,Condition,SNOMED,Clinical Finding,S,16761005,2002-01-31,2099-12-31,NA
+28974,Candidiasis of the esophagus,Condition,SNOMED,Clinical Finding,S,20639004,2002-01-31,2099-12-31,NA
+27918,Eosinophilic esophagitis,Condition,SNOMED,Clinical Finding,S,235599003,2002-01-31,2099-12-31,NA

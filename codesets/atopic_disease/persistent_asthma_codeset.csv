@@ -1,0 +1,61 @@
+concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason
+45581859,Mild persistent asthma,Condition,ICD10CM,4-char nonbill code,NA,J45.3,2006-12-30,2099-12-31,NA
+45576951,"Mild persistent asthma, uncomplicated",Condition,ICD10CM,5-char billing code,NA,J45.30,1970-01-01,2099-12-31,NA
+45548117,Mild persistent asthma with (acute) exacerbation,Condition,ICD10CM,5-char billing code,NA,J45.31,1970-01-01,2099-12-31,NA
+45576952,Mild persistent asthma with status asthmaticus,Condition,ICD10CM,5-char billing code,NA,J45.32,1970-01-01,2099-12-31,NA
+45591558,Moderate persistent asthma,Condition,ICD10CM,4-char nonbill code,NA,J45.4,2006-12-30,2099-12-31,NA
+45601133,"Moderate persistent asthma, uncomplicated",Condition,ICD10CM,5-char billing code,NA,J45.40,1970-01-01,2099-12-31,NA
+45543269,Moderate persistent asthma with (acute) exacerbation,Condition,ICD10CM,5-char billing code,NA,J45.41,1970-01-01,2099-12-31,NA
+45557626,Moderate persistent asthma with status asthmaticus,Condition,ICD10CM,5-char billing code,NA,J45.42,1970-01-01,2099-12-31,NA
+45591559,Severe persistent asthma,Condition,ICD10CM,4-char nonbill code,NA,J45.5,2006-12-30,2099-12-31,NA
+45567265,"Severe persistent asthma, uncomplicated",Condition,ICD10CM,5-char billing code,NA,J45.50,1970-01-01,2099-12-31,NA
+45567266,Severe persistent asthma with (acute) exacerbation,Condition,ICD10CM,5-char billing code,NA,J45.51,1970-01-01,2099-12-31,NA
+45581860,Severe persistent asthma with status asthmaticus,Condition,ICD10CM,5-char billing code,NA,J45.52,1970-01-01,2099-12-31,NA
+37108580,Severe controlled persistent asthma,Condition,SNOMED,Clinical Finding,S,10675391000119101,2017-07-31,2099-12-31,NA
+46269770,Severe persistent allergic asthma,Condition,SNOMED,Clinical Finding,S,10675431000119106,2015-07-31,2099-12-31,NA
+46274059,Acute severe exacerbation of severe persistent allergic asthma,Condition,SNOMED,Clinical Finding,S,10675471000119109,2015-07-31,2099-12-31,NA
+46269771,Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10675551000119104,2015-07-31,2099-12-31,NA
+46269772,Severe persistent allergic asthma controlled,Condition,SNOMED,Clinical Finding,S,10675591000119109,2015-07-31,2099-12-31,NA
+46269773,Severe persistent asthma controlled co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10675631000119109,2015-07-31,2099-12-31,NA
+46269774,Severe persistent allergic asthma uncontrolled,Condition,SNOMED,Clinical Finding,S,10675671000119107,2015-07-31,2099-12-31,NA
+46269775,Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10675711000119106,2015-07-31,2099-12-31,NA
+37108581,Severe uncontrolled persistent asthma,Condition,SNOMED,Clinical Finding,S,10675751000119107,2017-07-31,2099-12-31,NA
+46269776,Mild persistent allergic asthma,Condition,SNOMED,Clinical Finding,S,10675871000119106,2015-07-31,2099-12-31,NA
+46274124,Acute severe exacerbation of mild persistent allergic asthma,Condition,SNOMED,Clinical Finding,S,10675911000119109,2015-07-31,2099-12-31,NA
+46269777,Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10675991000119100,2015-07-31,2099-12-31,NA
+46274060,Mild persistent allergic asthma controlled,Condition,SNOMED,Clinical Finding,S,10676031000119106,2015-07-31,2099-12-31,NA
+46269778,Mild persistent asthma controlled,Condition,SNOMED,Clinical Finding,S,10676071000119109,2015-07-31,2099-12-31,NA
+46269779,Mild persistent asthma controlled co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10676111000119102,2015-07-31,2099-12-31,NA
+46269780,Mild persistent allergic asthma uncontrolled,Condition,SNOMED,Clinical Finding,S,10676151000119101,2015-07-31,2099-12-31,NA
+46269781,Mild persistent asthma uncontrolled,Condition,SNOMED,Clinical Finding,S,10676191000119106,2015-07-31,2099-12-31,NA
+46269782,Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10676231000119102,2015-07-31,2099-12-31,NA
+46269783,Moderate persistent asthma controlled,Condition,SNOMED,Clinical Finding,S,10676351000119103,2015-07-31,2099-12-31,NA
+46269784,Moderate persistent allergic asthma,Condition,SNOMED,Clinical Finding,S,10676391000119108,2015-07-31,2099-12-31,NA
+46273462,Acute severe exacerbation of moderate persistent allergic asthma,Condition,SNOMED,Clinical Finding,S,10676431000119103,2015-07-31,2099-12-31,NA
+46269785,Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10676511000119109,2015-07-31,2099-12-31,NA
+46269786,Moderate persistent allergic asthma controlled,Condition,SNOMED,Clinical Finding,S,10676551000119105,2015-07-31,2099-12-31,NA
+46269787,Moderate persistent controlled asthma co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10676591000119100,2015-07-31,2099-12-31,NA
+46269788,Moderate persistent allergic asthma uncontrolled,Condition,SNOMED,Clinical Finding,S,10676631000119100,2015-07-31,2099-12-31,NA
+46269789,Moderate persistent asthma uncontrolled co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10676671000119102,2015-07-31,2099-12-31,NA
+46269790,Moderate persistent asthma uncontrolled,Condition,SNOMED,Clinical Finding,S,10676711000119103,2015-07-31,2099-12-31,NA
+46270028,Severe persistent asthma co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,124991000119109,2015-07-31,2099-12-31,NA
+46273454,Moderate persistent asthma co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,125001000119103,2015-07-31,2099-12-31,NA
+46270029,Mild persistent asthma co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,125011000119100,2015-07-31,2099-12-31,NA
+46273487,Acute exacerbation of moderate persistent asthma,Condition,SNOMED,Clinical Finding,NA,135171000119106,2015-07-31,2021-07-31,U
+46270082,Acute exacerbation of mild persistent asthma,Condition,SNOMED,Clinical Finding,NA,135181000119109,2015-07-31,2021-07-31,U
+4145356,Severe persistent asthma,Condition,SNOMED,Clinical Finding,S,426656000,2007-07-31,2099-12-31,NA
+4143828,Mild persistent asthma,Condition,SNOMED,Clinical Finding,S,426979002,2007-07-31,2099-12-31,NA
+4142738,Moderate persistent asthma,Condition,SNOMED,Clinical Finding,S,427295004,2007-07-31,2099-12-31,NA
+4144757,Exacerbation of persistent asthma,Condition,SNOMED,Clinical Finding,NA,427354000,2007-07-31,2015-07-31,D
+764677,Persistent asthma,Condition,SNOMED,Clinical Finding,S,5281000124103,2012-03-01,2099-12-31,NA
+45768911,Exacerbation of mild persistent asthma,Condition,SNOMED,Clinical Finding,S,707445000,2015-01-31,2099-12-31,NA
+45772937,Exacerbation of moderate persistent asthma,Condition,SNOMED,Clinical Finding,S,707446004,2015-01-31,2099-12-31,NA
+45768912,Exacerbation of severe persistent asthma,Condition,SNOMED,Clinical Finding,S,707447008,2015-01-31,2099-12-31,NA
+45768963,Uncomplicated mild persistent asthma,Condition,SNOMED,Clinical Finding,S,707511009,2015-01-31,2099-12-31,NA
+45768964,Uncomplicated moderate persistent asthma,Condition,SNOMED,Clinical Finding,S,707512002,2015-01-31,2099-12-31,NA
+45768965,Uncomplicated severe persistent asthma,Condition,SNOMED,Clinical Finding,S,707513007,2015-01-31,2099-12-31,NA
+45769350,Acute severe exacerbation of severe persistent asthma,Condition,SNOMED,Clinical Finding,S,707979007,2015-01-31,2099-12-31,NA
+45769351,Acute severe exacerbation of moderate persistent asthma,Condition,SNOMED,Clinical Finding,S,707980005,2015-01-31,2099-12-31,NA
+45769352,Acute severe exacerbation of mild persistent asthma,Condition,SNOMED,Clinical Finding,S,707981009,2015-01-31,2099-12-31,NA
+37116845,Acute severe refractory exacerbation of asthma,Condition,SNOMED,Clinical Finding,S,733858005,2017-07-31,2099-12-31,NA
+764949,"Persistent asthma, well controlled",Condition,SNOMED,Clinical Finding,S,901000119100,2013-09-01,2099-12-31,NA

@@ -1,0 +1,261 @@
+concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason
+605147,Dupilumab 150 mg/mL solution for injection,Drug,SNOMED,Clinical Drug,NA,1010546007,2021-01-31,2099-12-31,NA
+605149,Dupilumab 175.439 mg/mL solution for injection,Drug,SNOMED,Clinical Drug,NA,1010548008,2021-01-31,2099-12-31,NA
+621026,"dupilumab 300mg/2mL / 100mg/.67mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,ca8f3736-555a-4a87-8e7a-8d71e2b35275,2017-03-28,2099-12-31,NA
+628884,"dupilumab 300mg/2mL / 100mg/.67mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,850acdef-5aad-46bf-ae96-5e4a8230eeaf,2017-03-28,2099-12-31,NA
+631508,"dupilumab 300mg/2mL / 100mg/.67mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,6b274a7d-4ce9-479c-8dea-f3600d9305e6,2017-03-28,2099-12-31,NA
+702620,0.67 ML dupilumab 150 MG/ML Prefilled Syringe,Drug,RxNorm,Quant Clinical Drug,S,2583634,2022-01-03,2099-12-31,NA
+702621,0.67 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent],Drug,RxNorm,Quant Branded Drug,S,2583635,2022-01-03,2099-12-31,NA
+707452,"dupilumab 300mg/2mL / 100mg/.67mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,bbfc8399-5549-4797-88ad-4d85945286cc,2017-03-28,2099-12-31,NA
+768126,"dupilumab 300mg/2mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,b18d07f3-f7a0-4d82-8f09-134e4a438018,2017-03-28,2099-12-31,NA
+908295,dupilumab,Drug,MeSH,Suppl Concept,NA,C582203,2019-11-04,2099-12-31,NA
+983944,"dupilumab 300mg/2mL / 100mg/.67mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,22c62377-58a7-43cc-bf4e-1b465cada2e9,2017-03-28,2099-12-31,NA
+1109896,"dupilumab 300mg/2mL / 100mg/.67mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,8e34b5ad-124b-4337-8ce6-8cb39a8da961,2017-03-28,2099-12-31,NA
+1123764,DUPILUMAB,Drug,NDFRT,Pharma Preparation,NA,N0000193352,2017-08-07,2099-12-31,NA
+1123766,"DUPILUMAB 150MG/ML INJ,SYR,2ML",Drug,NDFRT,VA Product,NA,N0000193412,2017-08-07,2099-12-31,NA
+1146201,dupilumab Auto-Injector,Drug,RxNorm,Clinical Drug Form,S,2375326,2020-08-03,2099-12-31,NA
+1146202,dupilumab Auto-Injector [Dupixent],Drug,RxNorm,Branded Drug Form,S,2375328,2020-08-03,2099-12-31,NA
+1146203,dupilumab 150 MG/ML Auto-Injector,Drug,RxNorm,Clinical Drug,S,2375330,2020-08-03,2099-12-31,NA
+1146204,dupilumab 150 MG/ML Auto-Injector [Dupixent],Drug,RxNorm,Branded Drug,S,2375331,2020-08-03,2099-12-31,NA
+1146754,2 ML dupilumab 150 MG/ML Auto-Injector,Drug,RxNorm,Quant Clinical Drug,S,2375327,2020-08-03,2099-12-31,NA
+1146755,2 ML dupilumab 150 MG/ML Auto-Injector [Dupixent],Drug,RxNorm,Quant Branded Drug,S,2375329,2020-08-03,2099-12-31,NA
+1212682,"dupilumab 300mg/2mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,b720be68-5c41-4cd0-a661-701933ffe018,2017-03-28,2099-12-31,NA
+1501787,dupilumab; topical,Drug,ATC,ATC 5th,C,D11AH05,1970-01-01,2099-12-31,NA
+1537188,dupilumab 175 MG/ML Auto-Injector,Drug,RxNorm,Clinical Drug,S,2559708,2021-08-02,2099-12-31,NA
+1537189,dupilumab 175 MG/ML Auto-Injector [Dupixent],Drug,RxNorm,Branded Drug,S,2559709,2021-08-02,2099-12-31,NA
+1537616,1.14 ML dupilumab 175 MG/ML Auto-Injector,Drug,RxNorm,Quant Clinical Drug,S,2559706,2021-08-02,2099-12-31,NA
+1537617,1.14 ML dupilumab 175 MG/ML Auto-Injector [Dupixent],Drug,RxNorm,Quant Branded Drug,S,2559707,2021-08-02,2099-12-31,NA
+1564459,"dupilumab 300mg/2mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,6696c722-b857-4c9b-b4bd-d3794d576da2,2017-03-28,2099-12-31,NA
+1593467,dupilumab,Drug,RxNorm,Ingredient,S,1876376,2017-08-07,2099-12-31,NA
+1593488,dupilumab 150 MG/ML,Drug,RxNorm,Clinical Drug Comp,S,1876398,2017-08-07,2099-12-31,NA
+1593489,dupilumab Injectable Product,Drug,RxNorm,Clinical Dose Group,C,1876399,2017-08-07,2099-12-31,NA
+1593490,dupilumab Prefilled Syringe,Drug,RxNorm,Clinical Drug Form,S,1876400,2017-08-07,2099-12-31,NA
+1593491,2 ML dupilumab 150 MG/ML Prefilled Syringe,Drug,RxNorm,Quant Clinical Drug,S,1876401,2017-08-07,2099-12-31,NA
+1593493,dupilumab 150 MG/ML [Dupixent],Drug,RxNorm,Branded Drug Comp,S,1876403,2017-08-07,2099-12-31,NA
+1593494,dupilumab Prefilled Syringe [Dupixent],Drug,RxNorm,Branded Drug Form,S,1876404,2017-08-07,2099-12-31,NA
+1593495,Dupixent Injectable Product,Drug,RxNorm,Branded Dose Group,C,1876405,2017-08-07,2099-12-31,NA
+1593496,2 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent],Drug,RxNorm,Quant Branded Drug,S,1876406,2017-08-07,2099-12-31,NA
+1593497,dupilumab 150 MG/ML Prefilled Syringe,Drug,RxNorm,Clinical Drug,S,1876407,2017-08-07,2099-12-31,NA
+1593498,dupilumab 150 MG/ML Prefilled Syringe [Dupixent],Drug,RxNorm,Branded Drug,S,1876408,2017-08-07,2099-12-31,NA
+1612064,DUPILUMAB,Drug,VANDF,Drug Product,NA,4036554,1970-01-01,2099-12-31,NA
+1612071,"DUPILUMAB 150MG/ML INJ,SYR,2ML",Drug,VANDF,Drug Product,NA,4036561,1970-01-01,2099-12-31,NA
+1613468,"DUPILUMAB 200MG/1.14ML INJ,SYR",Drug,VANDF,Drug Product,NA,4037958,1970-01-01,2099-12-31,NA
+1615045,"DUPILUMAB 150MG/ML INJ,PEN,2ML",Drug,VANDF,Drug Product,NA,4039535,1970-01-01,2099-12-31,NA
+1616155,"DUPILUMAB 200MG/1.14ML INJ,SOLN,PEN",Drug,VANDF,Drug Product,NA,4040643,1970-01-01,2099-12-31,NA
+1626114,"dupilumab 300mg/2mL / 100mg/.67mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,ed234fa7-9084-4b79-ae02-66abe58043f3,2017-03-28,2099-12-31,NA
+1743388,0.67 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent],Drug,NDC,11-digit NDC,NA,00024591120,2022-06-01,2099-12-31,NA
+1744778,"dupilumab 300mg/2mL / 100mg/.67mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,11bc59cb-11a9-475c-b9c4-3729ded4b9ee,2017-03-28,2099-12-31,NA
+1833386,dupilumab,Drug,GGR,Ingredient,NA,stof02497,2021-10-15,2099-12-31,NA
+1971570,dupilumab 175 MG/ML Auto-Injector Box of 2,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP5164144,2022-01-28,2099-12-31,NA
+1971571,dupilumab 175 MG/ML Auto-Injector [Dupixent] Box of 2,Drug,RxNorm Extension,Branded Drug Box,S,OMOP5164145,2022-01-28,2099-12-31,NA
+1972894,1.14 ML dupilumab 175 MG/ML Auto-Injector Box of 2,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP5165457,2022-01-28,2099-12-31,NA
+1972895,1.14 ML dupilumab 175 MG/ML Auto-Injector [Dupixent] Box of 2,Drug,RxNorm Extension,Quant Branded Box,S,OMOP5165458,2022-01-28,2099-12-31,NA
+2082193,dupilumab,Drug,KDC,Ingredient,NA,KDC24021,1970-01-01,2099-12-31,NA
+2903561,1.14 ML dupilumab 175 MG/ML Injection [Dupixent] Box of 6,Drug,RxNorm Extension,Quant Branded Box,S,OMOP5120403,2021-06-30,2099-12-31,NA
+2903562,1.14 ML dupilumab 175 MG/ML Injection [Dupixent] Box of 3,Drug,RxNorm Extension,Quant Branded Box,S,OMOP5120404,2021-06-30,2099-12-31,NA
+2903563,1.14 ML dupilumab 175 MG/ML Injection [Dupixent] Box of 2,Drug,RxNorm Extension,Quant Branded Box,S,OMOP5120405,2021-06-30,2099-12-31,NA
+2903564,1.14 ML dupilumab 175 MG/ML Injection [Dupixent],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP5120406,2021-06-30,2099-12-31,NA
+2903565,1.14 ML dupilumab 175 MG/ML Injection Box of 6,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP5120407,2021-06-30,2099-12-31,NA
+2903566,1.14 ML dupilumab 175 MG/ML Injection Box of 3,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP5120408,2021-06-30,2099-12-31,NA
+2903567,1.14 ML dupilumab 175 MG/ML Injection Box of 2,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP5120409,2021-06-30,2099-12-31,NA
+2903568,1.14 ML dupilumab 175 MG/ML Injection,Drug,RxNorm Extension,Quant Clinical Drug,S,OMOP5120410,2021-06-30,2099-12-31,NA
+2903569,1.14 ML dupilumab 175 MG/ML Injectable Solution [Dupixent] Box of 3,Drug,RxNorm Extension,Quant Branded Box,S,OMOP5120411,2021-06-30,2099-12-31,NA
+2903570,1.14 ML dupilumab 175 MG/ML Injectable Solution Box of 3,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP5120412,2021-06-30,2099-12-31,NA
+2905862,2 ML dupilumab 150 MG/ML Injection [Dupixent] Box of 6,Drug,RxNorm Extension,Quant Branded Box,S,OMOP5122652,2021-06-30,2099-12-31,NA
+2905863,2 ML dupilumab 150 MG/ML Injection [Dupixent] Box of 3,Drug,RxNorm Extension,Quant Branded Box,S,OMOP5122653,2021-06-30,2099-12-31,NA
+2905864,2 ML dupilumab 150 MG/ML Injection [Dupixent] Box of 2,Drug,RxNorm Extension,Quant Branded Box,S,OMOP5122654,2021-06-30,2099-12-31,NA
+2905865,2 ML dupilumab 150 MG/ML Injection [Dupixent],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP5122655,2021-06-30,2099-12-31,NA
+2905866,2 ML dupilumab 150 MG/ML Injection Box of 6,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP5122656,2021-06-30,2099-12-31,NA
+2905867,2 ML dupilumab 150 MG/ML Injection Box of 3,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP5122657,2021-06-30,2099-12-31,NA
+2905868,2 ML dupilumab 150 MG/ML Injection Box of 2,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP5122658,2021-06-30,2099-12-31,NA
+2905869,2 ML dupilumab 150 MG/ML Injection,Drug,RxNorm Extension,Quant Clinical Drug,S,OMOP5122659,2021-06-30,2099-12-31,NA
+2905870,2 ML dupilumab 150 MG/ML Injectable Solution Box of 3,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP5122660,2021-06-30,2099-12-31,NA
+2918955,dupilumab 175 MG/ML Injection [Dupixent] Box of 6,Drug,RxNorm Extension,Branded Drug Box,S,OMOP5135773,2021-06-30,2099-12-31,NA
+2918957,dupilumab 175 MG/ML Injection [Dupixent] Box of 3,Drug,RxNorm Extension,Branded Drug Box,S,OMOP5135774,2021-06-30,2099-12-31,NA
+2918959,dupilumab 175 MG/ML Injection [Dupixent] Box of 2,Drug,RxNorm Extension,Branded Drug Box,S,OMOP5135775,2021-06-30,2099-12-31,NA
+2918960,dupilumab 175 MG/ML Injection [Dupixent],Drug,RxNorm Extension,Branded Drug,S,OMOP5135776,2021-06-30,2099-12-31,NA
+2918961,dupilumab 175 MG/ML Injection Box of 6,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP5135777,2021-06-30,2099-12-31,NA
+2918962,dupilumab 175 MG/ML Injection Box of 3,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP5135778,2021-06-30,2099-12-31,NA
+2918963,dupilumab 175 MG/ML Injection Box of 2,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP5135779,2021-06-30,2099-12-31,NA
+2918964,dupilumab 175 MG/ML Injection,Drug,RxNorm Extension,Clinical Drug,S,OMOP5135780,2021-06-30,2099-12-31,NA
+2918965,dupilumab 175 MG/ML Injectable Solution [Dupixent] Box of 3,Drug,RxNorm Extension,Branded Drug Box,S,OMOP5135781,2021-06-30,2099-12-31,NA
+2918966,dupilumab 175 MG/ML Injectable Solution Box of 3,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP5135782,2021-06-30,2099-12-31,NA
+2918967,dupilumab 150 MG/ML Injection [Dupixent] Box of 6,Drug,RxNorm Extension,Branded Drug Box,S,OMOP5135783,2021-06-30,2099-12-31,NA
+2918968,dupilumab 150 MG/ML Injection [Dupixent] Box of 3,Drug,RxNorm Extension,Branded Drug Box,S,OMOP5135784,2021-06-30,2099-12-31,NA
+2918969,dupilumab 150 MG/ML Injection [Dupixent] Box of 2,Drug,RxNorm Extension,Branded Drug Box,S,OMOP5135785,2021-06-30,2099-12-31,NA
+2918970,dupilumab 150 MG/ML Injection [Dupixent],Drug,RxNorm Extension,Branded Drug,S,OMOP5135786,2021-06-30,2099-12-31,NA
+2918971,dupilumab 150 MG/ML Injection Box of 6,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP5135787,2021-06-30,2099-12-31,NA
+2918972,dupilumab 150 MG/ML Injection Box of 3,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP5135788,2021-06-30,2099-12-31,NA
+2918973,dupilumab 150 MG/ML Injection Box of 2,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP5135789,2021-06-30,2099-12-31,NA
+2918974,dupilumab 150 MG/ML Injection,Drug,RxNorm Extension,Clinical Drug,S,OMOP5135790,2021-06-30,2099-12-31,NA
+2918975,dupilumab 150 MG/ML Injectable Solution Box of 3,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP5135791,2021-06-30,2099-12-31,NA
+2918976,dupilumab Injection [Dupixent],Drug,RxNorm Extension,Branded Drug Form,S,OMOP5135792,2021-06-30,2099-12-31,NA
+2918977,dupilumab Injection,Drug,RxNorm Extension,Clinical Drug Form,S,OMOP5135793,2021-06-30,2099-12-31,NA
+2956555,Dupilumab,Drug,AMT,AU Substance,NA,1090491000168105,2016-11-01,2099-12-31,NA
+2956556,"Dupilumab 200 Mg/1.14 Ml Injection, 1.14 Ml Syringe",Drug,AMT,Med Product Pack,NA,1356961000168102,2016-11-01,2099-12-31,NA
+2956557,"Dupilumab 200 Mg/1.14 Ml Injection, 2 X 1.14 Ml Syringes",Drug,AMT,Med Product Pack,NA,1356991000168109,2016-11-01,2099-12-31,NA
+2956558,"Dupilumab 200 Mg/1.14 Ml Injection, 3 X 1.14 Ml Syringes",Drug,AMT,Med Product Pack,NA,1357021000168106,2016-11-01,2099-12-31,NA
+2956559,"Dupilumab 200 Mg/1.14 Ml Injection, 6 X 1.14 Ml Syringes",Drug,AMT,Med Product Pack,NA,1357051000168103,2016-11-01,2099-12-31,NA
+2956560,"Dupilumab 200 Mg/1.14 Ml Injection, Syringe",Drug,AMT,Med Product Unit,NA,1356941000168101,2016-11-01,2099-12-31,NA
+2956561,"Dupilumab 300 Mg/2 Ml Injection, 2 Ml Syringe",Drug,AMT,Med Product Pack,NA,1090531000168105,2016-11-01,2099-12-31,NA
+2956562,"Dupilumab 300 Mg/2 Ml Injection, 2 X 2 Ml Syringes",Drug,AMT,Med Product Pack,NA,1090561000168102,2016-11-01,2099-12-31,NA
+2956563,"Dupilumab 300 Mg/2 Ml Injection, 3 X 2 Ml Syringes",Drug,AMT,Med Product Pack,NA,1090591000168109,2016-11-01,2099-12-31,NA
+2956564,"Dupilumab 300 Mg/2 Ml Injection, 6 X 2 Ml Syringes",Drug,AMT,Med Product Pack,NA,1090621000168106,2016-11-01,2099-12-31,NA
+2956565,"Dupilumab 300 Mg/2 Ml Injection, Syringe",Drug,AMT,Med Product Unit,NA,1090511000168100,2016-11-01,2099-12-31,NA
+3192848,Dupilumab,Drug,Nebraska Lexicon,Substance,NA,733487000,2017-07-31,2099-12-31,NA
+3210702,Product containing dupilumab,Drug,Nebraska Lexicon,Pharma/Biol Product,NA,763589007,2018-07-31,2099-12-31,NA
+3212694,Product containing dupilumab in parenteral dosage form,Drug,Nebraska Lexicon,Clinical Drug Form,NA,764360004,2018-07-31,2099-12-31,NA
+3965845,Dupilumab [Mass/volume] in Serum or Plasma by LC/MS/MS --trough,Measurement,LOINC,Lab Test,S,101411-7,2023-08-15,2099-12-31,NA
+3967290,Dupilumab | Serum or Plasma | Drug toxicology,Measurement,LOINC,LOINC Hierarchy,C,LP434877-9,2023-08-15,2099-12-31,NA
+3967777,Dupilumab,Observation,LOINC,LOINC Component,NA,LP434045-3,2023-08-15,2099-12-31,NA
+3968524,Dupilumab^trough,Observation,LOINC,LOINC Component,NA,LP434542-9,2023-08-15,2099-12-31,NA
+35102518,"DUPILUMAB 100MG/0.67ML INJ,SYR",Drug,VANDF,Drug Product,NA,4040924,2023-08-07,2099-12-31,NA
+35157694,dupilumab,Drug,JMDC,Ingredient,NA,JMDC1400,1970-01-01,2099-12-31,NA
+35172494,Dupilumab(Genetical Recombination) 300mg2mL1Syg [Dupixent],Drug,JMDC,Drug Product,NA,100000082799,1970-01-01,2099-12-31,NA
+35200997,dupilumab 200 MG/ML,Drug,RxNorm,Clinical Drug Comp,S,2099299,2018-12-03,2099-12-31,NA
+35200998,dupilumab 200 MG/ML [Dupixent],Drug,RxNorm,Branded Drug Comp,S,2099301,2018-12-03,2099-12-31,NA
+35200999,dupilumab 200 MG/ML Prefilled Syringe,Drug,RxNorm,Clinical Drug,S,2099303,2018-12-03,2099-12-31,NA
+35201000,dupilumab 200 MG/ML Prefilled Syringe [Dupixent],Drug,RxNorm,Branded Drug,S,2099304,2018-12-03,2099-12-31,NA
+35201187,dupilumab 175 MG/ML,Drug,RxNorm,Clinical Drug Comp,S,2101124,2018-12-03,2099-12-31,NA
+35201188,dupilumab 175 MG/ML [Dupixent],Drug,RxNorm,Branded Drug Comp,S,2101126,2018-12-03,2099-12-31,NA
+35201189,dupilumab 175 MG/ML Prefilled Syringe,Drug,RxNorm,Clinical Drug,S,2101128,2018-12-03,2099-12-31,NA
+35201190,dupilumab 175 MG/ML Prefilled Syringe [Dupixent],Drug,RxNorm,Branded Drug,S,2101129,2018-12-03,2099-12-31,NA
+35202010,1.14 ML dupilumab 175 MG/ML Prefilled Syringe,Drug,RxNorm,Quant Clinical Drug,S,2099300,2018-12-03,2099-12-31,NA
+35202011,1.14 ML dupilumab 175 MG/ML Prefilled Syringe [Dupixent],Drug,RxNorm,Quant Branded Drug,S,2099302,2018-12-03,2099-12-31,NA
+35301819,"dupilumab 300mg/2mL / 100mg/.67mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,33b69d6d-1791-44fb-8b9b-2106a31469d8,2017-03-28,2099-12-31,NA
+35509789,"dupilumab 300mg/2mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,19339bdd-d922-44eb-af4a-5e84f2112ad0,2017-03-28,2099-12-31,NA
+35520796,"dupilumab 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION",Drug,NDC,9-digit NDC,NA,000245918,2018-10-19,2099-12-31,NA
+35524503,1.14 ML dupilumab 175 MG/ML Prefilled Syringe [Dupixent],Drug,NDC,11-digit NDC,NA,00024591801,2018-11-01,2099-12-31,NA
+35524504,1.14 ML dupilumab 175 MG/ML Prefilled Syringe [Dupixent],Drug,NDC,11-digit NDC,NA,00024591802,2018-11-01,2099-12-31,NA
+35622225,Dupilumab-containing product,Drug,SNOMED,Pharma/Biol Product,NA,763589007,2018-07-31,2099-12-31,NA
+35622581,Dupilumab-containing product in parenteral dose form,Drug,SNOMED,Clinical Drug Form,NA,764360004,2018-07-31,2099-12-31,NA
+35832972,Dupilumab(Genetical Recombination) [Dupixent],Drug,JMDC,Drug Product,NA,100000082765,1970-01-01,2099-12-31,NA
+35837868,"dupilumab 300mg/2mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,eaf2ae25-2b72-46e0-811d-41c51a323461,2017-03-28,2099-12-31,NA
+36036078,dupilumab 175 MG/ML Injectable Solution Box of 6,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP5046085,2021-06-17,2099-12-31,NA
+36036079,dupilumab 175 MG/ML Injectable Solution [Dupixent] Box of 6,Drug,RxNorm Extension,Branded Drug Box,S,OMOP5046086,2021-06-17,2099-12-31,NA
+36037239,1.14 ML dupilumab 175 MG/ML Injectable Solution Box of 6,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP5047328,2021-06-17,2099-12-31,NA
+36037333,1.14 ML dupilumab 175 MG/ML Injectable Solution [Dupixent] Box of 6,Drug,RxNorm Extension,Quant Branded Box,S,OMOP5047329,2021-06-17,2099-12-31,NA
+36037334,1.14 ML dupilumab 175 MG/ML Injectable Solution [Dupixent] Box of 6 by Abacus Medicine,Drug,RxNorm Extension,Marketed Product,S,OMOP5047330,2021-06-17,2099-12-31,NA
+36037371,2 ML dupilumab 150 MG/ML Injectable Solution [Dupixent] Box of 2 by Abacus Medicine,Drug,RxNorm Extension,Marketed Product,S,OMOP5047367,2021-06-17,2099-12-31,NA
+36037372,2 ML dupilumab 150 MG/ML Injectable Solution [Dupixent] Box of 6 by Abacus Medicine,Drug,RxNorm Extension,Marketed Product,S,OMOP5047368,2021-06-17,2099-12-31,NA
+36037373,2 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent] Box of 2 by Abacus Medicine,Drug,RxNorm Extension,Marketed Product,S,OMOP5047369,2021-06-17,2099-12-31,NA
+36037374,2 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent] Box of 6 by Abacus Medicine,Drug,RxNorm Extension,Marketed Product,S,OMOP5047370,2021-06-17,2099-12-31,NA
+36046880,Dupilumab 200mg/1.14ml solution for injection pre-filled disposable devices,Drug,dm+d,VMP,NA,38018711000001107,1970-01-01,2099-12-31,NA
+36047616,Dupilumab 200mg/1.14ml solution for injection pre-filled disposable devices 2 pre-filled disposable injection,Drug,dm+d,VMPP,NA,38012311000001105,1970-01-01,2099-12-31,NA
+36047705,Dupilumab 200mg/1.14ml solution for injection pre-filled syringes,Drug,dm+d,VMP,NA,37454411000001102,1970-01-01,2099-12-31,NA
+36049105,Dupilumab 200mg/1.14ml solution for injection pre-filled syringes 2 pre-filled disposable injection,Drug,dm+d,VMPP,NA,37424811000001104,1970-01-01,2099-12-31,NA
+36049238,Dupilumab 300mg/2ml solution for injection pre-filled disposable devices,Drug,dm+d,VMP,NA,38018811000001104,1970-01-01,2099-12-31,NA
+36050230,Dupilumab 300mg/2ml solution for injection pre-filled disposable devices 2 pre-filled disposable injection,Drug,dm+d,VMPP,NA,38013011000001103,1970-01-01,2099-12-31,NA
+36050275,Dupilumab 300mg/2ml solution for injection pre-filled syringes 6 pre-filled disposable injection,Drug,dm+d,VMPP,NA,36826411000001102,1970-01-01,2099-12-31,NA
+36053573,1.14 ML dupilumab 175 MG/ML Prefilled Syringe [Dupixent] by Sanofi,Drug,RxNorm Extension,Marketed Product,S,OMOP4978757,2020-08-17,2099-12-31,NA
+36053574,1.14 ML dupilumab 175 MG/ML Injectable Solution [Dupixent] Box of 2 by Sanofi,Drug,RxNorm Extension,Marketed Product,S,OMOP4978758,2020-08-17,2099-12-31,NA
+36053575,1.14 ML dupilumab 175 MG/ML Injectable Solution [Dupixent] Box of 2,Drug,RxNorm Extension,Quant Branded Box,S,OMOP4978759,2020-08-17,2099-12-31,NA
+36053576,1.14 ML dupilumab 175 MG/ML Injectable Solution [Dupixent] by Sanofi,Drug,RxNorm Extension,Marketed Product,S,OMOP4978760,2020-08-17,2099-12-31,NA
+36053577,1.14 ML dupilumab 175 MG/ML Injectable Solution [Dupixent],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4978761,2020-08-17,2099-12-31,NA
+36053578,1.14 ML dupilumab 175 MG/ML Injectable Solution Box of 2,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP4978762,2020-08-17,2099-12-31,NA
+36053579,1.14 ML dupilumab 175 MG/ML Injectable Solution,Drug,RxNorm Extension,Quant Clinical Drug,S,OMOP4978763,2020-08-17,2099-12-31,NA
+36055489,2 ML dupilumab 150 MG/ML Injectable Solution [Dupixent] Box of 6 by Sanofi,Drug,RxNorm Extension,Marketed Product,S,OMOP4980849,2020-08-17,2099-12-31,NA
+36055490,2 ML dupilumab 150 MG/ML Injectable Solution [Dupixent] Box of 6,Drug,RxNorm Extension,Quant Branded Box,S,OMOP4980850,2020-08-17,2099-12-31,NA
+36055491,2 ML dupilumab 150 MG/ML Injectable Solution Box of 6,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP4980851,2020-08-17,2099-12-31,NA
+36062551,dupilumab 175 MG/ML Injectable Solution [Dupixent] Box of 2,Drug,RxNorm Extension,Branded Drug Box,S,OMOP4988579,2020-08-17,2099-12-31,NA
+36062552,dupilumab 175 MG/ML Injectable Solution [Dupixent],Drug,RxNorm Extension,Branded Drug,S,OMOP4988580,2020-08-17,2099-12-31,NA
+36062553,dupilumab 175 MG/ML Injectable Solution Box of 2,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP4988581,2020-08-17,2099-12-31,NA
+36062554,dupilumab 175 MG/ML Injectable Solution,Drug,RxNorm Extension,Clinical Drug,S,OMOP4988582,2020-08-17,2099-12-31,NA
+36062555,dupilumab 150 MG/ML Injectable Solution [Dupixent] Box of 6,Drug,RxNorm Extension,Branded Drug Box,S,OMOP4988583,2020-08-17,2099-12-31,NA
+36062556,dupilumab 150 MG/ML Injectable Solution Box of 6,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP4988584,2020-08-17,2099-12-31,NA
+36114973,"dupilumab 300mg/2mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,e146e195-86e4-4c07-bdf1-b555af52efa0,2017-03-28,2099-12-31,NA
+36115396,"dupilumab 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION",Drug,NDC,9-digit NDC,NA,000245919,2021-06-14,2099-12-31,NA
+36117644,1.14 ML dupilumab 175 MG/ML Auto-Injector [Dupixent],Drug,NDC,11-digit NDC,NA,00024591902,2021-07-01,2099-12-31,NA
+36117645,1.14 ML dupilumab 175 MG/ML Auto-Injector [Dupixent],Drug,NDC,11-digit NDC,NA,00024591920,2021-07-01,2099-12-31,NA
+36132598,"dupilumab 300mg/2mL / 100mg/.67mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,b070fc74-80a4-4274-8832-6faa4d6124c4,2017-03-28,2099-12-31,NA
+36133959,"dupilumab 100mg/.67mL SUBCUTANEOUS INJECTION, SOLUTION",Drug,NDC,9-digit NDC,NA,000245911,2021-10-20,2099-12-31,NA
+36134621,0.67 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent],Drug,NDC,11-digit NDC,NA,00024591102,2021-12-01,2099-12-31,NA
+36136818,0.67 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent],Drug,NDC,11-digit NDC,NA,00024591100,2021-12-01,2099-12-31,NA
+36173396,"dupilumab 300mg/2mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,c5f25917-9ffe-4d45-875a-ac314c28cc09,2017-03-28,2099-12-31,NA
+36175658,2 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent],Drug,NDC,11-digit NDC,NA,00024591402,2018-08-01,2099-12-31,NA
+36318407,0.67 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent],Drug,NDC,11-digit NDC,NA,00024591101,2022-12-01,2099-12-31,NA
+36351900,"dupilumab 300mg/2mL / 100mg/.67mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,250b4a7d-0ccc-4341-af0b-c48cc06af4b6,2017-03-28,2099-12-31,NA
+36418797,2 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent] Box of 6,Drug,RxNorm Extension,Quant Branded Box,S,OMOP4761101,2018-10-03,2099-12-31,NA
+36418798,2 ML dupilumab 150 MG/ML Prefilled Syringe Box of 6,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP4761102,2018-10-03,2099-12-31,NA
+36421208,dupilumab 150 MG/ML Prefilled Syringe [Dupixent] Box of 6,Drug,RxNorm Extension,Branded Drug Box,S,OMOP4763492,2018-10-03,2099-12-31,NA
+36421209,dupilumab 150 MG/ML Prefilled Syringe Box of 6,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP4763493,2018-10-03,2099-12-31,NA
+36476414,"dupilumab 300mg/2mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,e23c3c02-6f3f-425f-925a-781b74e979bc,2017-03-28,2099-12-31,NA
+36492981,"dupilumab 300mg/2mL SUBCUTANEOUS INJECTION, SOLUTION",Drug,NDC,9-digit NDC,NA,000245916,2017-03-28,2099-12-31,NA
+36497543,2 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent],Drug,NDC,11-digit NDC,NA,00024591601,2017-12-01,2022-05-01,D
+36502724,Dupilumab 300 MG/2ML Subcutaneous Solution Prefilled Syringe,Drug,GPI,GPI,NA,9027302000E520,2017-12-14,2099-12-31,NA
+36678303,Dupilumab only product,Drug,SNOMED,Pharma/Biol Product,NA,775714007,2019-01-31,2099-12-31,NA
+36681517,Dupilumab only product in parenteral dose form,Drug,SNOMED,Clinical Drug Form,NA,779084001,2019-01-31,2099-12-31,NA
+36840898,DUPILUMAB,Drug,OMOP Invest Drug,Ingredient,NA,420K487FSG,1970-01-01,2099-12-31,NA
+36870902,"dupilumab 300mg/2mL / 100mg/.67mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,0495c7d4-a900-4b9a-8e7a-8828382c4e7d,2017-03-28,2099-12-31,NA
+36923835,2 ML dupilumab 150 MG/ML Injectable Solution [Dupixent] Box of 2 by Sanofi Genzyme,Drug,RxNorm Extension,Marketed Product,S,OMOP5209076,2023-05-22,2099-12-31,NA
+36936795,2 ML dupilumab 150 MG/ML Injectable Solution [Dupixent] Box of 6 by Sanofi Genzyme,Drug,RxNorm Extension,Marketed Product,S,OMOP5209077,2023-05-22,2099-12-31,NA
+36945434,1.14 ML dupilumab 175 MG/ML Injectable Solution [Dupixent] by Sanofi Genzyme,Drug,RxNorm Extension,Marketed Product,S,OMOP5208613,2023-05-22,2099-12-31,NA
+36956226,1.14 ML dupilumab 175 MG/ML Injectable Solution [Dupixent] Box of 2 by Sanofi Genzyme,Drug,RxNorm Extension,Marketed Product,S,OMOP5208614,2023-05-22,2099-12-31,NA
+36959439,2 ML dupilumab 150 MG/ML Injectable Solution [Dupixent] by Sanofi Genzyme,Drug,RxNorm Extension,Marketed Product,S,OMOP5209075,2023-05-22,2099-12-31,NA
+37116683,Dupilumab,Drug,SNOMED,Substance,NA,733487000,2017-07-31,2099-12-31,NA
+37212100,Dupilumab 300mg/2ml solution for injection pre-filled syringes 6 pre-filled disposable injection,Drug,SNOMED,Pharma/Biol Product,NA,36826411000001102,2019-04-17,2099-12-31,NA
+37217607,Dupilumab 200mg/1.14ml solution for injection pre-filled syringes 2 pre-filled disposable injection,Drug,SNOMED,Pharma/Biol Product,NA,37424811000001104,2019-08-07,2099-12-31,NA
+37217895,Dupilumab 200mg/1.14ml solution for injection pre-filled syringes,Drug,SNOMED,Pharma/Biol Product,NA,37454411000001102,2019-08-07,2099-12-31,NA
+37285577,"dupilumab 300mg/2mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,a85b72fd-f2aa-4b3b-9d57-7301005c6e71,2017-03-28,2099-12-31,NA
+37291164,"dupilumab 300mg/2mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,960ae284-f2fc-4331-a9d5-d19fdd498c1e,2017-03-28,2099-12-31,NA
+37305523,Dupilumab 300mg/2ml solution for injection pre-filled disposable devices,Drug,SNOMED,Pharma/Biol Product,NA,38018811000001104,2020-01-22,2099-12-31,NA
+37305524,Dupilumab 200mg/1.14ml solution for injection pre-filled disposable devices,Drug,SNOMED,Pharma/Biol Product,NA,38018711000001107,2020-01-22,2099-12-31,NA
+37306091,Dupilumab 300mg/2ml solution for injection pre-filled disposable devices 2 pre-filled disposable injection,Drug,SNOMED,Pharma/Biol Product,NA,38013011000001103,2020-01-22,2099-12-31,NA
+37306098,Dupilumab 200mg/1.14ml solution for injection pre-filled disposable devices 2 pre-filled disposable injection,Drug,SNOMED,Pharma/Biol Product,NA,38012311000001105,2020-01-22,2099-12-31,NA
+37487588,Dupilumab,Drug,CTD,Ingredient,NA,1190264-60-8,1970-01-01,2099-12-31,NA
+37601051,"dupilumab 300mg/2mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,aebe1558-3827-4914-9be3-72fd1a86dd48,2017-03-28,2099-12-31,NA
+37618208,2 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent],Drug,NDC,11-digit NDC,NA,00024591400,2020-08-01,2099-12-31,NA
+37618209,2 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent],Drug,NDC,11-digit NDC,NA,00024591420,2020-08-01,2099-12-31,NA
+37618210,2 ML dupilumab 150 MG/ML Auto-Injector [Dupixent],Drug,NDC,11-digit NDC,NA,00024591500,2020-08-01,2099-12-31,NA
+37618211,2 ML dupilumab 150 MG/ML Auto-Injector [Dupixent],Drug,NDC,11-digit NDC,NA,00024591501,2020-08-01,2099-12-31,NA
+37618212,1.14 ML dupilumab 175 MG/ML Prefilled Syringe [Dupixent],Drug,NDC,11-digit NDC,NA,00024591800,2020-08-01,2099-12-31,NA
+37618213,1.14 ML dupilumab 175 MG/ML Prefilled Syringe [Dupixent],Drug,NDC,11-digit NDC,NA,00024591820,2020-08-01,2099-12-31,NA
+40697826,Dupilumab 300mg/2ml solution for injection pre-filled syringes 2 pre-filled disposable injection,Drug,dm+d,VMPP,NA,34951711000001104,1970-01-01,2099-12-31,NA
+40697827,Dupilumab 300mg/2ml solution for injection pre-filled syringes,Drug,dm+d,VMP,NA,34951611000001108,1970-01-01,2099-12-31,NA
+40697828,Dupilumab,Drug,dm+d,Ingredient,NA,733487000,1970-01-01,2099-12-31,NA
+40717508,2 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent] Box of 2 by Sanofi,Drug,RxNorm Extension,Marketed Product,S,OMOP4739793,2018-06-04,2099-12-31,NA
+40717509,2 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent] Box of 2,Drug,RxNorm Extension,Quant Branded Box,S,OMOP4739792,2018-06-04,2099-12-31,NA
+40717510,2 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent] by Sanofi,Drug,RxNorm Extension,Marketed Product,S,OMOP4739791,2018-06-04,2099-12-31,NA
+40717511,2 ML dupilumab 150 MG/ML Prefilled Syringe Box of 2,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP4739790,2018-06-04,2099-12-31,NA
+40717512,2 ML dupilumab 150 MG/ML Injectable Solution [Dupixent] Box of 2 by Sanofi,Drug,RxNorm Extension,Marketed Product,S,OMOP4739789,2018-06-04,2099-12-31,NA
+40717513,2 ML dupilumab 150 MG/ML Injectable Solution [Dupixent] Box of 2,Drug,RxNorm Extension,Quant Branded Box,S,OMOP4739788,2018-06-04,2099-12-31,NA
+40717514,2 ML dupilumab 150 MG/ML Injectable Solution [Dupixent] by Sanofi,Drug,RxNorm Extension,Marketed Product,S,OMOP4739787,2018-06-04,2099-12-31,NA
+40717515,2 ML dupilumab 150 MG/ML Injectable Solution [Dupixent],Drug,RxNorm Extension,Quant Branded Drug,S,OMOP4739786,2018-06-04,2099-12-31,NA
+40717516,2 ML dupilumab 150 MG/ML Injectable Solution Box of 2,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP4739785,2018-06-04,2099-12-31,NA
+40717517,2 ML dupilumab 150 MG/ML Injectable Solution,Drug,RxNorm Extension,Quant Clinical Drug,S,OMOP4739784,2018-06-04,2099-12-31,NA
+40744755,dupilumab 150 MG/ML Prefilled Syringe [Dupixent] Box of 2,Drug,RxNorm Extension,Branded Drug Box,S,OMOP4712356,2018-06-04,2099-12-31,NA
+40744756,dupilumab 150 MG/ML Prefilled Syringe Box of 2,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP4712355,2018-06-04,2099-12-31,NA
+40744757,dupilumab 150 MG/ML Injectable Solution [Dupixent] Box of 2,Drug,RxNorm Extension,Branded Drug Box,S,OMOP4712354,2018-06-04,2099-12-31,NA
+40744758,dupilumab 150 MG/ML Injectable Solution [Dupixent],Drug,RxNorm Extension,Branded Drug,S,OMOP4712353,2018-06-04,2099-12-31,NA
+40744759,dupilumab 150 MG/ML Injectable Solution Box of 2,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP4712352,2018-06-04,2099-12-31,NA
+40744760,dupilumab 150 MG/ML Injectable Solution,Drug,RxNorm Extension,Clinical Drug,S,OMOP4712351,2018-06-04,2099-12-31,NA
+40744761,dupilumab Injectable Solution [Dupixent],Drug,RxNorm Extension,Branded Drug Form,S,OMOP4712350,2018-06-04,2099-12-31,NA
+40744762,dupilumab Injectable Solution,Drug,RxNorm Extension,Clinical Drug Form,S,OMOP4712349,2018-06-04,2099-12-31,NA
+42532321,Dupilumab,Drug,SNOMED,Pharma/Biol Product,NA,34952011000001109,2017-12-27,2099-12-31,NA
+42532420,Dupilumab 300mg/2ml solution for injection pre-filled syringes,Drug,SNOMED,Pharma/Biol Product,NA,34951611000001108,2017-12-27,2099-12-31,NA
+42533538,Dupilumab 300mg/2ml solution for injection pre-filled syringes 2 pre-filled disposable injection,Drug,SNOMED,Pharma/Biol Product,NA,34951711000001104,2017-12-27,2099-12-31,NA
+42614447,dupilumab Injection,Drug,RxNorm Extension,Clinical Drug Form,S,OMOP5159521,2021-06-30,2099-12-31,NA
+42614448,dupilumab Injection [Dupixent],Drug,RxNorm Extension,Branded Drug Form,S,OMOP5159522,2021-06-30,2099-12-31,NA
+42635646,1.14 ML dupilumab 175 MG/ML Auto-Injector [Dupixent],Drug,NDC,11-digit NDC,NA,00024591901,2021-07-01,2099-12-31,NA
+42635706,1.14 ML dupilumab 175 MG/ML Auto-Injector [Dupixent],Drug,NDC,11-digit NDC,NA,00024591900,2021-07-01,2099-12-31,NA
+42646127,"dupilumab 300mg/2mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,f4faf136-7298-42fc-b85f-0b42bf4e2ae1,2017-03-28,2099-12-31,NA
+42757337,"Application of medications: Application of drugs List 10: Dupilumab, parenterally (machine translation)",Procedure,OPS,Procedure,NA,6-00a.5,2019-01-01,2099-12-31,NA
+42875476,dupilumab 175 MG/ML Prefilled Syringe Box of 2,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP4872590,2020-01-15,2099-12-31,NA
+42875477,dupilumab 175 MG/ML Prefilled Syringe Box of 6,Drug,RxNorm Extension,Clinical Drug Box,S,OMOP4872591,2020-01-15,2099-12-31,NA
+42875478,dupilumab 175 MG/ML Prefilled Syringe [Dupixent] Box of 2,Drug,RxNorm Extension,Branded Drug Box,S,OMOP4872592,2020-01-15,2099-12-31,NA
+42875479,dupilumab 175 MG/ML Prefilled Syringe [Dupixent] Box of 6,Drug,RxNorm Extension,Branded Drug Box,S,OMOP4872593,2020-01-15,2099-12-31,NA
+42876533,1.14 ML dupilumab 175 MG/ML Prefilled Syringe Box of 2,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP4873639,2020-01-15,2099-12-31,NA
+42876534,1.14 ML dupilumab 175 MG/ML Prefilled Syringe Box of 6,Drug,RxNorm Extension,Quant Clinical Box,S,OMOP4873640,2020-01-15,2099-12-31,NA
+42876535,1.14 ML dupilumab 175 MG/ML Prefilled Syringe [Dupixent] Box of 2,Drug,RxNorm Extension,Quant Branded Box,S,OMOP4873641,2020-01-15,2099-12-31,NA
+42876536,1.14 ML dupilumab 175 MG/ML Prefilled Syringe [Dupixent] Box of 2 by Sanofi,Drug,RxNorm Extension,Marketed Product,S,OMOP4873642,2020-01-15,2099-12-31,NA
+42876537,1.14 ML dupilumab 175 MG/ML Prefilled Syringe [Dupixent] Box of 6,Drug,RxNorm Extension,Quant Branded Box,S,OMOP4873643,2020-01-15,2099-12-31,NA
+42876538,1.14 ML dupilumab 175 MG/ML Prefilled Syringe [Dupixent] Box of 6 by Sanofi,Drug,RxNorm Extension,Marketed Product,S,OMOP4873644,2020-01-15,2099-12-31,NA
+43031787,Dupilumab,Drug,BDPM,Ingredient,NA,77447,1970-01-01,2099-12-31,NA
+43557164,"dupilumab 300mg/2mL / 200mg/1.14mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,bb41080c-b29b-4ff5-8566-154c6b3feee6,2017-03-28,2099-12-31,NA
+43557326,"dupilumab 300mg/2mL SUBCUTANEOUS INJECTION, SOLUTION",Drug,NDC,9-digit NDC,NA,000245915,2020-06-19,2099-12-31,NA
+43559109,2 ML dupilumab 150 MG/ML Auto-Injector [Dupixent],Drug,NDC,11-digit NDC,NA,00024591502,2020-07-01,2099-12-31,NA
+43559110,2 ML dupilumab 150 MG/ML Auto-Injector [Dupixent],Drug,NDC,11-digit NDC,NA,00024591520,2020-07-01,2099-12-31,NA
+44348959,"DUPIXENT - dupilumab injection, solution",Drug,SPL,Prescription Drug,C,595f437d-2729-40bb-9c62-c8ece1f82780,2023-07-20,2099-12-31,NA
+44393881,"dupilumab 300mg/2mL SUBCUTANEOUS INJECTION, SOLUTION [dupixent]",Drug,SPL,Prescription Drug,C,86b96b61-2578-4ca0-8dc9-b13aee0932d8,2017-03-28,2099-12-31,NA
+44416426,2 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent],Drug,NDC,11-digit NDC,NA,00024591401,2017-05-01,2099-12-31,NA
+44467224,"dupilumab 300mg/2mL SUBCUTANEOUS INJECTION, SOLUTION",Drug,NDC,9-digit NDC,NA,000245914,2017-03-28,2099-12-31,NA

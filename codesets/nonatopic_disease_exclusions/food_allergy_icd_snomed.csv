@@ -1,0 +1,109 @@
+concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason
+1576269,Food allergy status,Observation,ICD10CM,5-char nonbill code,NA,Z91.01,2012-01-01,2099-12-31,NA
+45542489,Allergy to peanuts,Observation,ICD10CM,6-char billing code,NA,Z91.010,1970-01-01,2099-12-31,NA
+45556879,Allergy to eggs,Observation,ICD10CM,6-char billing code,NA,Z91.012,1970-01-01,2099-12-31,NA
+45547375,Allergy to seafood,Observation,ICD10CM,6-char billing code,NA,Z91.013,1970-01-01,2099-12-31,NA
+766521,Allergy to mammalian meats,Observation,ICD10CM,6-char billing code,NA,Z91.014,2021-10-01,2099-12-31,NA
+45566473,Allergy to other foods,Observation,ICD10CM,6-char billing code,NA,Z91.018,1970-01-01,2099-12-31,NA
+45576214,Food additives allergy status,Observation,ICD10CM,5-char billing code,NA,Z91.02,1970-01-01,2099-12-31,NA
+43531614,History of peanut allergy,Observation,SNOMED,Context-dependent,NA,11000119105,2012-03-01,2015-01-31,D
+37395571,Allergy to pineapple,Observation,SNOMED,Clinical Finding,S,13511000122108,2016-07-31,2099-12-31,NA
+40302632,H/O: food allergy,Observation,SNOMED,Context-dependent,NA,138882009,1970-01-01,2002-01-31,D
+40317208,Egg allergy,Condition,SNOMED,Clinical Finding,NA,157802003,1970-01-01,2002-01-31,D
+40317209,Egg protein allergy,Condition,SNOMED,Clinical Finding,NA,157803008,1970-01-01,2002-01-31,U
+4049467,Cow's milk protein sensitivity,Observation,SNOMED,Clinical Finding,NA,15911003,2002-01-31,2019-01-31,D
+4058847,H/O: food allergy,Observation,SNOMED,Context-dependent,NA,161612000,2002-01-31,2015-01-31,D
+37395578,Allergy to mustard seasoning,Observation,SNOMED,Clinical Finding,S,21191000122102,2016-07-31,2099-12-31,NA
+40408940,Food allergy,Condition,SNOMED,Clinical Finding,NA,213018006,1970-01-01,2002-01-31,D
+40408941,Egg allergy,Condition,SNOMED,Clinical Finding,NA,213019003,1970-01-01,2002-01-31,D
+4020878,Allergy to egg protein,Observation,SNOMED,Clinical Finding,S,213020009,2002-01-31,2099-12-31,NA
+40408944,Peanut allergy,Condition,SNOMED,Clinical Finding,NA,213021008,1970-01-01,2002-01-31,U
+4093602,Soy protein sensitivity,Observation,SNOMED,Clinical Finding,NA,25868003,2002-01-31,2019-01-31,D
+40348558,Egg-free diet - allergy,Observation,SNOMED,Clinical Finding,NA,266932000,2002-01-31,2008-07-31,D
+4166653,Allergy to tryptophan,Observation,SNOMED,Clinical Finding,S,293842000,2002-01-31,2099-12-31,NA
+4167118,Allergy to glycine,Observation,SNOMED,Clinical Finding,S,294298002,2002-01-31,2099-12-31,NA
+4167293,Allergy to olive oil,Observation,SNOMED,Clinical Finding,S,294316000,2002-01-31,2099-12-31,NA
+4164713,Allergy to Arachis oil,Observation,SNOMED,Clinical Finding,S,294317009,2002-01-31,2099-12-31,NA
+4165164,Allergy to guar gum,Observation,SNOMED,Clinical Finding,S,294741005,2002-01-31,2099-12-31,NA
+4166330,Allergy to gelatin,Observation,SNOMED,Clinical Finding,S,294847001,2002-01-31,2099-12-31,NA
+4166327,Allergy to salmon calcitonin,Observation,SNOMED,Clinical Finding,S,294840004,2002-01-31,2099-12-31,NA
+4173371,Allergy to fish oil,Observation,SNOMED,Clinical Finding,S,294968004,2002-01-31,2099-12-31,NA
+4166470,Allergy to fish derived omega 3 fatty acid,Observation,SNOMED,Clinical Finding,S,294969007,2002-01-31,2099-12-31,NA
+4115227,Allergy to chocolate,Observation,SNOMED,Clinical Finding,S,300912001,2002-01-31,2099-12-31,NA
+433644,Allergy to shellfish,Observation,SNOMED,Clinical Finding,S,300913006,2002-01-31,2099-12-31,NA
+4115228,Allergy to cheese,Observation,SNOMED,Clinical Finding,S,300914000,2002-01-31,2099-12-31,NA
+44796875,Oral allergy syndrome,Condition,SNOMED,Clinical Finding,NA,311211000000101,2008-04-01,2017-04-01,U
+3574694,Wheat allergy,Condition,SNOMED,Clinical Finding,NA,339761000000102,1970-01-01,2008-10-01,U
+3574698,Wheat allergy,Observation,SNOMED,Undefined,NA,369131000000104,1970-01-01,2008-10-01,U
+40572561,Nut allergy,Condition,SNOMED,Clinical Finding,NA,395654004,1970-01-01,2003-01-31,U
+4250749,Allergy to pulse vegetable,Observation,SNOMED,Clinical Finding,S,409136006,2004-07-31,2099-12-31,NA
+4188027,Allergy to food,Observation,SNOMED,Clinical Finding,S,414285001,2005-01-31,2099-12-31,NA
+4213120,Gastrointestinal allergy to food,Observation,SNOMED,Clinical Finding,NA,414314005,2005-01-31,2020-07-31,D
+4219556,Gastrointestinal disorder due to food allergy,Condition,SNOMED,Clinical Finding,S,416389007,2005-07-31,2099-12-31,NA
+4219399,Allergy to fish,Observation,SNOMED,Clinical Finding,S,417532002,2005-07-31,2099-12-31,NA
+4168504,Allergy to pork,Observation,SNOMED,Clinical Finding,S,417918006,2006-01-31,2099-12-31,NA
+4166895,Allergy to cherry,Observation,SNOMED,Clinical Finding,S,418051002,2006-01-31,2099-12-31,NA
+4168655,Allergy to citrus fruit,Observation,SNOMED,Clinical Finding,S,418085001,2006-01-31,2099-12-31,NA
+4303546,Allergy to rye,Observation,SNOMED,Clinical Finding,S,418184004,2006-01-31,2099-12-31,NA
+4301927,Allergy to apple juice,Observation,SNOMED,Clinical Finding,NA,418314004,2006-01-31,2020-07-31,D
+4303683,Allergy to cinnamon,Observation,SNOMED,Clinical Finding,S,418397007,2006-01-31,2099-12-31,NA
+4302189,Allergy to almond oil,Observation,SNOMED,Clinical Finding,S,418606003,2006-01-31,2099-12-31,NA
+4305694,Allergy to lobster,Observation,SNOMED,Clinical Finding,S,418626004,2006-01-31,2099-12-31,NA
+4302227,Allergy to tomato,Observation,SNOMED,Clinical Finding,S,418779002,2006-01-31,2099-12-31,NA
+4302339,Allergy to red meat,Observation,SNOMED,Clinical Finding,S,418815008,2006-01-31,2099-12-31,NA
+4168824,Allergy to seed,Observation,SNOMED,Clinical Finding,S,419101002,2006-01-31,2099-12-31,NA
+4302489,Allergy to watermelon,Observation,SNOMED,Clinical Finding,S,419298007,2006-01-31,2099-12-31,NA
+4304872,Allergy to oat,Observation,SNOMED,Clinical Finding,S,419342009,2006-01-31,2099-12-31,NA
+4305041,Allergy to corn,Observation,SNOMED,Clinical Finding,S,419573007,2006-01-31,2099-12-31,NA
+4303099,Allergy to potato,Observation,SNOMED,Clinical Finding,S,419619007,2006-01-31,2099-12-31,NA
+4170754,Allergy to coconut oil,Observation,SNOMED,Clinical Finding,S,419814004,2006-01-31,2099-12-31,NA
+4168958,Allergy to oyster,Observation,SNOMED,Clinical Finding,S,419967000,2006-01-31,2099-12-31,NA
+4303541,Allergy to shrimp,Observation,SNOMED,Clinical Finding,S,419972009,2006-01-31,2099-12-31,NA
+4170922,Allergy to carrot,Observation,SNOMED,Clinical Finding,S,420080006,2006-01-31,2099-12-31,NA
+4169137,Allergy to wheat,Observation,SNOMED,Clinical Finding,S,420174000,2006-01-31,2099-12-31,NA
+4139681,Allergy to dairy food,Observation,SNOMED,Clinical Finding,NA,425525006,2007-07-31,2021-01-31,D
+4177367,History of allergy to seafood,Observation,SNOMED,Context-dependent,NA,428392002,2008-01-31,2015-01-31,D
+4202273,Pollen-food allergy,Observation,SNOMED,Clinical Finding,S,432807008,2008-07-31,2099-12-31,NA
+40487498,Allergy to dietary mushroom,Observation,SNOMED,Clinical Finding,S,447961002,2011-07-31,2099-12-31,NA
+3574703,Fish allergy,Condition,SNOMED,Clinical Finding,NA,509081000000101,1970-01-01,2009-10-01,U
+3574704,Seafood allergy,Observation,SNOMED,Undefined,NA,509851000000101,2009-10-01,2016-04-01,U
+3574705,Fish allergy,Observation,SNOMED,Undefined,NA,509871000000105,2009-10-01,2016-04-01,U
+3574706,Shellfish allergy,Observation,SNOMED,Undefined,NA,509881000000107,2009-10-01,2016-04-01,U
+3574707,Shellfish allergy,Observation,SNOMED,Undefined,NA,509891000000109,2009-10-01,2016-04-01,U
+3574708,Fish allergy,Observation,SNOMED,Undefined,NA,509901000000105,2009-10-01,2016-04-01,U
+3574712,Seafood allergy,Observation,SNOMED,Undefined,NA,510341000000101,2009-10-01,2016-04-01,U
+40605827,Gastrointestinal food allergy,Condition,SNOMED,Clinical Finding,NA,52332009,2002-01-31,2005-01-31,D
+37395627,Allergy to casein,Observation,SNOMED,Clinical Finding,S,5611000122107,2016-07-31,2099-12-31,NA
+45766689,Allergy to clam,Observation,SNOMED,Clinical Finding,S,703911000,2015-01-31,2099-12-31,NA
+45766703,Allergy to bean,Observation,SNOMED,Clinical Finding,S,703925004,2015-01-31,2099-12-31,NA
+45766707,Allergy to beef,Observation,SNOMED,Clinical Finding,S,703930000,2015-01-31,2099-12-31,NA
+45766708,Allergy to meat,Observation,SNOMED,Clinical Finding,S,703931001,2015-01-31,2099-12-31,NA
+45766709,Allergy to chicken meat,Observation,SNOMED,Clinical Finding,S,703932008,2015-01-31,2099-12-31,NA
+37016732,Allergy to cashew nut,Observation,SNOMED,Clinical Finding,S,712838009,2016-01-31,2099-12-31,NA
+37018984,Allergy to almond,Observation,SNOMED,Clinical Finding,S,712839001,2016-01-31,2099-12-31,NA
+37016733,Allergy to hazelnut,Observation,SNOMED,Clinical Finding,S,712840004,2016-01-31,2099-12-31,NA
+37016734,Allergy to barley,Observation,SNOMED,Clinical Finding,S,712841000,2016-01-31,2099-12-31,NA
+37016735,Allergy to mollusk,Observation,SNOMED,Clinical Finding,S,712842007,2016-01-31,2099-12-31,NA
+37016736,Allergy to celery,Observation,SNOMED,Clinical Finding,S,712843002,2016-01-31,2099-12-31,NA
+37016737,Allergy to macadamia nut,Observation,SNOMED,Clinical Finding,S,712844008,2016-01-31,2099-12-31,NA
+37016738,Allergy to lupine,Observation,SNOMED,Clinical Finding,NA,712845009,2016-01-31,2019-01-31,D
+37017711,Allergy to soy,Observation,SNOMED,Clinical Finding,NA,714035009,2016-01-31,2019-01-31,D
+37017854,Allergy to marine crustacean,Observation,SNOMED,Clinical Finding,NA,714205005,2016-01-31,2018-07-31,D
+37017954,Allergy to banana,Observation,SNOMED,Clinical Finding,S,714332003,2016-01-31,2099-12-31,NA
+42538808,History of food allergy,Observation,SNOMED,Context-dependent,NA,762616007,2018-01-31,2099-12-31,NA
+3574731,Allergy to mushroom,Observation,SNOMED,Clinical Finding,NA,771231000000101,2011-04-01,2011-10-03,U
+36674595,Allergy to cow's milk protein,Observation,SNOMED,Clinical Finding,S,782555009,2019-01-31,2099-12-31,NA
+36684362,Allergy to lupine seed,Observation,SNOMED,Clinical Finding,S,782575000,2019-01-31,2099-12-31,NA
+36684378,Allergy to soy protein,Observation,SNOMED,Clinical Finding,S,782594005,2019-01-31,2099-12-31,NA
+3574741,Allergy to strawberries,Observation,SNOMED,Undefined,NA,831681000000104,1970-01-01,2012-04-01,U
+3667030,Allergy to apple,Observation,SNOMED,Clinical Finding,S,860604008,2020-07-31,2099-12-31,NA
+442116,Allergy to edible egg,Observation,SNOMED,Clinical Finding,NA,91930004,2002-01-31,2020-07-31,D
+442115,Allergy to fruit,Observation,SNOMED,Clinical Finding,S,91932007,2002-01-31,2099-12-31,NA
+438614,Allergy to nut,Observation,SNOMED,Clinical Finding,S,91934008,2002-01-31,2099-12-31,NA
+4240902,Allergy to peanut,Observation,SNOMED,Clinical Finding,S,91935009,2002-01-31,2099-12-31,NA
+4239721,Allergy to seafood,Observation,SNOMED,Clinical Finding,S,91937001,2002-01-31,2099-12-31,NA
+4240647,Allergy to strawberry,Observation,SNOMED,Clinical Finding,S,91938006,2002-01-31,2099-12-31,NA
+4240904,Allergy to walnut,Observation,SNOMED,Clinical Finding,S,91940001,2002-01-31,2099-12-31,NA
+45770055,Allergy to banana,Observation,SNOMED,Clinical Finding,NA,922181000000106,2014-10-01,2016-04-01,U
+3574754,Allergy to tomato,Condition,SNOMED,Clinical Finding,NA,981221000000103,1970-01-01,2015-10-01,U
+3574755,Allergy to tomato,Observation,SNOMED,Undefined,NA,981231000000101,1970-01-01,2015-10-01,U

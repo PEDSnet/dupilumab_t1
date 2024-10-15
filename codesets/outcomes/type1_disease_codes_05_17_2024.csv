@@ -1,0 +1,1408 @@
+﻿concept_id,concept_code,concept_name,vocabulary_id,outcome_set_id,outcome_set_name
+194992,396331005,Celiac disease,SNOMED,1,Celiac Disease
+4027109,197478000,Congenital celiac disease,SNOMED,1,Celiac Disease
+4059313,197481005,Celiac disease NOS,SNOMED,1,Celiac Disease
+4170117,275404008,Celiac rickets,SNOMED,1,Celiac Disease
+4218370,396330006,Celiac crisis,SNOMED,1,Celiac Disease
+4241413,91867008,Adult form of celiac disease,SNOMED,1,Celiac Disease
+4267871,61715008,Celiac disease with diffuse intestinal ulceration,SNOMED,1,Celiac Disease
+35208401,K90.0,Celiac disease,ICD10CM,1,Celiac Disease
+36674761,770593004,Refractory celiac disease,SNOMED,1,Celiac Disease
+36716394,722386009,Celiac disease with epilepsy and cerebral calcification syndrome,SNOMED,1,Celiac Disease
+40317606,155842007,Coeliac disease,SNOMED,1,Celiac Disease
+40346344,266478000,Coeliac disease,SNOMED,1,Celiac Disease
+40394273,197477005,(Celiac: [disease] or [rickets]) or (Gee-Herter disease),SNOMED,1,Celiac Disease
+40440962,23829007,Celiac disease,SNOMED,1,Celiac Disease
+45586745,K90.0,Coeliac disease,ICD10,1,Celiac Disease
+194684,7620006,Crohn's disease of large bowel,SNOMED,2,Crohns Disease
+195575,71833008,Crohn's disease of small AND large intestines,SNOMED,2,Crohns Disease
+195585,56689002,Crohn's disease of small intestine,SNOMED,2,Crohns Disease
+201606,34000006,Crohn's disease,SNOMED,2,Crohns Disease
+1569610,K50,Crohn's disease [regional enteritis],ICD10CM,2,Crohns Disease
+1569611,K50.0,Crohn's disease of small intestine,ICD10CM,2,Crohns Disease
+1569612,K50.01,Crohn's disease of small intestine with complications,ICD10CM,2,Crohns Disease
+1569613,K50.1,Crohn's disease of large intestine,ICD10CM,2,Crohns Disease
+1569614,K50.11,Crohn's disease of large intestine with complications,ICD10CM,2,Crohns Disease
+1569615,K50.8,Crohn's disease of both small and large intestine,ICD10CM,2,Crohns Disease
+1569616,K50.81,Crohn's disease of both small and large intestine with complications,ICD10CM,2,Crohns Disease
+1569617,K50.9,"Crohn's disease, unspecified",ICD10CM,2,Crohns Disease
+1569618,K50.91,"Crohn's disease, unspecified, with complications",ICD10CM,2,Crohns Disease
+3520555,6.25E+14,Crohn's disease of the large bowel NOS,SNOMED,2,Crohns Disease
+3523642,1.76E+14,Exacerbation of Crohn's disease of small intestine,SNOMED,2,Crohns Disease
+3523643,1.76E+14,Exacerbation of Crohn's disease of large intestine,SNOMED,2,Crohns Disease
+3537245,6.33E+14,Crohn's disease of the ileum unspecified,SNOMED,2,Crohns Disease
+4025852,196984001,Regional enteritis NOS,SNOMED,2,Crohns Disease
+4055020,196977009,Crohn's disease of terminal ileum,SNOMED,2,Crohns Disease
+4055021,196979007,Crohn's disease of the ileum NOS,SNOMED,2,Crohns Disease
+4055022,196980005,Crohn's disease of the small bowel NOS,SNOMED,2,Crohns Disease
+4055884,196578009,Crohn's disease of oral soft tissues,SNOMED,2,Crohns Disease
+4057681,196978004,Crohn's disease of the ileum unspecified,SNOMED,2,Crohns Disease
+4115377,201805000,Juvenile arthritis in Crohn disease,SNOMED,2,Crohns Disease
+4116143,201728006,Arthropathy in Crohn's disease,SNOMED,2,Crohns Disease
+4122617,234999001,Crohn's disease of gingivae,SNOMED,2,Crohns Disease
+4131542,413276006,Crohn's stricture of colon,SNOMED,2,Crohns Disease
+4148249,266446008,Crohn's disease of the large bowel NOS,SNOMED,2,Crohns Disease
+4177488,50440006,Crohn's disease of colon,SNOMED,2,Crohns Disease
+4210469,56287005,Crohn's disease of duodenum,SNOMED,2,Crohns Disease
+4212991,414153008,Exacerbation of Crohn's disease of large intestine,SNOMED,2,Crohns Disease
+4212992,414154002,Exacerbation of Crohn's disease of small intestine,SNOMED,2,Crohns Disease
+4239382,91390005,Crohn's disease of jejunum,SNOMED,2,Crohns Disease
+4242392,3815005,Crohn's disease of rectum,SNOMED,2,Crohns Disease
+4244235,38106008,Crohn's disease of ileum,SNOMED,2,Crohns Disease
+4246693,397173003,Crohn's disease of intestine,SNOMED,2,Crohns Disease
+4253620,410485009,Iritis with Crohn's disease,SNOMED,2,Crohns Disease
+4264850,397172008,Gastrointestinal Crohn's disease,SNOMED,2,Crohns Disease
+4266370,61424003,Crohn's disease of pylorus,SNOMED,2,Crohns Disease
+4290835,399946006,Crohn's disease of skin,SNOMED,2,Crohns Disease
+4292361,402377001,Crohn's disease of scrotum,SNOMED,2,Crohns Disease
+4297643,402375009,Crohn's disease of vulva,SNOMED,2,Crohns Disease
+4297644,402378006,Metastatic Crohn's disease of skin,SNOMED,2,Crohns Disease
+4299294,402376005,Crohn's disease of penis,SNOMED,2,Crohns Disease
+4323289,70622003,Crohn's disease of pyloric antrum,SNOMED,2,Crohns Disease
+4340114,235607002,Crohn's disease of esophagus,SNOMED,2,Crohns Disease
+4340812,235796008,Perianal Crohn's disease,SNOMED,2,Crohns Disease
+4342643,235664007,Crohn's disease of stomach,SNOMED,2,Crohns Disease
+36686095,1.07E+16,Crohn's disease of small intestine with stenosis,SNOMED,2,Crohns Disease
+36715915,721702009,Crohn disease of anal canal,SNOMED,2,Crohns Disease
+36716695,722850002,Crohn's disease of gastrointestinal anastomosis,SNOMED,2,Crohns Disease
+36716986,8.16E+12,Arthritis co-occurrent and due to Crohn's disease,SNOMED,2,Crohns Disease
+37111373,726101009,Extraintestinal Crohn's,SNOMED,2,Crohns Disease
+37116446,733157003,Crohn disease of appendix,SNOMED,2,Crohns Disease
+37116713,733533008,Perianal fistula due to Crohn's disease,SNOMED,2,Crohns Disease
+40317139,155760003,Crohn's disease (& [regional enteritis]),SNOMED,2,Crohns Disease
+40317141,155761004,Regional enteritis of small bowel,SNOMED,2,Crohns Disease
+40317142,155762006,Regional enteritis of the large bowel,SNOMED,2,Crohns Disease
+40317143,155763001,Regional enteritis NOS,SNOMED,2,Crohns Disease
+40346388,266517004,Crohn's disease (& [regional enteritis]),SNOMED,2,Crohns Disease
+40362687,278522007,Regional enteritis,SNOMED,2,Crohns Disease
+40392438,196975001,Enteritis: [regional-Crohn's disease] or [granulomatous],SNOMED,2,Crohns Disease
+40392445,196981009,Regional enteritis of the large bowel,SNOMED,2,Crohns Disease
+40392446,196982002,(Crohn's colitis) or (Crohn's disease of the large bowel NOS),SNOMED,2,Crohns Disease
+42537666,737195007,Crohn disease of upper gastrointestinal tract,SNOMED,2,Crohns Disease
+42616693,M07.40,"Arthropathy in Crohn disease [regional enteritis], multiple sites",ICD10,2,Crohns Disease
+42616694,M07.41,"Arthropathy in Crohn disease [regional enteritis], shoulder region",ICD10,2,Crohns Disease
+42616695,M07.43,"Arthropathy in Crohn disease [regional enteritis], forearm",ICD10,2,Crohns Disease
+42616696,M07.44,"Arthropathy in Crohn disease [regional enteritis], hand",ICD10,2,Crohns Disease
+42616697,M07.45,"Arthropathy in Crohn disease [regional enteritis], pelvic region and thigh",ICD10,2,Crohns Disease
+42616698,M07.46,"Arthropathy in Crohn disease [regional enteritis], lower leg",ICD10,2,Crohns Disease
+42616699,M07.47,"Arthropathy in Crohn disease [regional enteritis], ankle and foot",ICD10,2,Crohns Disease
+42616700,M07.48,"Arthropathy in Crohn disease [regional enteritis], other",ICD10,2,Crohns Disease
+42616701,M07.49,"Arthropathy in Crohn disease [regional enteritis], site unspecified",ICD10,2,Crohns Disease
+42616798,M09.10,"Juvenile arthritis in Crohn disease [regional enteritis], multiple sites",ICD10,2,Crohns Disease
+42616799,M09.11,"Juvenile arthritis in Crohn disease [regional enteritis], shoulder region",ICD10,2,Crohns Disease
+42616800,M09.12,"Juvenile arthritis in Crohn disease [regional enteritis], upper arm",ICD10,2,Crohns Disease
+42616801,M09.13,"Juvenile arthritis in Crohn disease [regional enteritis], forearm",ICD10,2,Crohns Disease
+42616802,M09.14,"Juvenile arthritis in Crohn disease [regional enteritis], hand",ICD10,2,Crohns Disease
+42616803,M09.15,"Juvenile arthritis in Crohn disease [regional enteritis], pelvic region and thigh",ICD10,2,Crohns Disease
+42616804,M09.16,"Juvenile arthritis in Crohn disease [regional enteritis], lower leg",ICD10,2,Crohns Disease
+42616805,M09.17,"Juvenile arthritis in Crohn disease [regional enteritis], ankle and foot",ICD10,2,Crohns Disease
+42616806,M09.18,"Juvenile arthritis in Crohn disease [regional enteritis], other",ICD10,2,Crohns Disease
+42616807,M09.19,"Juvenile arthritis in Crohn disease [regional enteritis], site unspecified",ICD10,2,Crohns Disease
+42619384,M07.42,"Arthropathy in Crohn disease [regional enteritis], upper arm",ICD10,2,Crohns Disease
+44800114,4.56E+14,[X]Other Crohn's disease,SNOMED,2,Crohns Disease
+45533598,K50.00,Crohn's disease of small intestine without complications,ICD10CM,2,Crohns Disease
+45533599,K50.8,Other Crohn disease,ICD10,2,Crohns Disease
+45533600,K50.812,Crohn's disease of both small and large intestine with intestinal obstruction,ICD10CM,2,Crohns Disease
+45533601,K50.814,Crohn's disease of both small and large intestine with abscess,ICD10CM,2,Crohns Disease
+45538530,K50.019,Crohn's disease of small intestine with unspecified complications,ICD10CM,2,Crohns Disease
+45543315,K50.012,Crohn's disease of small intestine with intestinal obstruction,ICD10CM,2,Crohns Disease
+45543316,K50.913,"Crohn's disease, unspecified, with fistula",ICD10CM,2,Crohns Disease
+45548159,K50.113,Crohn's disease of large intestine with fistula,ICD10CM,2,Crohns Disease
+45548286,M09.1,Juvenile arthritis in Crohn disease [regional enteritis],ICD10,2,Crohns Disease
+45557653,K50.014,Crohn's disease of small intestine with abscess,ICD10CM,2,Crohns Disease
+45557654,K50.912,"Crohn's disease, unspecified, with intestinal obstruction",ICD10CM,2,Crohns Disease
+45562489,K50.119,Crohn's disease of large intestine with unspecified complications,ICD10CM,2,Crohns Disease
+45562490,K50.9,"Crohn disease, unspecified",ICD10,2,Crohns Disease
+45562491,K50.914,"Crohn's disease, unspecified, with abscess",ICD10CM,2,Crohns Disease
+45567306,K50.811,Crohn's disease of both small and large intestine with rectal bleeding,ICD10CM,2,Crohns Disease
+45567307,K50.911,"Crohn's disease, unspecified, with rectal bleeding",ICD10CM,2,Crohns Disease
+45572211,K50.919,"Crohn's disease, unspecified, with unspecified complications",ICD10CM,2,Crohns Disease
+45576986,K50.10,Crohn's disease of large intestine without complications,ICD10CM,2,Crohns Disease
+45576987,K50.112,Crohn's disease of large intestine with intestinal obstruction,ICD10CM,2,Crohns Disease
+45576988,K50.918,"Crohn's disease, unspecified, with other complication",ICD10CM,2,Crohns Disease
+45577121,M07.4,Arthropathy in Crohn disease [regional enteritis],ICD10,2,Crohns Disease
+45581901,K50.118,Crohn's disease of large intestine with other complication,ICD10CM,2,Crohns Disease
+45581902,K50.819,Crohn's disease of both small and large intestine with unspecified complications,ICD10CM,2,Crohns Disease
+45586716,K50.018,Crohn's disease of small intestine with other complication,ICD10CM,2,Crohns Disease
+45591593,K50.013,Crohn's disease of small intestine with fistula,ICD10CM,2,Crohns Disease
+45596324,K50.0,Crohn disease of small intestine,ICD10,2,Crohns Disease
+45596325,K50.111,Crohn's disease of large intestine with rectal bleeding,ICD10CM,2,Crohns Disease
+45596326,K50.114,Crohn's disease of large intestine with abscess,ICD10CM,2,Crohns Disease
+45596327,K50.80,Crohn's disease of both small and large intestine without complications,ICD10CM,2,Crohns Disease
+45601172,K50.011,Crohn's disease of small intestine with rectal bleeding,ICD10CM,2,Crohns Disease
+45601173,K50.1,Crohn disease of large intestine,ICD10,2,Crohns Disease
+45601174,K50.813,Crohn's disease of both small and large intestine with fistula,ICD10CM,2,Crohns Disease
+45601175,K50.818,Crohn's disease of both small and large intestine with other complication,ICD10CM,2,Crohns Disease
+45601176,K50.90,"Crohn's disease, unspecified, without complications",ICD10CM,2,Crohns Disease
+45755435,K50,Crohn disease [regional enteritis],ICD10,2,Crohns Disease
+46269874,1.09E+15,Complication due to Crohn's disease of large intestine,SNOMED,2,Crohns Disease
+46269875,1.09E+15,Fistula of large intestine due to Crohn's disease,SNOMED,2,Crohns Disease
+46269876,1.09E+15,Intestinal obstruction due to Crohn's disease of large intestine,SNOMED,2,Crohns Disease
+46269877,1.09E+15,Rectal hemorrhage due to Crohn's disease of large intestine,SNOMED,2,Crohns Disease
+46269878,1.09E+15,Abscess of intestine co-occurrent and due to Crohn's disease of small and large intestine,SNOMED,2,Crohns Disease
+46269879,1.09E+15,Complication due to Crohn's disease of small and large intestines,SNOMED,2,Crohns Disease
+46269880,1.09E+15,Fistula of intestine due to Crohn's disease of small and large intestine,SNOMED,2,Crohns Disease
+46269881,1.09E+15,Intestinal obstruction due to Crohn's disease of small and large intestine,SNOMED,2,Crohns Disease
+46269882,1.09E+15,Rectal hemorrhage due to Crohn's disease of small and large intestines,SNOMED,2,Crohns Disease
+46269883,1.09E+15,Abscess of intestine co-occurrent and due to Crohn's disease of small intestine,SNOMED,2,Crohns Disease
+46269884,1.09E+15,Complication due to Crohn's disease of small intestine,SNOMED,2,Crohns Disease
+46269885,1.09E+15,Fistula of small intestine due to Crohn's disease,SNOMED,2,Crohns Disease
+46269886,1.09E+15,Intestinal obstruction due to Crohn's disease of small intestine,SNOMED,2,Crohns Disease
+46269887,1.09E+15,Rectal hemorrhage due to Crohn's disease of small intestine,SNOMED,2,Crohns Disease
+46269888,1.09E+15,Abscess of intestine co-occurrent and due to Crohn's disease,SNOMED,2,Crohns Disease
+46269889,1.09E+15,Complication due to Crohn's disease,SNOMED,2,Crohns Disease
+46269890,1.09E+15,Intestinal obstruction due to Crohn's disease,SNOMED,2,Crohns Disease
+46269891,1.09E+15,Rectal hemorrhage due to Crohn's disease,SNOMED,2,Crohns Disease
+46274073,1.09E+15,Abscess of intestine co-occurrent and due to Crohn's disease of large intestine,SNOMED,2,Crohns Disease
+75614,200976008,Acrodermatitis continua,SNOMED,3,Psoriasis
+140168,9014002,Psoriasis,SNOMED,3,Psoriasis
+1569777,L40,Psoriasis,ICD10CM,3,Psoriasis
+3540121,6.75E+14,Other psoriasis and similar disorders,SNOMED,3,Psoriasis
+3540122,6.75E+14,Psoriasis and similar disorders NOS,SNOMED,3,Psoriasis
+3555308,3.08E+14,Chronic large plaque psoriasis,SNOMED,3,Psoriasis
+3555309,3.08E+14,Psoriasis vulgaris,SNOMED,3,Psoriasis
+3558044,6.75E+14,Psoriasis unspecified,SNOMED,3,Psoriasis
+3558139,6.93E+14,Other psoriasis,SNOMED,3,Psoriasis
+3558981,8.04E+14,Pustular psoriasis,SNOMED,3,Psoriasis
+3559607,8.56E+14,Palmoplantar pustular psoriasis,SNOMED,3,Psoriasis
+3560183,8.91E+14,Flexural psoriasis,SNOMED,3,Psoriasis
+3572243,1.23E+14,Scalp psoriasis,SNOMED,3,Psoriasis
+3584444,6.93E+14,Psoriasis NOS,SNOMED,3,Psoriasis
+4009501,111188005,Psoriasiform napkin eruption,SNOMED,3,Psoriasis
+4031140,238605006,Psoriatic nail dystrophy,SNOMED,3,Psoriasis
+4031141,238608008,Scalp psoriasis,SNOMED,3,Psoriasis
+4031141,238608008,Psoriasis of scalp,SNOMED,3,Psoriasis
+4031142,238612002,Generalized pustular psoriasis,SNOMED,3,Psoriasis
+4031143,238616004,Infantile pustular psoriasis,SNOMED,3,Psoriasis
+4031645,238600001,Flexural psoriasis,SNOMED,3,Psoriasis
+4031646,238601002,Unstable psoriasis,SNOMED,3,Psoriasis
+4031647,238602009,Psoriasis with eczema,SNOMED,3,Psoriasis
+4031648,238603004,Eczematized psoriasis,SNOMED,3,Psoriasis
+4031649,238604005,Psoriasis of nail,SNOMED,3,Psoriasis
+4031650,238606007,Psoriatic nail pitting,SNOMED,3,Psoriasis
+4031651,238609000,K√∂bner psoriasis,SNOMED,3,Psoriasis
+4031652,238614001,Pustular psoriasis in children,SNOMED,3,Psoriasis
+4033783,238611009,Lapiere type of psoriasis,SNOMED,3,Psoriasis
+4033784,238615000,Juvenile pustular psoriasis,SNOMED,3,Psoriasis
+4033785,238617008,Circinate and annular pustular psoriasis,SNOMED,3,Psoriasis
+4035742,239813000,Psoriatic dactylitis,SNOMED,3,Psoriasis
+4063430,200963002,Psoriasis circinata,SNOMED,3,Psoriasis
+4063431,200965009,Plaque psoriasis,SNOMED,3,Psoriasis
+4063432,200969003,Rupioid psoriasis,SNOMED,3,Psoriasis
+4063433,200970002,Psoriasis palmaris,SNOMED,3,Psoriasis
+4063434,200973000,Pustular psoriasis,SNOMED,3,Psoriasis
+4064056,200996000,Other psoriasis and similar disorders,SNOMED,3,Psoriasis
+4066485,200964008,Psoriasis diffusa,SNOMED,3,Psoriasis
+4066486,200966005,Psoriasis geographica,SNOMED,3,Psoriasis
+4066487,200967001,Psoriasis gyrata,SNOMED,3,Psoriasis
+4066488,200974006,Psoriasis universalis,SNOMED,3,Psoriasis
+4066828,200960004,Other psoriasis,SNOMED,3,Psoriasis
+4066829,200961000,Psoriasis unspecified,SNOMED,3,Psoriasis
+4066830,200962007,Psoriasis annularis,SNOMED,3,Psoriasis
+4066831,200968006,Psoriasis inveterata,SNOMED,3,Psoriasis
+4066832,200972005,Psoriasis punctata,SNOMED,3,Psoriasis
+4067059,200984007,Parapsoriasis papulata,SNOMED,3,Psoriasis
+4067061,200997009,Psoriasis and similar disorders NOS,SNOMED,3,Psoriasis
+4079734,239803008,Juvenile psoriatic arthritis with psoriasis,SNOMED,3,Psoriasis
+4080933,238564003,Psoriasiform eczema,SNOMED,3,Psoriasis
+4093619,25847004,Seborrheic psoriasis,SNOMED,3,Psoriasis
+4100184,27520001,Pustular psoriasis of palms and soles,SNOMED,3,Psoriasis
+4100487,27620007,Spongiotic psoriasiform dermatitis,SNOMED,3,Psoriasis
+4103079,28840001,"Generalized pustular psoriasis, exanthematous type",SNOMED,3,Psoriasis
+4132495,410482007,Iritis in psoriatic arthritis,SNOMED,3,Psoriasis
+4179347,52230004,Psoriasiform dermatitis,SNOMED,3,Psoriasis
+4217927,81271001,Localized pustular psoriasis,SNOMED,3,Psoriasis
+4219879,400069004,Nevoid psoriasis,SNOMED,3,Psoriasis
+4223485,402314003,Psoriasis of vulva,SNOMED,3,Psoriasis
+4240836,58143000,Localized acrodermatitis continua of Hallopeau,SNOMED,3,Psoriasis
+4243163,38360005,Generalized pustular psoriasis of von Zumbush,SNOMED,3,Psoriasis
+4270744,402308005,Chronic small plaque psoriasis,SNOMED,3,Psoriasis
+4270745,402309002,Chronic guttate pattern psoriasis,SNOMED,3,Psoriasis
+4270746,402311006,Actively extending plaque psoriasis,SNOMED,3,Psoriasis
+4270747,402313009,Guttate flare of psoriasis with preexisting plaques,SNOMED,3,Psoriasis
+4270748,402321003,Non-pustular psoriasis of hands,SNOMED,3,Psoriasis
+4270751,402334002,Late onset psoriasis type 2,SNOMED,3,Psoriasis
+4270752,402337009,Familial psoriasis without affected first degree relative,SNOMED,3,Psoriasis
+4278464,36639000,Psoriasiform rash,SNOMED,3,Psoriasis
+4284492,37042000,Guttate psoriasis,SNOMED,3,Psoriasis
+4292222,402307000,Chronic large plaque psoriasis,SNOMED,3,Psoriasis
+4292223,402317005,Generalized psoriasis,SNOMED,3,Psoriasis
+4292224,402318000,Photoaggravated psoriasis,SNOMED,3,Psoriasis
+4292225,402322005,Hypertrophic palmar psoriasis,SNOMED,3,Psoriasis
+4292226,402323000,Hypertrophic palmoplantar psoriasis,SNOMED,3,Psoriasis
+4292227,402324006,Non-pustular psoriasis of hands and feet,SNOMED,3,Psoriasis
+4292229,402328009,Childhood pustular psoriasis,SNOMED,3,Psoriasis
+4292230,402329001,Early onset psoriasis type 1,SNOMED,3,Psoriasis
+4297496,402320002,Psoriasis of face,SNOMED,3,Psoriasis
+4297497,402326008,Acute generalized pustular psoriasis de novo,SNOMED,3,Psoriasis
+4297498,402331005,Onset of psoriasis in childhood (1-10 years),SNOMED,3,Psoriasis
+4299280,402310007,Chronic stable plaque psoriasis,SNOMED,3,Psoriasis
+4299281,402312004,Acute guttate psoriasis,SNOMED,3,Psoriasis
+4299282,402315002,Psoriasis of penis,SNOMED,3,Psoriasis
+4299283,402316001,Psoriasis of perianal skin,SNOMED,3,Psoriasis
+4299284,402319008,Psoriasis of scalp margin,SNOMED,3,Psoriasis
+4299285,402327004,Acute generalized pustular flare of preexisting plaque psoriasis,SNOMED,3,Psoriasis
+4299286,402332003,Onset of psoriasis in adolescence (10-20 years),SNOMED,3,Psoriasis
+4307925,200975007,Psoriasis vulgaris,SNOMED,3,Psoriasis
+4307927,200977004,Erythrodermic psoriasis,SNOMED,3,Psoriasis
+35208505,L40.0,Psoriasis vulgaris,ICD10CM,3,Psoriasis
+35208506,L40.1,Generalized pustular psoriasis,ICD10CM,3,Psoriasis
+35208508,L40.3,Pustulosis palmaris et plantaris,ICD10CM,3,Psoriasis
+35208509,L40.4,Guttate psoriasis,ICD10CM,3,Psoriasis
+35208510,L40.8,Other psoriasis,ICD10CM,3,Psoriasis
+35208511,L40.9,"Psoriasis, unspecified",ICD10CM,3,Psoriasis
+35208707,L94.5,Poikiloderma vasculare atrophicans,ICD10CM,3,Psoriasis
+36715780,721538000,Psoriasis of anogenital region,SNOMED,3,Psoriasis
+37204307,782910009,Seborrhea-like dermatitis with psoriasiform elements,SNOMED,3,Psoriasis
+37205057,784328000,Pustular psoriasis of palm of hand,SNOMED,3,Psoriasis
+40319771,156369008,Psoriasis,SNOMED,3,Psoriasis
+40319772,156370009,Psoriatic arthritis,SNOMED,3,Psoriasis
+40319774,156371008,(Psoriasis NOS) or (guttate psoriasis) or (parapsoriasis),SNOMED,3,Psoriasis
+40352951,267851002,(Psoriasis NOS) or (guttate psoriasis) or (parapsoriasis),SNOMED,3,Psoriasis
+40396288,200901002,Pustular psoriasis,SNOMED,3,Psoriasis
+40396347,200955003,Psoriasis and similar disorders,SNOMED,3,Psoriasis
+40397930,201373001,[X]Other psoriasis,SNOMED,3,Psoriasis
+40400229,201804001,Juvenile psoriatic arthritis with psoriasis,SNOMED,3,Psoriasis
+40442039,238610005,Acropustulosis,SNOMED,3,Psoriasis
+40604878,56210000,Psoriasis vulgaris,SNOMED,3,Psoriasis
+44783158,699207005,Arthritis of pelvis,SNOMED,3,Psoriasis
+44795599,4.14E+14,[X]Other psoriasis,SNOMED,3,Psoriasis
+44801884,5.09E+14,Poikiloderma vasculare atrophicans,SNOMED,3,Psoriasis
+45533641,L40.9,"Psoriasis, unspecified",ICD10,3,Psoriasis
+45543370,L40.0,Psoriasis vulgaris,ICD10,3,Psoriasis
+45552978,L40.1,Generalized pustular psoriasis,ICD10,3,Psoriasis
+45552979,L40.2,Acrodermatitis continua,ICD10,3,Psoriasis
+45567355,L40.8,Other psoriasis,ICD10,3,Psoriasis
+45567356,L41.5,Retiform parapsoriasis,ICD10,3,Psoriasis
+45577035,L40,Psoriasis,ICD10,3,Psoriasis
+45577036,L40.4,Guttate psoriasis,ICD10,3,Psoriasis
+45591634,L40.3,Pustulosis palmaris et plantaris,ICD10,3,Psoriasis
+45606017,L94.5,Poikiloderma vasculare atrophicans,ICD10,3,Psoriasis
+45773387,702617007,Acute generalized exanthematous pustulosis,SNOMED,3,Psoriasis
+257628,55464009,Systemic lupus erythematosus,SNOMED,4,Lupus
+1570612,M32,Systemic lupus erythematosus (SLE),ICD10CM,4,Lupus
+1570613,M32.1,Systemic lupus erythematosus with organ or system involvement,ICD10CM,4,Lupus
+3534705,5.93E+14,Systemic lupus erythematosus NOS,SNOMED,4,Lupus
+3543618,7.58E+14,Cerebral lupus,SNOMED,4,Lupus
+4002526,11013005,"SLE glomerulonephritis syndrome, WHO class VI",SNOMED,4,Lupus
+4055640,196138005,Lung disease with systemic lupus erythematosus,SNOMED,4,Lupus
+4057084,19682006,Lupus hepatitis,SNOMED,4,Lupus
+4065370,201439005,Systemic lupus erythematosus NOS,SNOMED,4,Lupus
+4101469,25380002,Pericarditis secondary to systemic lupus erythematosus,SNOMED,4,Lupus
+4145240,307755009,Renal tubulo-interstitial disorder in systemic lupus erythematosus,SNOMED,4,Lupus
+4149913,309762007,Systemic lupus erythematosus with pericarditis,SNOMED,4,Lupus
+4178133,52042003,"SLE glomerulonephritis syndrome, WHO class V",SNOMED,4,Lupus
+4186940,4676006,"SLE glomerulonephritis syndrome, WHO class II",SNOMED,4,Lupus
+4217054,417303004,Retinal vasculitis due to systemic lupus erythematosus,SNOMED,4,Lupus
+4250483,73286009,"SLE glomerulonephritis syndrome, WHO class I",SNOMED,4,Lupus
+4267801,36402006,"SLE glomerulonephritis syndrome, WHO class IV",SNOMED,4,Lupus
+4269448,36471000,Dilated cardiomyopathy secondary to systemic lupus erythematosus,SNOMED,4,Lupus
+4269448,36471000,Dilated cardiomyopathy due to systemic lupus erythematosus,SNOMED,4,Lupus
+4285717,68815009,SLE glomerulonephritis syndrome,SNOMED,4,Lupus
+4295179,403486000,Acute systemic lupus erythematosus,SNOMED,4,Lupus
+4296502,403487009,Fulminating systemic lupus erythematosus,SNOMED,4,Lupus
+4297164,76521009,"SLE glomerulonephritis syndrome, WHO class III",SNOMED,4,Lupus
+4299106,77753005,Lupus disease of the lung,SNOMED,4,Lupus
+4301051,403488004,Systemic lupus erythematosus of childhood,SNOMED,4,Lupus
+4316215,95408003,Systemic lupus erythematosus arthritis,SNOMED,4,Lupus
+4318863,95644001,Systemic lupus erythematosus encephalitis,SNOMED,4,Lupus
+4319305,95332009,Rash of systemic lupus erythematosus,SNOMED,4,Lupus
+4320480,69746005,Hemolytic anemia associated with systemic lupus erythematosus,SNOMED,4,Lupus
+4344158,239887007,Systemic lupus erythematosus with organ/system involvement,SNOMED,4,Lupus
+4344400,239890001,Systemic lupus erythematosus with multisystem involvement,SNOMED,4,Lupus
+4346976,239889005,Bullous systemic lupus erythematosus,SNOMED,4,Lupus
+35208826,M32.8,Other forms of systemic lupus erythematosus,ICD10CM,4,Lupus
+35208827,M32.9,"Systemic lupus erythematosus, unspecified",ICD10CM,4,Lupus
+36676444,773333003,Autosomal systemic lupus erythematosus,SNOMED,4,Lupus
+37016279,3.09E+14,Glomerular disease due to systemic lupus erythematosus,SNOMED,4,Lupus
+37016279,3.09E+14,Glomerular disease due to systemic lupus erythematosus,SNOMED,4,Lupus
+37110504,724767000,Chorea co-occurrent and due to systemic lupus erythematosus,SNOMED,4,Lupus
+37110517,724781003,Demyelination of central nervous system co-occurrent and due to systemic lupus erythematosus,SNOMED,4,Lupus
+37117740,732960002,Secondary autoimmune hemolytic anemia co-occurrent and due to systemic lupus erythematosus,SNOMED,4,Lupus
+37395585,2.95E+14,Nephrotic syndrome co-occurrent and due to systemic lupus erythematosus,SNOMED,4,Lupus
+37395585,2.95E+14,Nephrotic syndrome co-occurrent and due to systemic lupus erythematosus,SNOMED,4,Lupus
+37399735,2.95E+14,Nephrosis co-occurrent and due to systemic lupus erythematosus,SNOMED,4,Lupus
+37399735,2.95E+14,Nephrosis co-occurrent and due to systemic lupus erythematosus,SNOMED,4,Lupus
+40320278,156450004,Systemic lupus erythematosus,SNOMED,4,Lupus
+40395089,197608009,(Nephrotic syndrome in systemic lupus erythematosus) or (lupus nephritis),SNOMED,4,Lupus
+40395597,197746009,Renal tubulo-interstitial disorder in systemic lupus erythematosus,SNOMED,4,Lupus
+40405484,201435004,Systemic lupus erythematosus,SNOMED,4,Lupus
+40405486,201437007,Systemic lupus erythematosus with organ/system involvement,SNOMED,4,Lupus
+40405487,201438002,Systemic lupus erythematosus with pericarditis,SNOMED,4,Lupus
+44784527,698694005,Systemic lupus erythematosus in remission,SNOMED,4,Lupus
+44795579,4.09E+14,[X]Other forms of systemic lupus erythematosus,SNOMED,4,Lupus
+45533825,M32,Systemic lupus erythematosus,ICD10,4,Lupus
+45553167,M32.9,"Systemic lupus erythematosus, unspecified",ICD10,4,Lupus
+45562708,M32.1,Systemic lupus erythematosus with organ or system involvement,ICD10,4,Lupus
+45562709,M32.14,Glomerular disease in systemic lupus erythematosus,ICD10CM,4,Lupus
+45567545,M32.13,Lung involvement in systemic lupus erythematosus,ICD10CM,4,Lupus
+45572445,M32.8,Other forms of systemic lupus erythematosus,ICD10,4,Lupus
+45582126,M32.10,"Systemic lupus erythematosus, organ or system involvement unspecified",ICD10CM,4,Lupus
+45591820,M32.15,Tubulo-interstitial nephropathy in systemic lupus erythematosus,ICD10CM,4,Lupus
+45601433,M32.11,Endocarditis in systemic lupus erythematosus,ICD10CM,4,Lupus
+45601434,M32.12,Pericarditis in systemic lupus erythematosus,ICD10CM,4,Lupus
+45606214,M32.19,Other organ or system involvement in systemic lupus erythematosus,ICD10CM,4,Lupus
+46270384,2.95E+14,Nephropathy co-occurrent and due to systemic lupus erythematosus,SNOMED,4,Lupus
+46270384,2.95E+14,Nephropathy co-occurrent and due to systemic lupus erythematosus,SNOMED,4,Lupus
+46273369,7.22E+13,Endocarditis due to systemic lupus erythematosus,SNOMED,4,Lupus
+46273369,7.22E+13,Endocarditis due to systemic lupus erythematosus,SNOMED,4,Lupus
+198995,190371008,Type 1 diabetes mellitus - poor control,SNOMED,5,Type 1 Diabetes
+200687,421893009,Renal disorder due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+201254,46635009,Type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+201531,190330002,Hyperosmolar coma due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+318712,421365002,Peripheral circulatory disorder due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+373999,421165007,Diabetic oculopathy associated with type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+376114,312905005,Severe nonproliferative retinopathy due to diabetes mellitus,SNOMED,5,Type 1 Diabetes
+377821,421468001,Disorder of nervous system due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+380097,312912001,Macular edema due to diabetes mellitus,SNOMED,5,Type 1 Diabetes
+435216,420868002,Disorder due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+439770,420270002,Ketoacidosis due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+442793,74627003,Complication due to diabetes mellitus,SNOMED,5,Type 1 Diabetes
+443412,313435000,Type 1 diabetes mellitus without complication,SNOMED,5,Type 1 Diabetes
+443592,428896009,Hyperosmolality due to uncontrolled type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+443735,420662003,Coma due to diabetes mellitus,SNOMED,5,Type 1 Diabetes
+1409105,E10,Type 1 diabetes mellitus,ICD10CN,5,Type 1 Diabetes
+1409111,E10.1,"Type 1 diabetes mellitus, With ketoacidosis",ICD10CN,5,Type 1 Diabetes
+1409116,E10.2,"Type 1 diabetes mellitus, With renal complications",ICD10CN,5,Type 1 Diabetes
+1409119,E10.3,"Type 1 diabetes mellitus, With ophthalmic complications",ICD10CN,5,Type 1 Diabetes
+1409124,E10.4,"Type 1 diabetes mellitus, With neurological complications",ICD10CN,5,Type 1 Diabetes
+1409131,E10.5,"Type 1 diabetes mellitus, With peripheral circulatory complications",ICD10CN,5,Type 1 Diabetes
+1409138,E10.6,"Type 1 diabetes mellitus, With other specified complications",ICD10CN,5,Type 1 Diabetes
+1409145,E10.8,"Type 1 diabetes mellitus, With unspecified complications",ICD10CN,5,Type 1 Diabetes
+1409147,E10.9,"Type 1 diabetes mellitus, Without complications",ICD10CN,5,Type 1 Diabetes
+1567940,E10,Type 1 diabetes mellitus,ICD10CM,5,Type 1 Diabetes
+1567941,E10.1,Type 1 diabetes mellitus with ketoacidosis,ICD10CM,5,Type 1 Diabetes
+1567942,E10.2,Type 1 diabetes mellitus with kidney complications,ICD10CM,5,Type 1 Diabetes
+1567943,E10.3,Type 1 diabetes mellitus with ophthalmic complications,ICD10CM,5,Type 1 Diabetes
+1567944,E10.31,Type 1 diabetes mellitus with unspecified diabetic retinopathy,ICD10CM,5,Type 1 Diabetes
+1567945,E10.32,Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy,ICD10CM,5,Type 1 Diabetes
+1567946,E10.33,Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy,ICD10CM,5,Type 1 Diabetes
+1567947,E10.34,Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy,ICD10CM,5,Type 1 Diabetes
+1567948,E10.35,Type 1 diabetes mellitus with proliferative diabetic retinopathy,ICD10CM,5,Type 1 Diabetes
+1567949,E10.4,Type 1 diabetes mellitus with neurological complications,ICD10CM,5,Type 1 Diabetes
+1567950,E10.5,Type 1 diabetes mellitus with circulatory complications,ICD10CM,5,Type 1 Diabetes
+1567951,E10.6,Type 1 diabetes mellitus with other specified complications,ICD10CM,5,Type 1 Diabetes
+1567952,E10.61,Type 1 diabetes mellitus with diabetic arthropathy,ICD10CM,5,Type 1 Diabetes
+1567953,E10.62,Type 1 diabetes mellitus with skin complications,ICD10CM,5,Type 1 Diabetes
+1567954,E10.63,Type 1 diabetes mellitus with oral complications,ICD10CM,5,Type 1 Diabetes
+1567955,E10.64,Type 1 diabetes mellitus with hypoglycemia,ICD10CM,5,Type 1 Diabetes
+3519205,3.00E+14,Diabetes mellitus type I diet education,SNOMED,5,Type 1 Diabetes
+3522463,4.35E+13,Type I diabetes mellitus,SNOMED,5,Type 1 Diabetes
+3522464,4.36E+13,Type I diabetes mellitus with multiple complications,SNOMED,5,Type 1 Diabetes
+3522465,4.36E+13,Type I diabetes mellitus with ulcer,SNOMED,5,Type 1 Diabetes
+3522467,4.37E+13,Type I diabetes mellitus with polyneuropathy,SNOMED,5,Type 1 Diabetes
+3522468,4.37E+13,Type I diabetes mellitus with arthropathy,SNOMED,5,Type 1 Diabetes
+3522630,4.75E+13,Type I diabetes mellitus,SNOMED,5,Type 1 Diabetes
+3522660,5.02E+13,Type I diabetes mellitus,SNOMED,5,Type 1 Diabetes
+3522661,5.02E+13,Type I diabetes mellitus with arthropathy,SNOMED,5,Type 1 Diabetes
+3522920,8.29E+13,Type I diabetes mellitus with ulcer,SNOMED,5,Type 1 Diabetes
+3522921,8.29E+13,Type I diabetes mellitus with retinopathy,SNOMED,5,Type 1 Diabetes
+3522922,8.29E+13,Type I diabetes mellitus maturity onset,SNOMED,5,Type 1 Diabetes
+3522923,8.29E+13,Type I diabetes mellitus without complication,SNOMED,5,Type 1 Diabetes
+3522924,8.30E+13,Type I diabetes mellitus with polyneuropathy,SNOMED,5,Type 1 Diabetes
+3522925,8.30E+13,Type I diabetes mellitus with hypoglycaemic coma,SNOMED,5,Type 1 Diabetes
+3522926,8.30E+13,Type I diabetes mellitus with peripheral angiopathy,SNOMED,5,Type 1 Diabetes
+3524295,2.14E+14,Type 1 diabetes mellitus with gastroparesis,SNOMED,5,Type 1 Diabetes
+3550738,4.36E+13,Unstable type I diabetes mellitus,SNOMED,5,Type 1 Diabetes
+3550872,5.02E+13,Type I diabetes mellitus - poor control,SNOMED,5,Type 1 Diabetes
+3550980,7.84E+13,Type 1 diabetes mellitus with ketoacidosis,SNOMED,5,Type 1 Diabetes
+3551088,8.29E+13,Unstable type I diabetes mellitus,SNOMED,5,Type 1 Diabetes
+3551089,8.30E+13,Type 1 diabetes mellitus with persistent microalbuminuria,SNOMED,5,Type 1 Diabetes
+3551090,8.30E+13,Type 1 diabetes mellitus with ketoacidotic coma,SNOMED,5,Type 1 Diabetes
+3570232,1.99E+14,Type 1 diabetes mellitus with gastroparesis,SNOMED,5,Type 1 Diabetes
+3571423,1.04E+14,Type 1 diabetes mellitus with exudative maculopathy,SNOMED,5,Type 1 Diabetes
+3572827,4.35E+14,Ankle ulcer associated with type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+3572830,4.36E+13,Type I diabetes mellitus maturity onset,SNOMED,5,Type 1 Diabetes
+3572831,4.36E+13,Type I diabetes mellitus without complication,SNOMED,5,Type 1 Diabetes
+3572832,4.37E+13,Type I diabetes mellitus with hypoglycaemic coma,SNOMED,5,Type 1 Diabetes
+4009303,111556005,Diabetic ketoacidosis without coma,SNOMED,5,Type 1 Diabetes
+4047906,23045005,Insulin dependent diabetes mellitus type 1A,SNOMED,5,Type 1 Diabetes
+4063042,199229001,Pre-existing type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+4096668,190369008,Type 1 diabetes mellitus with gangrene,SNOMED,5,Type 1 Diabetes
+4099214,190368000,Type 1 diabetes mellitus with ulcer,SNOMED,5,Type 1 Diabetes
+4099215,190372001,Type 1 diabetes mellitus maturity onset,SNOMED,5,Type 1 Diabetes
+4102018,28032008,Insulin dependent diabetes mellitus type 1B,SNOMED,5,Type 1 Diabetes
+4128019,290002008,Brittle type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+4131908,127014009,Peripheral angiopathy due to diabetes mellitus,SNOMED,5,Type 1 Diabetes
+4137214,425442003,Diabetic autonomic neuropathy associated with type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+4143689,426907004,Small vessel disease due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+4143857,427571000,Lumbosacral radiculoplexus neuropathy due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+4151281,314771006,Type 1 diabetes mellitus with hypoglycemic coma,SNOMED,5,Type 1 Diabetes
+4152858,314893005,Type 1 diabetes mellitus with arthropathy,SNOMED,5,Type 1 Diabetes
+4200873,314894004,Type 1 diabetes mellitus with neuropathic arthropathy,SNOMED,5,Type 1 Diabetes
+4221344,420486006,Exudative maculopathy due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+4222553,420514000,Persistent proteinuria due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+4222687,421305000,Persistent microalbuminuria due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+4223303,420825003,Gangrene due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+4224254,421075007,Ketoacidotic coma due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+4224709,422228004,Multiple complications due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+4224723,422297002,Polyneuropathy associated with type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+4225055,420918009,Mononeuropathy due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+4225656,421920002,Cataract due to diabetes mellitus type 1,SNOMED,5,Type 1 Diabetes
+4227210,420789003,Retinopathy due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+4228112,421437000,Hypoglycemic coma due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+4295011,401110002,Type 1 diabetes mellitus with persistent microalbuminuria,SNOMED,5,Type 1 Diabetes
+4312138,425159004,Diabetic gastroparesis associated with type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+4324885,429094000,Dietary education for type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+35206878,E10.8,Type 1 diabetes mellitus with unspecified complications,ICD10CM,5,Type 1 Diabetes
+35206879,E10.9,Type 1 diabetes mellitus without complications,ICD10CM,5,Type 1 Diabetes
+37016179,1.39E+14,Mild nonproliferative retinopathy due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+37016180,1.39E+14,Moderate nonproliferative retinopathy due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+37016348,3.68E+14,Hyperglycemia due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+37016353,3.69E+14,Dyslipidemia due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+37016767,712882000,Autonomic neuropathy due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+37017429,713702000,Gastroparesis due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+37017431,713705003,Polyneuropathy due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+37018566,7.18E+13,Peripheral neuropathy due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+37200141,E10.3211,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, right eye",ICD10CM,5,Type 1 Diabetes
+37200142,E10.3212,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, left eye",ICD10CM,5,Type 1 Diabetes
+37200143,E10.3213,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, bilateral",ICD10CM,5,Type 1 Diabetes
+37200144,E10.3219,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, unspecified eye",ICD10CM,5,Type 1 Diabetes
+37200145,E10.3291,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, right eye",ICD10CM,5,Type 1 Diabetes
+37200146,E10.3292,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, left eye",ICD10CM,5,Type 1 Diabetes
+37200147,E10.3293,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, bilateral",ICD10CM,5,Type 1 Diabetes
+37200148,E10.3299,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, unspecified eye",ICD10CM,5,Type 1 Diabetes
+37200149,E10.3311,"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, right eye",ICD10CM,5,Type 1 Diabetes
+37200150,E10.3312,"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, left eye",ICD10CM,5,Type 1 Diabetes
+37200151,E10.3313,"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, bilateral",ICD10CM,5,Type 1 Diabetes
+37200152,E10.3319,"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, unspecified eye",ICD10CM,5,Type 1 Diabetes
+37200153,E10.3391,"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, right eye",ICD10CM,5,Type 1 Diabetes
+37200154,E10.3392,"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, left eye",ICD10CM,5,Type 1 Diabetes
+37200155,E10.3393,"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, bilateral",ICD10CM,5,Type 1 Diabetes
+37200156,E10.3399,"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, unspecified eye",ICD10CM,5,Type 1 Diabetes
+37200157,E10.3411,"Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, right eye",ICD10CM,5,Type 1 Diabetes
+37200158,E10.3412,"Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, left eye",ICD10CM,5,Type 1 Diabetes
+37200159,E10.3413,"Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, bilateral",ICD10CM,5,Type 1 Diabetes
+37200160,E10.3419,"Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, unspecified eye",ICD10CM,5,Type 1 Diabetes
+37200161,E10.3491,"Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, right eye",ICD10CM,5,Type 1 Diabetes
+37200162,E10.3492,"Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, left eye",ICD10CM,5,Type 1 Diabetes
+37200163,E10.3493,"Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, bilateral",ICD10CM,5,Type 1 Diabetes
+37200164,E10.3499,"Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, unspecified eye",ICD10CM,5,Type 1 Diabetes
+37200165,E10.3511,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema, right eye",ICD10CM,5,Type 1 Diabetes
+37200166,E10.3512,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema, left eye",ICD10CM,5,Type 1 Diabetes
+37200167,E10.3513,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema, bilateral",ICD10CM,5,Type 1 Diabetes
+37200168,E10.3519,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema, unspecified eye",ICD10CM,5,Type 1 Diabetes
+37200169,E10.352,Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula,ICD10CM,5,Type 1 Diabetes
+37200170,E10.3521,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, right eye",ICD10CM,5,Type 1 Diabetes
+37200171,E10.3522,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, left eye",ICD10CM,5,Type 1 Diabetes
+37200172,E10.3523,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, bilateral",ICD10CM,5,Type 1 Diabetes
+37200173,E10.3529,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, unspecified eye",ICD10CM,5,Type 1 Diabetes
+37200174,E10.353,Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula,ICD10CM,5,Type 1 Diabetes
+37200175,E10.3531,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, right eye",ICD10CM,5,Type 1 Diabetes
+37200176,E10.3532,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, left eye",ICD10CM,5,Type 1 Diabetes
+37200177,E10.3533,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, bilateral",ICD10CM,5,Type 1 Diabetes
+37200178,E10.3539,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, unspecified eye",ICD10CM,5,Type 1 Diabetes
+37200179,E10.354,Type 1 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment,ICD10CM,5,Type 1 Diabetes
+37200180,E10.3541,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, right eye",ICD10CM,5,Type 1 Diabetes
+37200181,E10.3542,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, left eye",ICD10CM,5,Type 1 Diabetes
+37200182,E10.3543,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, bilateral",ICD10CM,5,Type 1 Diabetes
+37200183,E10.3549,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, unspecified eye",ICD10CM,5,Type 1 Diabetes
+37200184,E10.355,Type 1 diabetes mellitus with stable proliferative diabetic retinopathy,ICD10CM,5,Type 1 Diabetes
+37200185,E10.3551,"Type 1 diabetes mellitus with stable proliferative diabetic retinopathy, right eye",ICD10CM,5,Type 1 Diabetes
+37200186,E10.3552,"Type 1 diabetes mellitus with stable proliferative diabetic retinopathy, left eye",ICD10CM,5,Type 1 Diabetes
+37200187,E10.3553,"Type 1 diabetes mellitus with stable proliferative diabetic retinopathy, bilateral",ICD10CM,5,Type 1 Diabetes
+37200188,E10.3559,"Type 1 diabetes mellitus with stable proliferative diabetic retinopathy, unspecified eye",ICD10CM,5,Type 1 Diabetes
+37200189,E10.3591,"Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema, right eye",ICD10CM,5,Type 1 Diabetes
+37200190,E10.3592,"Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema, left eye",ICD10CM,5,Type 1 Diabetes
+37200191,E10.3593,"Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema, bilateral",ICD10CM,5,Type 1 Diabetes
+37200192,E10.3599,"Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema, unspecified eye",ICD10CM,5,Type 1 Diabetes
+37312201,789571005,Ulcer of heel due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+40321135,154673001,Diabetes mellitus: [juvenile] or [insulin dependent],SNOMED,5,Type 1 Diabetes
+40350833,267469001,Diabetes mellitus: [juvenile] or [insulin dependent],SNOMED,5,Type 1 Diabetes
+40386356,190325001,"Diabetes mellitus, juvenile type, with ketoacidosis",SNOMED,5,Type 1 Diabetes
+40386366,190334006,"Diabetes mellitus, juvenile type, with ketoacidotic coma",SNOMED,5,Type 1 Diabetes
+40386728,190339001,"Diabetes mellitus, juvenile type, with renal manifestation",SNOMED,5,Type 1 Diabetes
+40386741,190350003,"Diabetes mellitus, juvenile type, with neurological manifestation",SNOMED,5,Type 1 Diabetes
+40386746,190355008,"Diabetes mellitus, juvenile type, with peripheral circulatory disorder",SNOMED,5,Type 1 Diabetes
+40386749,190358005,IDDM with peripheral circulatory disorder,SNOMED,5,Type 1 Diabetes
+40386754,190362004,Type I diabetes mellitus,SNOMED,5,Type 1 Diabetes
+40386755,190363009,Type I diabetes mellitus with renal complications,SNOMED,5,Type 1 Diabetes
+40386757,190365002,Type I diabetes mellitus with neurological complications,SNOMED,5,Type 1 Diabetes
+40386758,190366001,Type I diabetes mellitus with multiple complications,SNOMED,5,Type 1 Diabetes
+40386759,190367005,Unstable type I diabetes mellitus,SNOMED,5,Type 1 Diabetes
+40386762,190370009,Type I diabetes mellitus with retinopathy,SNOMED,5,Type 1 Diabetes
+40386766,190373006,Type I diabetes mellitus without complication,SNOMED,5,Type 1 Diabetes
+40386767,190374000,Type I diabetes mellitus with mononeuropathy,SNOMED,5,Type 1 Diabetes
+40386768,190375004,Type I diabetes mellitus with polyneuropathy,SNOMED,5,Type 1 Diabetes
+40386769,190376003,Type I diabetes mellitus with nephropathy,SNOMED,5,Type 1 Diabetes
+40386770,190377007,Type I diabetes mellitus with hypoglycemic coma,SNOMED,5,Type 1 Diabetes
+40386771,190378002,Type I diabetes mellitus with diabetic cataract,SNOMED,5,Type 1 Diabetes
+40386772,190379005,Type I diabetes mellitus with peripheral angiopathy,SNOMED,5,Type 1 Diabetes
+40386773,190380008,Type 1 diabetes mellitus with arthropathy,SNOMED,5,Type 1 Diabetes
+40386775,190381007,Type I diabetes mellitus with neuropathic arthropathy,SNOMED,5,Type 1 Diabetes
+40484648,444073006,Type 1 diabetes mellitus uncontrolled,SNOMED,5,Type 1 Diabetes
+40484649,444074000,Type 1 diabetes mellitus well controlled,SNOMED,5,Type 1 Diabetes
+40518515,314368001,Type I diabetes mellitus with mononeuropathy,SNOMED,5,Type 1 Diabetes
+40518516,314369009,Type I diabetes mellitus with polyneuropathy,SNOMED,5,Type 1 Diabetes
+40518525,314377008,Type I diabetes mellitus with nephropathy,SNOMED,5,Type 1 Diabetes
+40520430,314887002,Type I diabetes mellitus with diabetic cataract,SNOMED,5,Type 1 Diabetes
+40520436,314892000,Type I diabetes mellitus with peripheral angiopathy,SNOMED,5,Type 1 Diabetes
+40543500,371054002,Type 1 diabetes mellitus with complication,SNOMED,5,Type 1 Diabetes
+40543501,371055001,Type I diabetes mellitus with ketoacidosis,SNOMED,5,Type 1 Diabetes
+40575609,401109007,Type 1 diabetes mellitus with persistent proteinuria,SNOMED,5,Type 1 Diabetes
+40584359,408287009,Type 1 diabetes mellitus with exudative maculopathy,SNOMED,5,Type 1 Diabetes
+42538169,739681000,Disorder of eye due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+43530657,1.56E+12,Diabetic peripheral neuropathy associated with type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+43530660,1.57E+12,Mixed hyperlipidemia due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+44810563,8.88E+14,Type I diabetes mellitus in remission,SNOMED,5,Type 1 Diabetes
+44819501,250.63,"Diabetes with neurological manifestations, type I [juvenile type], uncontrolled",ICD9CM,5,Type 1 Diabetes
+44819502,250.73,"Diabetes with peripheral circulatory disorders, type I [juvenile type], uncontrolled",ICD9CM,5,Type 1 Diabetes
+44819504,250.93,"Diabetes with unspecified complication, type I [juvenile type], uncontrolled",ICD9CM,5,Type 1 Diabetes
+44820682,250.01,"Diabetes mellitus without mention of complication, type I [juvenile type], not stated as uncontrolled",ICD9CM,5,Type 1 Diabetes
+44820683,250.33,"Diabetes with other coma, type I [juvenile type], uncontrolled",ICD9CM,5,Type 1 Diabetes
+44820684,250.53,"Diabetes with ophthalmic manifestations, type I [juvenile type], uncontrolled",ICD9CM,5,Type 1 Diabetes
+44821787,250.03,"Diabetes mellitus without mention of complication, type I [juvenile type], uncontrolled",ICD9CM,5,Type 1 Diabetes
+44822934,250.13,"Diabetes with ketoacidosis, type I [juvenile type], uncontrolled",ICD9CM,5,Type 1 Diabetes
+44822935,250.41,"Diabetes with renal manifestations, type I [juvenile type], not stated as uncontrolled",ICD9CM,5,Type 1 Diabetes
+44822936,250.51,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled",ICD9CM,5,Type 1 Diabetes
+44824071,250.11,"Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled",ICD9CM,5,Type 1 Diabetes
+44825264,250.71,"Diabetes with peripheral circulatory disorders, type I [juvenile type], not stated as uncontrolled",ICD9CM,5,Type 1 Diabetes
+44829881,250.91,"Diabetes with unspecified complication, type I [juvenile type], not stated as uncontrolled",ICD9CM,5,Type 1 Diabetes
+44831046,250.61,"Diabetes with neurological manifestations, type I [juvenile type], not stated as uncontrolled",ICD9CM,5,Type 1 Diabetes
+44832190,250.21,"Diabetes with hyperosmolarity, type I [juvenile type], not stated as uncontrolled",ICD9CM,5,Type 1 Diabetes
+44832191,250.23,"Diabetes with hyperosmolarity, type I [juvenile type], uncontrolled",ICD9CM,5,Type 1 Diabetes
+44833368,250.83,"Diabetes with other specified manifestations, type I [juvenile type], uncontrolled",ICD9CM,5,Type 1 Diabetes
+44834549,250.43,"Diabetes with renal manifestations, type I [juvenile type], uncontrolled",ICD9CM,5,Type 1 Diabetes
+44836918,250.81,"Diabetes with other specified manifestations, type I [juvenile type], not stated as uncontrolled",ICD9CM,5,Type 1 Diabetes
+45533016,E10.4,"Type 1 diabetes mellitus, With neurological complications",ICD10,5,Type 1 Diabetes
+45533017,E10.43,Type 1 diabetes mellitus with diabetic autonomic (poly)neuropathy,ICD10CM,5,Type 1 Diabetes
+45533018,E10.65,Type 1 diabetes mellitus with hyperglycemia,ICD10CM,5,Type 1 Diabetes
+45537958,E10.349,Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema,ICD10CM,5,Type 1 Diabetes
+45537959,E10.6,"Type 1 diabetes mellitus, With other specified complications",ICD10,5,Type 1 Diabetes
+45537960,E10.618,Type 1 diabetes mellitus with other diabetic arthropathy,ICD10CM,5,Type 1 Diabetes
+45542735,E10.1,"Type 1 diabetes mellitus, With ketoacidosis",ICD10,5,Type 1 Diabetes
+45542736,E10.319,Type 1 diabetes mellitus with unspecified diabetic retinopathy without macular edema,ICD10CM,5,Type 1 Diabetes
+45542737,E10.52,Type 1 diabetes mellitus with diabetic peripheral angiopathy with gangrene,ICD10CM,5,Type 1 Diabetes
+45547621,E10.22,Type 1 diabetes mellitus with diabetic chronic kidney disease,ICD10CM,5,Type 1 Diabetes
+45547622,E10.51,Type 1 diabetes mellitus with diabetic peripheral angiopathy without gangrene,ICD10CM,5,Type 1 Diabetes
+45547623,E10.638,Type 1 diabetes mellitus with other oral complications,ICD10CM,5,Type 1 Diabetes
+45547624,E10.69,Type 1 diabetes mellitus with other specified complication,ICD10CM,5,Type 1 Diabetes
+45552379,E10.21,Type 1 diabetes mellitus with diabetic nephropathy,ICD10CM,5,Type 1 Diabetes
+45552380,E10.3,"Type 1 diabetes mellitus, With ophthalmic complications",ICD10,5,Type 1 Diabetes
+45552381,E10.311,Type 1 diabetes mellitus with unspecified diabetic retinopathy with macular edema,ICD10CM,5,Type 1 Diabetes
+45552382,E10.36,Type 1 diabetes mellitus with diabetic cataract,ICD10CM,5,Type 1 Diabetes
+45552383,E10.641,Type 1 diabetes mellitus with hypoglycemia with coma,ICD10CM,5,Type 1 Diabetes
+45552384,E10.8,"Type 1 diabetes mellitus, With unspecified complications",ICD10,5,Type 1 Diabetes
+45557110,E10.11,Type 1 diabetes mellitus with ketoacidosis with coma,ICD10CM,5,Type 1 Diabetes
+45557111,E10.630,Type 1 diabetes mellitus with periodontal disease,ICD10CM,5,Type 1 Diabetes
+45561947,E10.331,Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema,ICD10CM,5,Type 1 Diabetes
+45561948,E10.44,Type 1 diabetes mellitus with diabetic amyotrophy,ICD10CM,5,Type 1 Diabetes
+45566729,E10.628,Type 1 diabetes mellitus with other skin complications,ICD10CM,5,Type 1 Diabetes
+45571654,E10.359,Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema,ICD10CM,5,Type 1 Diabetes
+45571655,E10.7,"Type 1 diabetes mellitus, With multiple complications",ICD10,5,Type 1 Diabetes
+45576436,E10,Type 1 diabetes mellitus,ICD10,5,Type 1 Diabetes
+45576437,E10.351,Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema,ICD10CM,5,Type 1 Diabetes
+45576438,E10.39,Type 1 diabetes mellitus with other diabetic ophthalmic complication,ICD10CM,5,Type 1 Diabetes
+45576439,E10.41,Type 1 diabetes mellitus with diabetic mononeuropathy,ICD10CM,5,Type 1 Diabetes
+45576440,E10.610,Type 1 diabetes mellitus with diabetic neuropathic arthropathy,ICD10CM,5,Type 1 Diabetes
+45577566,O24.03,"Pre-existing type 1 diabetes mellitus, in the puerperium",ICD10CM,5,Type 1 Diabetes
+45581349,E10.59,Type 1 diabetes mellitus with other circulatory complications,ICD10CM,5,Type 1 Diabetes
+45581350,E10.622,Type 1 diabetes mellitus with other skin ulcer,ICD10CM,5,Type 1 Diabetes
+45581351,E10.9,"Type 1 diabetes mellitus, Without complications",ICD10,5,Type 1 Diabetes
+45586137,E10.2,"Type 1 diabetes mellitus, With renal complications",ICD10,5,Type 1 Diabetes
+45586138,E10.49,Type 1 diabetes mellitus with other diabetic neurological complication,ICD10CM,5,Type 1 Diabetes
+45591026,E10.329,Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema,ICD10CM,5,Type 1 Diabetes
+45595793,E10.321,Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema,ICD10CM,5,Type 1 Diabetes
+45595794,E10.341,Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema,ICD10CM,5,Type 1 Diabetes
+45595795,E10.42,Type 1 diabetes mellitus with diabetic polyneuropathy,ICD10CM,5,Type 1 Diabetes
+45595796,E10.5,"Type 1 diabetes mellitus, With peripheral circulatory complications",ICD10,5,Type 1 Diabetes
+45600636,E10.10,Type 1 diabetes mellitus with ketoacidosis without coma,ICD10CM,5,Type 1 Diabetes
+45600637,E10.29,Type 1 diabetes mellitus with other diabetic kidney complication,ICD10CM,5,Type 1 Diabetes
+45600638,E10.40,"Type 1 diabetes mellitus with diabetic neuropathy, unspecified",ICD10CM,5,Type 1 Diabetes
+45600639,E10.620,Type 1 diabetes mellitus with diabetic dermatitis,ICD10CM,5,Type 1 Diabetes
+45600640,E10.649,Type 1 diabetes mellitus with hypoglycemia without coma,ICD10CM,5,Type 1 Diabetes
+45605397,E10.339,Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema,ICD10CM,5,Type 1 Diabetes
+45605398,E10.621,Type 1 diabetes mellitus with foot ulcer,ICD10CM,5,Type 1 Diabetes
+45755355,E10.0,"Type 1 diabetes mellitus, With coma",ICD10,5,Type 1 Diabetes
+45757073,1.05E+14,Ischemia of retina due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45757074,1.05E+14,Vitreous hemorrhage due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45757266,1.09E+14,Retinal edema due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45757362,1.21E+14,Hypoglycemic unawareness due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45757393,1.28E+14,Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45757432,1.38E+14,Hyperlipidemia due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45757507,1.65E+14,Ulcer of foot due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45757535,1.85E+13,Microalbuminuria due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45757604,2.43E+14,Proteinuria due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45757674,3.13E+13,Diabetes mellitus type 1 without retinopathy,SNOMED,5,Type 1 Diabetes
+45763583,6.10E+13,Nonproliferative diabetic retinopathy due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45763584,6.10E+13,Proliferative retinopathy due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45763585,6.10E+13,Blindness due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45766051,703137001,Type I diabetes mellitus in remission,SNOMED,5,Type 1 Diabetes
+45768456,706891008,Neuropathy due to unstable diabetes mellitus type 1,SNOMED,5,Type 1 Diabetes
+45769829,7.17E+13,Nephrotic syndrome due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45769830,7.18E+13,Neuropathic arthropathy due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45769832,7.20E+13,Dermopathy due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45769833,7.20E+13,Severe malnutrition due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45769834,7.20E+13,Osteomyelitis due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45769837,7.21E+13,Chronic ulcer of skin due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45769873,8.26E+13,Traction detachment of retina due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45769876,8.44E+13,Hypoglycemia due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45769891,8.75E+13,Ankle ulcer due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45769892,8.75E+13,Ulcer of forefoot due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45769901,9.07E+13,Chronic kidney disease stage 2 due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45769902,9.08E+13,Chronic kidney disease stage 4 due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45769903,9.08E+13,Chronic kidney disease stage 5 due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45769904,9.08E+13,End stage renal disease on dialysis due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45770902,1.10E+14,Ulcer of lower limb due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45770986,706894000,Retinopathy due to unstable diabetes mellitus type 1,SNOMED,5,Type 1 Diabetes
+45771067,7.17E+13,Hypertension in chronic kidney disease due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45771068,8.75E+13,Heel AND/OR midfoot ulcer due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45771075,9.07E+13,Chronic kidney disease stage 3 due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45771533,8.26E+13,Rubeosis iridis due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45773567,1.03E+14,Sensory neuropathy due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45773576,9.07E+13,Chronic kidney disease stage 1 due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+45773688,9.64E+13,Chronic kidney disease due to type 1 diabetes mellitus,SNOMED,5,Type 1 Diabetes
+46269764,1.07E+16,Skin ulcer of toe due to diabetes mellitus type 1,SNOMED,5,Type 1 Diabetes
+135215,21983002,Hashimoto thyroiditis,SNOMED,6,Hashimotos
+137520,45053005,Chronic thyroiditis,SNOMED,6,Hashimotos
+4030050,237535005,Lymphadenoid goiter,SNOMED,6,Hashimotos
+4034817,237536006,Lymphocytic thyroiditis - autoimmune,SNOMED,6,Hashimotos
+4100629,27538003,Hyperthyroidism with Hashimoto disease,SNOMED,6,Hashimotos
+4130018,237520009,Hypothyroidism due to Hashimoto's thyroiditis,SNOMED,6,Hashimotos
+4262556,361124009,Self-limiting autoimmune thyroiditis with transient hyperthyroidism and/or hypothyroidism,SNOMED,6,Hashimotos
+40320743,154667002,Chronic thyroiditis (& [Hashimoto's disease]),SNOMED,6,Hashimotos
+40350830,267466008,Chronic thyroiditis (& [Hashimoto's disease]),SNOMED,6,Hashimotos
+40386324,190297000,Thyroiditis: [chronic lymphocytic] or [autoimmune] or [Hashimoto's],SNOMED,6,Hashimotos
+40437585,237534009,Hashimoto's thyroiditis,SNOMED,6,Hashimotos
+40437588,237537002,Struma lymphomatosis,SNOMED,6,Hashimotos
+374919,24700007,Multiple sclerosis,SNOMED,7,Multiple Sclerosis
+1411534,G35,Multiple sclerosis,ICD10CN,7,Multiple Sclerosis
+1411535,G35.x00,Multiple sclerosis,ICD10CN,7,Multiple Sclerosis
+1411536,G35.x01,"Multiple sclerosis, relapsing-remitting (machine translation)",ICD10CN,7,Multiple Sclerosis
+1411537,G35.x02,"Multiple sclerosis, primary progressive (machine translation)",ICD10CN,7,Multiple Sclerosis
+1411538,G35.x03,"Multiple sclerosis, secondary progressive (machine translation)",ICD10CN,7,Multiple Sclerosis
+1411539,G35.x04,"Multiple sclerosis, progressive relapsing (machine translation)",ICD10CN,7,Multiple Sclerosis
+1411540,G35.x05,"Multiple sclerosis, a concentric (machine translation)",ICD10CN,7,Multiple Sclerosis
+1411541,G35.x06,Multiple sclerosis Dementia (machine translation),ICD10CN,7,Multiple Sclerosis
+35207365,G35,Multiple sclerosis,ICD10CM,7,Multiple Sclerosis
+37083342,G35,Multiple sclerosis,ICD10GM,7,Multiple Sclerosis
+37083343,G35.0,Initial manifestation of multiple sclerosis,ICD10GM,7,Multiple Sclerosis
+37083344,G35.1,Multiple sclerosis with a predominantly relapsing course,ICD10GM,7,Multiple Sclerosis
+37083345,G35.10,Multiple sclerosis with a predominantly relapsing course: No indication of an acute exacerbation or progression,ICD10GM,7,Multiple Sclerosis
+37083346,G35.11,Multiple sclerosis with predominantly relapsing course: with indication of an acute exacerbation or progression,ICD10GM,7,Multiple Sclerosis
+37083347,G35.2,Multiple sclerosis with a primary-chronic course,ICD10GM,7,Multiple Sclerosis
+37083348,G35.20,Multiple sclerosis with a primary-chronic course: No indication of an acute exacerbation or progression,ICD10GM,7,Multiple Sclerosis
+37083349,G35.21,Multiple sclerosis with a primary-chronic course: with details of an acute exacerbation or progression,ICD10GM,7,Multiple Sclerosis
+37083350,G35.3,Multiple sclerosis with a secondary chronic course,ICD10GM,7,Multiple Sclerosis
+37083351,G35.30,Multiple sclerosis with a secondary-chronic course: No indication of an acute exacerbation or progression,ICD10GM,7,Multiple Sclerosis
+37083352,G35.31,Multiple sclerosis with a secondary-chronic course: with details of an acute exacerbation or progression,ICD10GM,7,Multiple Sclerosis
+37083353,G35.9,"Multiple sclerosis, unspecified",ICD10GM,7,Multiple Sclerosis
+44784474,698626001,Dementia associated with multiple sclerosis,SNOMED,7,Multiple Sclerosis
+45571794,G35,Multiple sclerosis,ICD10,7,Multiple Sclerosis
+380995,25044007,Neuromyelitis optica,SNOMED,8,Neuromyelitis Optica
+35207366,G36.0,Neuromyelitis optica [Devic],ICD10CM,8,Neuromyelitis Optica
+45581485,G36.0,Neuromyelitis optica [Devic],ICD10,8,Neuromyelitis Optica
+374021,83942000,Acute disseminated encephalomyelitis,SNOMED,9,Acute Disseminated Encephaloymelitis
+443802,31367003,Postvaccinal encephalomyelitis,SNOMED,9,Acute Disseminated Encephaloymelitis
+45533127,G04.00,"Acute disseminated encephalitis and encephalomyelitis, unspecified",ICD10CM,9,Acute Disseminated Encephaloymelitis
+45557223,G04.0,Acute disseminated encephalitis,ICD10,9,Acute Disseminated Encephaloymelitis
+443394,363732003,Addison's disease,SNOMED,10,Addisons Disease
+3522804,7.85E+13,Addison's disease,SNOMED,10,Addisons Disease
+4029576,237760008,Addison's disease with adrenoleucodystrophy,SNOMED,10,Addisons Disease
+4142062,34253008,Myopathy in Addison's disease,SNOMED,10,Addisons Disease
+4160059,373662000,Primary adrenocortical insufficiency,SNOMED,10,Addisons Disease
+4298436,76715008,Addison's disease due to autoimmunity,SNOMED,10,Addisons Disease
+4300808,403252006,Buccal pigmentation due to Addison's disease,SNOMED,10,Addisons Disease
+35206928,E27.1,Primary adrenocortical insufficiency,ICD10CM,10,Addisons Disease
+40275348,111562000,Addison's disease,SNOMED,10,Addisons Disease
+40321173,154707007,Corticoadrenal insufficiency (& Addison's [disease] or [crisis]),SNOMED,10,Addisons Disease
+40351261,267483004,Corticoadrenal insufficiency (& Addison's [disease] or [crisis]),SNOMED,10,Addisons Disease
+40389563,191062002,[X]Other and unspecified primary adrenocortical insufficiency,SNOMED,10,Addisons Disease
+40547264,367376006,"Addison's disease, NOS",SNOMED,10,Addisons Disease
+44795866,4.15E+14,[X]Other and unspecified primary adrenocortical insufficiency,SNOMED,10,Addisons Disease
+45537966,E27.1,Primary adrenocortical insufficiency,ICD10,10,Addisons Disease
+254443,83901003,Sj√∂gren's syndrome,SNOMED,11,Sjorens Disease
+766394,M35.05,Sjogren syndrome with inflammatory arthritis,ICD10CM,11,Sjorens Disease
+766395,M35.06,Sjogren syndrome with peripheral nervous system involvement,ICD10CM,11,Sjorens Disease
+766396,M35.07,Sjogren syndrome with central nervous system involvement,ICD10CM,11,Sjorens Disease
+766397,M35.08,Sjogren syndrome with gastrointestinal involvement,ICD10CM,11,Sjorens Disease
+766398,M35.0A,Sjogren syndrome with glomerular disease,ICD10CM,11,Sjorens Disease
+766399,M35.0B,Sjogren syndrome with vasculitis,ICD10CM,11,Sjorens Disease
+766400,M35.0C,Sjogren syndrome with dental involvement,ICD10CM,11,Sjorens Disease
+1570622,M35.0,Sicca syndrome [Sjogren],ICD10CM,11,Sjorens Disease
+1570622,M35.0,Sjogren syndrome,ICD10CM,11,Sjorens Disease
+4055370,196137000,Lung disease with Sj√∂gren's disease,SNOMED,11,Sjorens Disease
+4130853,126766000,Lymphoepithelial sialadenitis of Sj√∂gren's syndrome,SNOMED,11,Sjorens Disease
+4193620,78946008,"Keratoconjunctivitis sicca, in Sj√∂gren's syndrome",SNOMED,11,Sjorens Disease
+4216348,80734006,Marinesco-Sj√∂gren syndrome,SNOMED,11,Sjorens Disease
+4344163,239915006,Secondary Sj√∂gren's syndrome,SNOMED,11,Sjorens Disease
+4344164,239916007,Secondary Sj√∂gren's syndrome with organ/system involvement,SNOMED,11,Sjorens Disease
+4344487,239913004,Primary Sj√∂gren's syndrome with organ/system involvement,SNOMED,11,Sjorens Disease
+4344488,239914005,Primary Sj√∂gren's syndrome with multisystem involvement,SNOMED,11,Sjorens Disease
+4347058,239912009,Primary Sj√∂gren's syndrome,SNOMED,11,Sjorens Disease
+4347059,239917003,Secondary Sj√∂gren's syndrome with multisystem involvement,SNOMED,11,Sjorens Disease
+37110518,724782005,Demyelination of central nervous system co-occurrent and due to Sjogren disease,SNOMED,11,Sjorens Disease
+40320284,156455009,(Sicca - Sjogren's - syndrome) or (keraconjunctivitis sicca) or (Sjogren's disease),SNOMED,11,Sjorens Disease
+40352977,267875002,Sicca syndrome,SNOMED,11,Sjorens Disease
+40353559,268050000,(Sicca - Sjogren's - syndrome) or (keraconjunctivitis sicca) or (Sjogren's disease),SNOMED,11,Sjorens Disease
+40389146,190961002,(Marinesco-Sjogren syndrome) or (disorder of metabolism NOS),SNOMED,11,Sjorens Disease
+40401494,205549003,(Ichthyosiform erythroderma) or (Sjogren-Larsson syndrome),SNOMED,11,Sjorens Disease
+40405494,201444003,(Sicca - Sjogren's - syndrome) or (keratoconjunctivitis sicca),SNOMED,11,Sjorens Disease
+42539352,762303003,Pediatric onset Sj√∂gren syndrome,SNOMED,11,Sjorens Disease
+44814064,9.05E+14,Systemic lupus erythematosus/Sjogren's overlap syndrome,SNOMED,11,Sjorens Disease
+45533829,M35.01,Sicca syndrome with keratoconjunctivitis,ICD10CM,11,Sjorens Disease
+45533829,M35.01,Sjogren syndrome with keratoconjunctivitis,ICD10CM,11,Sjorens Disease
+45548403,M35.00,"Sjogren syndrome, unspecified",ICD10CM,11,Sjorens Disease
+45548403,M35.00,"Sicca syndrome, unspecified",ICD10CM,11,Sjorens Disease
+45557866,M35.04,Sjogren syndrome with tubulo-interstitial nephropathy,ICD10CM,11,Sjorens Disease
+45557866,M35.04,Sicca syndrome with tubulo-interstitial nephropathy,ICD10CM,11,Sjorens Disease
+45557867,M35.09,Sicca syndrome with other organ involvement,ICD10CM,11,Sjorens Disease
+45557867,M35.09,Sjogren syndrome with other organ involvement,ICD10CM,11,Sjorens Disease
+45562711,M35.0,Sicca syndrome [Sj√∂gren],ICD10,11,Sjorens Disease
+45577246,M35.02,Sjogren syndrome with lung involvement,ICD10CM,11,Sjorens Disease
+45577246,M35.02,Sicca syndrome with lung involvement,ICD10CM,11,Sjorens Disease
+45577247,M35.03,Sicca syndrome with myopathy,ICD10CM,11,Sjorens Disease
+45577247,M35.03,Sjogren syndrome with myopathy,ICD10CM,11,Sjorens Disease
+46270481,3.21E+14,Tubulointerstitial nephropathy due to Sjogren syndrome,SNOMED,11,Sjorens Disease
+138502,56727007,Vitiligo,SNOMED,13,Vitiligo
+1568479,H02.73,Vitiligo of eyelid and periocular area,ICD10CM,13,Vitiligo
+3656848,3.31E+14,Vitiligo of skin of right upper eyelid and periocular area,SNOMED,13,Vitiligo
+3656849,3.31E+14,Vitiligo of skin of right eyelid and periocular area,SNOMED,13,Vitiligo
+3656850,3.31E+14,Vitiligo of skin of left upper eyelid and periocular area,SNOMED,13,Vitiligo
+3656851,3.31E+14,Vitiligo of skin of left eyelid and periocular area,SNOMED,13,Vitiligo
+4081081,238713002,Occupational vitiligo,SNOMED,13,Vitiligo
+4208688,56347002,Vitiligo of pinta,SNOMED,13,Vitiligo
+4227153,87666009,Vitiligo of eyelid,SNOMED,13,Vitiligo
+4283947,67841000,Vitiligo iridis,SNOMED,13,Vitiligo
+4293575,403267005,Localized vitiligo,SNOMED,13,Vitiligo
+4293576,403270009,Trichrome vitiligo,SNOMED,13,Vitiligo
+4296217,403269008,Generalized vitiligo,SNOMED,13,Vitiligo
+4297816,402621008,Idiopathic vitiligo,SNOMED,13,Vitiligo
+4299692,403268000,Segmental vitiligo,SNOMED,13,Vitiligo
+4300898,403271008,Vitiligo due to K√∂bnerization,SNOMED,13,Vitiligo
+36715781,721539008,Vitiligo of eyelid and periocular area,SNOMED,13,Vitiligo
+37116377,733069009,"Deafness, vitiligo, achalasia syndrome",SNOMED,13,Vitiligo
+40320264,156437000,Vitiligo,SNOMED,13,Vitiligo
+40387044,193958004,Hypopigmentation of eyelid,SNOMED,13,Vitiligo
+45538173,H02.733,"Vitiligo of right eye, unspecified eyelid and periocular area",ICD10CM,13,Vitiligo
+45542944,H02.739,"Vitiligo of unspecified eye, unspecified eyelid and periocular area",ICD10CM,13,Vitiligo
+45552568,H02.735,Vitiligo of left lower eyelid and periocular area,ICD10CM,13,Vitiligo
+45557286,H02.734,Vitiligo of left upper eyelid and periocular area,ICD10CM,13,Vitiligo
+45566930,H02.732,Vitiligo of right lower eyelid and periocular area,ICD10CM,13,Vitiligo
+45581962,L80,Vitiligo,ICD10,13,Vitiligo
+45586344,H02.731,Vitiligo of right upper eyelid and periocular area,ICD10CM,13,Vitiligo
+45605586,H02.736,"Vitiligo of left eye, unspecified eyelid and periocular area",ICD10CM,13,Vitiligo
+318397,13172003,Chronic idiopathic thrombocytopenic purpura,SNOMED,14,Immune thrombocytopenia
+436956,75331009,Evans syndrome,SNOMED,14,Immune thrombocytopenia
+441264,267534000,Primary thrombocytopenia,SNOMED,14,Immune thrombocytopenia
+4028065,128091003,Primary ITP (immune thrombocytopenia),SNOMED,14,Immune thrombocytopenia
+4028065,128091003,Autoimmune thrombocytopenia,SNOMED,14,Immune thrombocytopenia
+4102469,28505005,Acute idiopathic thrombocytopenic purpura,SNOMED,14,Immune thrombocytopenia
+4103532,2897005,Immune thrombocytopenia,SNOMED,14,Immune thrombocytopenia
+4120621,234490009,Immune thrombocytopenic purpura,SNOMED,14,Immune thrombocytopenia
+4133983,128092005,Secondary autoimmune thrombocytopenia,SNOMED,14,Immune thrombocytopenia
+4137430,32273002,Idiopathic thrombocytopenic purpura,SNOMED,14,Immune thrombocytopenia
+4230266,438476003,Autoimmune thrombotic thrombocytopenic purpura,SNOMED,14,Immune thrombocytopenia
+35206770,D69.3,Immune thrombocytopenic purpura,ICD10CM,14,Immune thrombocytopenia
+40321715,154825008,Thrombocytopenic purpura: [primary] or [idiopathic],SNOMED,14,Immune thrombocytopenia
+40351354,267567001,Thrombocytopenic purpura: [primary] or [idiopathic],SNOMED,14,Immune thrombocytopenia
+40359195,275758003,Autoimmune thrombocytopenia,SNOMED,14,Immune thrombocytopenia
+40390495,191316002,Idiopathic purpura (& thrombocytopenic),SNOMED,14,Immune thrombocytopenia
+45537929,D69.3,Idiopathic thrombocytopenic purpura,ICD10,14,Immune thrombocytopenia
+45557091,D69.41,Evans syndrome,ICD10CM,14,Immune thrombocytopenia
+72705,74391003,Pauciarticular juvenile rheumatoid arthritis,SNOMED,15,Juvenile Arthritis
+72714,1961000,Chronic polyarticular juvenile rheumatoid arthritis,SNOMED,15,Juvenile Arthritis
+75621,75822003,Acute polyarticular juvenile rheumatoid arthritis,SNOMED,15,Juvenile Arthritis
+75622,201799006,Monarticular juvenile rheumatoid arthritis,SNOMED,15,Juvenile Arthritis
+725374,M08.0A,"Unspecified juvenile rheumatoid arthritis, other specified site",ICD10CM,15,Juvenile Arthritis
+725376,M08.4A,"Pauciarticular juvenile rheumatoid arthritis, other specified site",ICD10CM,15,Juvenile Arthritis
+759884,1.07E+15,Arthritis of joint of right shoulder region,SNOMED,15,Juvenile Arthritis
+1419158,M08.0,Juvenile rheumatoid arthritis,ICD10CN,15,Juvenile Arthritis
+1570082,M08.0,Unspecified juvenile rheumatoid arthritis,ICD10CM,15,Juvenile Arthritis
+1570083,M08.01,"Unspecified juvenile rheumatoid arthritis, shoulder",ICD10CM,15,Juvenile Arthritis
+1570084,M08.02,Unspecified juvenile rheumatoid arthritis of elbow,ICD10CM,15,Juvenile Arthritis
+1570085,M08.03,"Unspecified juvenile rheumatoid arthritis, wrist",ICD10CM,15,Juvenile Arthritis
+1570086,M08.04,"Unspecified juvenile rheumatoid arthritis, hand",ICD10CM,15,Juvenile Arthritis
+1570087,M08.05,"Unspecified juvenile rheumatoid arthritis, hip",ICD10CM,15,Juvenile Arthritis
+1570088,M08.06,"Unspecified juvenile rheumatoid arthritis, knee",ICD10CM,15,Juvenile Arthritis
+1570089,M08.07,"Unspecified juvenile rheumatoid arthritis, ankle and foot",ICD10CM,15,Juvenile Arthritis
+1570090,M08.2,Juvenile rheumatoid arthritis with systemic onset,ICD10CM,15,Juvenile Arthritis
+1570091,M08.21,"Juvenile rheumatoid arthritis with systemic onset, shoulder",ICD10CM,15,Juvenile Arthritis
+1570092,M08.22,"Juvenile rheumatoid arthritis with systemic onset, elbow",ICD10CM,15,Juvenile Arthritis
+1570093,M08.23,"Juvenile rheumatoid arthritis with systemic onset, wrist",ICD10CM,15,Juvenile Arthritis
+1570094,M08.24,"Juvenile rheumatoid arthritis with systemic onset, hand",ICD10CM,15,Juvenile Arthritis
+1570095,M08.25,"Juvenile rheumatoid arthritis with systemic onset, hip",ICD10CM,15,Juvenile Arthritis
+1570096,M08.26,"Juvenile rheumatoid arthritis with systemic onset, knee",ICD10CM,15,Juvenile Arthritis
+1570097,M08.27,"Juvenile rheumatoid arthritis with systemic onset, ankle and foot",ICD10CM,15,Juvenile Arthritis
+1570098,M08.4,Pauciarticular juvenile rheumatoid arthritis,ICD10CM,15,Juvenile Arthritis
+1570099,M08.41,"Pauciarticular juvenile rheumatoid arthritis, shoulder",ICD10CM,15,Juvenile Arthritis
+1570100,M08.42,"Pauciarticular juvenile rheumatoid arthritis, elbow",ICD10CM,15,Juvenile Arthritis
+1570101,M08.43,"Pauciarticular juvenile rheumatoid arthritis, wrist",ICD10CM,15,Juvenile Arthritis
+1570102,M08.44,"Pauciarticular juvenile rheumatoid arthritis, hand",ICD10CM,15,Juvenile Arthritis
+1570103,M08.45,"Pauciarticular juvenile rheumatoid arthritis, hip",ICD10CM,15,Juvenile Arthritis
+1570104,M08.46,"Pauciarticular juvenile rheumatoid arthritis, knee",ICD10CM,15,Juvenile Arthritis
+1570105,M08.47,"Pauciarticular juvenile rheumatoid arthritis, ankle and foot",ICD10CM,15,Juvenile Arthritis
+3538910,6.57E+14,Juvenile rheumatoid arthritis NOS,SNOMED,15,Juvenile Arthritis
+4114439,201766009,Rheumatoid arthritis of shoulder,SNOMED,15,Juvenile Arthritis
+4115054,201800005,Juvenile rheumatoid arthritis NOS,SNOMED,15,Juvenile Arthritis
+4115161,287007001,Rheumatoid arthritis - hand joint,SNOMED,15,Juvenile Arthritis
+4116150,201775006,Rheumatoid arthritis of hip,SNOMED,15,Juvenile Arthritis
+4116151,201777003,Rheumatoid arthritis of knee,SNOMED,15,Juvenile Arthritis
+4116440,201769002,Rheumatoid arthritis of elbow,SNOMED,15,Juvenile Arthritis
+4116441,201771002,Rheumatoid arthritis of wrist,SNOMED,15,Juvenile Arthritis
+4116447,201796004,Systemic onset juvenile chronic arthritis,SNOMED,15,Juvenile Arthritis
+4117686,287006005,Rheumatoid arthritis of multiple joints,SNOMED,15,Juvenile Arthritis
+4117687,287008006,Rheumatoid arthritis - ankle and/or foot,SNOMED,15,Juvenile Arthritis
+4132810,410797009,Juvenile seronegative polyarthritis,SNOMED,15,Juvenile Arthritis
+4253901,410795001,Juvenile rheumatoid arthritis,SNOMED,15,Juvenile Arthritis
+35208755,M08.3,Juvenile rheumatoid polyarthritis (seronegative),ICD10CM,15,Juvenile Arthritis
+40320315,156483006,Juvenile rheumatoid arthritis &/or Still's disease,SNOMED,15,Juvenile Arthritis
+40353562,268052008,Juvenile rheumatoid arthritis &/or Still's disease,SNOMED,15,Juvenile Arthritis
+40400221,201798003,Polyarticular juvenile rheumatoid arthritis,SNOMED,15,Juvenile Arthritis
+40400233,201808003,Juvenile rheumatoid arthritis,SNOMED,15,Juvenile Arthritis
+40400234,201809006,Pauciarticular onset juvenile chronic arthritis,SNOMED,15,Juvenile Arthritis
+40483795,445479007,Polyarticular juvenile rheumatoid arthritis,SNOMED,15,Juvenile Arthritis
+40630616,7441009,Juvenile chronic polyarthritis,SNOMED,15,Juvenile Arthritis
+40643351,83793004,Monoarticular juvenile rheumatoid arthritis,SNOMED,15,Juvenile Arthritis
+40644064,86119004,Polyarticular juvenile rheumatoid arthritis,SNOMED,15,Juvenile Arthritis
+42616721,M08.00,"Juvenile rheumatoid arthritis, multiple sites",ICD10,15,Juvenile Arthritis
+42616722,M08.01,"Juvenile rheumatoid arthritis, shoulder region",ICD10,15,Juvenile Arthritis
+42616723,M08.02,"Juvenile rheumatoid arthritis, upper arm",ICD10,15,Juvenile Arthritis
+42616724,M08.03,"Juvenile rheumatoid arthritis, forearm",ICD10,15,Juvenile Arthritis
+42616725,M08.04,"Juvenile rheumatoid arthritis, hand",ICD10,15,Juvenile Arthritis
+42616726,M08.05,"Juvenile rheumatoid arthritis, pelvic region and thigh",ICD10,15,Juvenile Arthritis
+42616727,M08.06,"Juvenile rheumatoid arthritis, lower leg",ICD10,15,Juvenile Arthritis
+42616728,M08.07,"Juvenile rheumatoid arthritis, ankle and foot",ICD10,15,Juvenile Arthritis
+42616729,M08.08,"Juvenile rheumatoid arthritis, other",ICD10,15,Juvenile Arthritis
+42616730,M08.09,"Juvenile rheumatoid arthritis, site unspecified",ICD10,15,Juvenile Arthritis
+42616760,M08.40,"Pauciarticular juvenile arthritis, multiple sites",ICD10,15,Juvenile Arthritis
+42616761,M08.41,"Pauciarticular juvenile arthritis, shoulder region",ICD10,15,Juvenile Arthritis
+42616762,M08.42,"Pauciarticular juvenile arthritis, upper arm",ICD10,15,Juvenile Arthritis
+42616763,M08.43,"Pauciarticular juvenile arthritis, forearm",ICD10,15,Juvenile Arthritis
+42616764,M08.44,"Pauciarticular juvenile arthritis, hand",ICD10,15,Juvenile Arthritis
+42616765,M08.45,"Pauciarticular juvenile arthritis, pelvic region and thigh",ICD10,15,Juvenile Arthritis
+42616766,M08.47,"Pauciarticular juvenile arthritis, ankle and foot",ICD10,15,Juvenile Arthritis
+42616767,M08.48,"Pauciarticular juvenile arthritis, other",ICD10,15,Juvenile Arthritis
+42616768,M08.49,"Pauciarticular juvenile arthritis, site unspecified",ICD10,15,Juvenile Arthritis
+42616769,M08.80,"Other juvenile arthritis, multiple sites",ICD10,15,Juvenile Arthritis
+42616770,M08.81,"Other juvenile arthritis, shoulder region",ICD10,15,Juvenile Arthritis
+42616771,M08.82,"Other juvenile arthritis, upper arm",ICD10,15,Juvenile Arthritis
+42616772,M08.83,"Other juvenile arthritis, forearm",ICD10,15,Juvenile Arthritis
+42616773,M08.84,"Other juvenile arthritis, hand",ICD10,15,Juvenile Arthritis
+42616774,M08.85,"Other juvenile arthritis, pelvic region and thigh",ICD10,15,Juvenile Arthritis
+42616775,M08.86,"Other juvenile arthritis, lower leg",ICD10,15,Juvenile Arthritis
+42616776,M08.87,"Other juvenile arthritis, ankle and foot",ICD10,15,Juvenile Arthritis
+42616777,M08.88,"Other juvenile arthritis, other",ICD10,15,Juvenile Arthritis
+42616778,M08.89,"Other juvenile arthritis, site unspecified",ICD10,15,Juvenile Arthritis
+42616779,M08.90,"Juvenile arthritis, unspecified, multiple sites",ICD10,15,Juvenile Arthritis
+42616780,M08.91,"Juvenile arthritis, unspecified, shoulder region",ICD10,15,Juvenile Arthritis
+42616781,M08.92,"Juvenile arthritis, unspecified, upper arm",ICD10,15,Juvenile Arthritis
+42616782,M08.93,"Juvenile arthritis, unspecified, forearm",ICD10,15,Juvenile Arthritis
+42616783,M08.94,"Juvenile arthritis, unspecified, hand",ICD10,15,Juvenile Arthritis
+42616784,M08.96,"Juvenile arthritis, unspecified, lower leg",ICD10,15,Juvenile Arthritis
+42616785,M08.97,"Juvenile arthritis, unspecified, ankle and foot",ICD10,15,Juvenile Arthritis
+42616786,M08.98,"Juvenile arthritis, unspecified, other",ICD10,15,Juvenile Arthritis
+42616787,M08.99,"Juvenile arthritis, unspecified, site unspecified",ICD10,15,Juvenile Arthritis
+42619392,M08.46,"Pauciarticular juvenile arthritis, lower leg",ICD10,15,Juvenile Arthritis
+42619393,M08.95,"Juvenile arthritis, unspecified, pelvic region and thigh",ICD10,15,Juvenile Arthritis
+44821124,714.33,Monoarticular juvenile rheumatoid arthritis,ICD9CM,15,Juvenile Arthritis
+44834973,714.3,"Polyarticular juvenile rheumatoid arthritis, chronic or unspecified",ICD9CM,15,Juvenile Arthritis
+44834974,714.32,Pauciarticular juvenile rheumatoid arthritis,ICD9CM,15,Juvenile Arthritis
+44837333,714.31,"Polyarticular juvenile rheumatoid arthritis, acute",ICD9CM,15,Juvenile Arthritis
+45533706,M08.259,"Juvenile rheumatoid arthritis with systemic onset, unspecified hip",ICD10CM,15,Juvenile Arthritis
+45533707,M08.472,"Pauciarticular juvenile rheumatoid arthritis, left ankle and foot",ICD10CM,15,Juvenile Arthritis
+45533708,M08.951,"Juvenile arthritis, unspecified, right hip",ICD10CM,15,Juvenile Arthritis
+45533709,M08.959,"Juvenile arthritis, unspecified, unspecified hip",ICD10CM,15,Juvenile Arthritis
+45533710,M08.969,"Juvenile arthritis, unspecified, unspecified knee",ICD10CM,15,Juvenile Arthritis
+45538643,M08.051,"Unspecified juvenile rheumatoid arthritis, right hip",ICD10CM,15,Juvenile Arthritis
+45538644,M08.059,"Unspecified juvenile rheumatoid arthritis, unspecified hip",ICD10CM,15,Juvenile Arthritis
+45538645,M08.859,"Other juvenile arthritis, unspecified hip",ICD10CM,15,Juvenile Arthritis
+45543445,M08.021,"Unspecified juvenile rheumatoid arthritis, right elbow",ICD10CM,15,Juvenile Arthritis
+45543446,M08.032,"Unspecified juvenile rheumatoid arthritis, left wrist",ICD10CM,15,Juvenile Arthritis
+45543447,M08.852,"Other juvenile arthritis, left hip",ICD10CM,15,Juvenile Arthritis
+45543448,M08.971,"Juvenile arthritis, unspecified, right ankle and foot",ICD10CM,15,Juvenile Arthritis
+45548275,M08.09,"Unspecified juvenile rheumatoid arthritis, multiple sites",ICD10CM,15,Juvenile Arthritis
+45548276,M08.219,"Juvenile rheumatoid arthritis with systemic onset, unspecified shoulder",ICD10CM,15,Juvenile Arthritis
+45548277,M08.249,"Juvenile rheumatoid arthritis with systemic onset, unspecified hand",ICD10CM,15,Juvenile Arthritis
+45548278,M08.261,"Juvenile rheumatoid arthritis with systemic onset, right knee",ICD10CM,15,Juvenile Arthritis
+45548279,M08.271,"Juvenile rheumatoid arthritis with systemic onset, right ankle and foot",ICD10CM,15,Juvenile Arthritis
+45548280,M08.412,"Pauciarticular juvenile rheumatoid arthritis, left shoulder",ICD10CM,15,Juvenile Arthritis
+45548281,M08.422,"Pauciarticular juvenile rheumatoid arthritis, left elbow",ICD10CM,15,Juvenile Arthritis
+45548282,M08.432,"Pauciarticular juvenile rheumatoid arthritis, left wrist",ICD10CM,15,Juvenile Arthritis
+45548283,M08.829,"Other juvenile arthritis, unspecified elbow",ICD10CM,15,Juvenile Arthritis
+45548284,M08.832,"Other juvenile arthritis, left wrist",ICD10CM,15,Juvenile Arthritis
+45548285,M08.932,"Juvenile arthritis, unspecified, left wrist",ICD10CM,15,Juvenile Arthritis
+45553057,M08.019,"Unspecified juvenile rheumatoid arthritis, unspecified shoulder",ICD10CM,15,Juvenile Arthritis
+45553058,M08.20,"Juvenile rheumatoid arthritis with systemic onset, unspecified site",ICD10CM,15,Juvenile Arthritis
+45553059,M08.819,"Other juvenile arthritis, unspecified shoulder",ICD10CM,15,Juvenile Arthritis
+45553060,M08.831,"Other juvenile arthritis, right wrist",ICD10CM,15,Juvenile Arthritis
+45553061,M08.88,"Other juvenile arthritis, other specified site",ICD10CM,15,Juvenile Arthritis
+45553062,M08.919,"Juvenile arthritis, unspecified, unspecified shoulder",ICD10CM,15,Juvenile Arthritis
+45553063,M08.941,"Juvenile arthritis, unspecified, right hand",ICD10CM,15,Juvenile Arthritis
+45553064,M08.962,"Juvenile arthritis, unspecified, left knee",ICD10CM,15,Juvenile Arthritis
+45553065,M08.979,"Juvenile arthritis, unspecified, unspecified ankle and foot",ICD10CM,15,Juvenile Arthritis
+45557768,M08.069,"Unspecified juvenile rheumatoid arthritis, unspecified knee",ICD10CM,15,Juvenile Arthritis
+45557769,M08.08,"Unspecified juvenile rheumatoid arthritis, vertebrae",ICD10CM,15,Juvenile Arthritis
+45557770,M08.411,"Pauciarticular juvenile rheumatoid arthritis, right shoulder",ICD10CM,15,Juvenile Arthritis
+45557771,M08.429,"Pauciarticular juvenile rheumatoid arthritis, unspecified elbow",ICD10CM,15,Juvenile Arthritis
+45557772,M08.441,"Pauciarticular juvenile rheumatoid arthritis, right hand",ICD10CM,15,Juvenile Arthritis
+45557773,M08.442,"Pauciarticular juvenile rheumatoid arthritis, left hand",ICD10CM,15,Juvenile Arthritis
+45557774,M08.811,"Other juvenile arthritis, right shoulder",ICD10CM,15,Juvenile Arthritis
+45557775,M08.849,"Other juvenile arthritis, unspecified hand",ICD10CM,15,Juvenile Arthritis
+45557776,M08.862,"Other juvenile arthritis, left knee",ICD10CM,15,Juvenile Arthritis
+45557777,M08.869,"Other juvenile arthritis, unspecified knee",ICD10CM,15,Juvenile Arthritis
+45557778,M08.921,"Juvenile arthritis, unspecified, right elbow",ICD10CM,15,Juvenile Arthritis
+45557779,M08.922,"Juvenile arthritis, unspecified, left elbow",ICD10CM,15,Juvenile Arthritis
+45557780,M08.952,"Juvenile arthritis, unspecified, left hip",ICD10CM,15,Juvenile Arthritis
+45562602,M08.042,"Unspecified juvenile rheumatoid arthritis, left hand",ICD10CM,15,Juvenile Arthritis
+45562603,M08.431,"Pauciarticular juvenile rheumatoid arthritis, right wrist",ICD10CM,15,Juvenile Arthritis
+45562604,M08.822,"Other juvenile arthritis, left elbow",ICD10CM,15,Juvenile Arthritis
+45562605,M08.861,"Other juvenile arthritis, right knee",ICD10CM,15,Juvenile Arthritis
+45562606,M08.871,"Other juvenile arthritis, right ankle and foot",ICD10CM,15,Juvenile Arthritis
+45562607,M08.911,"Juvenile arthritis, unspecified, right shoulder",ICD10CM,15,Juvenile Arthritis
+45562608,M08.929,"Juvenile arthritis, unspecified, unspecified elbow",ICD10CM,15,Juvenile Arthritis
+45562609,M08.961,"Juvenile arthritis, unspecified, right knee",ICD10CM,15,Juvenile Arthritis
+45567431,M08.00,Unspecified juvenile rheumatoid arthritis of unspecified site,ICD10CM,15,Juvenile Arthritis
+45567432,M08.011,"Unspecified juvenile rheumatoid arthritis, right shoulder",ICD10CM,15,Juvenile Arthritis
+45567433,M08.012,"Unspecified juvenile rheumatoid arthritis, left shoulder",ICD10CM,15,Juvenile Arthritis
+45567434,M08.072,"Unspecified juvenile rheumatoid arthritis, left ankle and foot",ICD10CM,15,Juvenile Arthritis
+45567435,M08.251,"Juvenile rheumatoid arthritis with systemic onset, right hip",ICD10CM,15,Juvenile Arthritis
+45567436,M08.479,"Pauciarticular juvenile rheumatoid arthritis, unspecified ankle and foot",ICD10CM,15,Juvenile Arthritis
+45567437,M08.8,Other juvenile arthritis,ICD10,15,Juvenile Arthritis
+45567438,M08.90,"Juvenile arthritis, unspecified, unspecified site",ICD10CM,15,Juvenile Arthritis
+45567439,M08.942,"Juvenile arthritis, unspecified, left hand",ICD10CM,15,Juvenile Arthritis
+45572347,M08.022,"Unspecified juvenile rheumatoid arthritis, left elbow",ICD10CM,15,Juvenile Arthritis
+45572348,M08.062,"Unspecified juvenile rheumatoid arthritis, left knee",ICD10CM,15,Juvenile Arthritis
+45572349,M08.28,"Juvenile rheumatoid arthritis with systemic onset, vertebrae",ICD10CM,15,Juvenile Arthritis
+45572350,M08.459,"Pauciarticular juvenile rheumatoid arthritis, unspecified hip",ICD10CM,15,Juvenile Arthritis
+45577123,M08.231,"Juvenile rheumatoid arthritis with systemic onset, right wrist",ICD10CM,15,Juvenile Arthritis
+45577124,M08.241,"Juvenile rheumatoid arthritis with systemic onset, right hand",ICD10CM,15,Juvenile Arthritis
+45577125,M08.262,"Juvenile rheumatoid arthritis with systemic onset, left knee",ICD10CM,15,Juvenile Arthritis
+45577126,M08.451,"Pauciarticular juvenile rheumatoid arthritis, right hip",ICD10CM,15,Juvenile Arthritis
+45577127,M08.461,"Pauciarticular juvenile rheumatoid arthritis, right knee",ICD10CM,15,Juvenile Arthritis
+45577128,M08.812,"Other juvenile arthritis, left shoulder",ICD10CM,15,Juvenile Arthritis
+45577129,M08.879,"Other juvenile arthritis, unspecified ankle and foot",ICD10CM,15,Juvenile Arthritis
+45577130,M08.98,"Juvenile arthritis, unspecified, vertebrae",ICD10CM,15,Juvenile Arthritis
+45582019,M08.239,"Juvenile rheumatoid arthritis with systemic onset, unspecified wrist",ICD10CM,15,Juvenile Arthritis
+45582020,M08.4,Pauciarticular juvenile arthritis,ICD10,15,Juvenile Arthritis
+45586848,M08.0,Juvenile rheumatoid arthritis,ICD10,15,Juvenile Arthritis
+45586849,M08.029,"Unspecified juvenile rheumatoid arthritis, unspecified elbow",ICD10CM,15,Juvenile Arthritis
+45586850,M08.252,"Juvenile rheumatoid arthritis with systemic onset, left hip",ICD10CM,15,Juvenile Arthritis
+45586851,M08.272,"Juvenile rheumatoid arthritis with systemic onset, left ankle and foot",ICD10CM,15,Juvenile Arthritis
+45586852,M08.279,"Juvenile rheumatoid arthritis with systemic onset, unspecified ankle and foot",ICD10CM,15,Juvenile Arthritis
+45586853,M08.40,"Pauciarticular juvenile rheumatoid arthritis, unspecified site",ICD10CM,15,Juvenile Arthritis
+45586854,M08.462,"Pauciarticular juvenile rheumatoid arthritis, left knee",ICD10CM,15,Juvenile Arthritis
+45586855,M08.80,"Other juvenile arthritis, unspecified site",ICD10CM,15,Juvenile Arthritis
+45586856,M08.851,"Other juvenile arthritis, right hip",ICD10CM,15,Juvenile Arthritis
+45586857,M08.949,"Juvenile arthritis, unspecified, unspecified hand",ICD10CM,15,Juvenile Arthritis
+45591708,M08.212,"Juvenile rheumatoid arthritis with systemic onset, left shoulder",ICD10CM,15,Juvenile Arthritis
+45591709,M08.221,"Juvenile rheumatoid arthritis with systemic onset, right elbow",ICD10CM,15,Juvenile Arthritis
+45591710,M08.452,"Pauciarticular juvenile rheumatoid arthritis, left hip",ICD10CM,15,Juvenile Arthritis
+45591711,M08.471,"Pauciarticular juvenile rheumatoid arthritis, right ankle and foot",ICD10CM,15,Juvenile Arthritis
+45591712,M08.821,"Other juvenile arthritis, right elbow",ICD10CM,15,Juvenile Arthritis
+45591713,M08.839,"Other juvenile arthritis, unspecified wrist",ICD10CM,15,Juvenile Arthritis
+45591714,M08.89,"Other juvenile arthritis, multiple sites",ICD10CM,15,Juvenile Arthritis
+45596448,M08.211,"Juvenile rheumatoid arthritis with systemic onset, right shoulder",ICD10CM,15,Juvenile Arthritis
+45596449,M08.269,"Juvenile rheumatoid arthritis with systemic onset, unspecified knee",ICD10CM,15,Juvenile Arthritis
+45596451,M08.9,"Juvenile arthritis, unspecified",ICD10,15,Juvenile Arthritis
+45601293,M08.031,"Unspecified juvenile rheumatoid arthritis, right wrist",ICD10CM,15,Juvenile Arthritis
+45601294,M08.039,"Unspecified juvenile rheumatoid arthritis, unspecified wrist",ICD10CM,15,Juvenile Arthritis
+45601295,M08.049,"Unspecified juvenile rheumatoid arthritis, unspecified hand",ICD10CM,15,Juvenile Arthritis
+45601297,M08.229,"Juvenile rheumatoid arthritis with systemic onset, unspecified elbow",ICD10CM,15,Juvenile Arthritis
+45601298,M08.232,"Juvenile rheumatoid arthritis with systemic onset, left wrist",ICD10CM,15,Juvenile Arthritis
+45601299,M08.29,"Juvenile rheumatoid arthritis with systemic onset, multiple sites",ICD10CM,15,Juvenile Arthritis
+45601300,M08.421,"Pauciarticular juvenile rheumatoid arthritis, right elbow",ICD10CM,15,Juvenile Arthritis
+45601301,M08.439,"Pauciarticular juvenile rheumatoid arthritis, unspecified wrist",ICD10CM,15,Juvenile Arthritis
+45601302,M08.469,"Pauciarticular juvenile rheumatoid arthritis, unspecified knee",ICD10CM,15,Juvenile Arthritis
+45601303,M08.48,"Pauciarticular juvenile rheumatoid arthritis, vertebrae",ICD10CM,15,Juvenile Arthritis
+45601304,M08.939,"Juvenile arthritis, unspecified, unspecified wrist",ICD10CM,15,Juvenile Arthritis
+45606068,M08.041,"Unspecified juvenile rheumatoid arthritis, right hand",ICD10CM,15,Juvenile Arthritis
+45606069,M08.052,"Unspecified juvenile rheumatoid arthritis, left hip",ICD10CM,15,Juvenile Arthritis
+45606070,M08.061,"Unspecified juvenile rheumatoid arthritis, right knee",ICD10CM,15,Juvenile Arthritis
+45606071,M08.071,"Unspecified juvenile rheumatoid arthritis, right ankle and foot",ICD10CM,15,Juvenile Arthritis
+45606072,M08.079,"Unspecified juvenile rheumatoid arthritis, unspecified ankle and foot",ICD10CM,15,Juvenile Arthritis
+45606074,M08.222,"Juvenile rheumatoid arthritis with systemic onset, left elbow",ICD10CM,15,Juvenile Arthritis
+45606075,M08.242,"Juvenile rheumatoid arthritis with systemic onset, left hand",ICD10CM,15,Juvenile Arthritis
+45606076,M08.419,"Pauciarticular juvenile rheumatoid arthritis, unspecified shoulder",ICD10CM,15,Juvenile Arthritis
+45606077,M08.449,"Pauciarticular juvenile rheumatoid arthritis, unspecified hand",ICD10CM,15,Juvenile Arthritis
+45606078,M08.841,"Other juvenile arthritis, right hand",ICD10CM,15,Juvenile Arthritis
+45606079,M08.842,"Other juvenile arthritis, left hand",ICD10CM,15,Juvenile Arthritis
+45606080,M08.872,"Other juvenile arthritis, left ankle and foot",ICD10CM,15,Juvenile Arthritis
+45606081,M08.912,"Juvenile arthritis, unspecified, left shoulder",ICD10CM,15,Juvenile Arthritis
+45606082,M08.931,"Juvenile arthritis, unspecified, right wrist",ICD10CM,15,Juvenile Arthritis
+45606083,M08.972,"Juvenile arthritis, unspecified, left ankle and foot",ICD10CM,15,Juvenile Arthritis
+45606084,M08.99,"Juvenile arthritis, unspecified, multiple sites",ICD10CM,15,Juvenile Arthritis
+45755463,M09,Juvenile arthritis in diseases classified elsewhere,ICD10,15,Juvenile Arthritis
+81931,33339001,Psoriasis with arthropathy,SNOMED,16,Psoriatic Arthritis
+443582,428360003,Arthropathy of joint of hand,SNOMED,16,Psoriatic Arthritis
+1569778,L40.5,Arthropathic psoriasis,ICD10CM,16,Psoriatic Arthritis
+4064048,200956002,Psoriatic arthritis with spine involvement,SNOMED,16,Psoriatic Arthritis
+4066827,200959009,Psoriatic arthropathy NOS,SNOMED,16,Psoriatic Arthritis
+4083682,239812005,Psoriatic arthritis with distal interphalangeal joint involvement,SNOMED,16,Psoriatic Arthritis
+40396349,200957006,Psoriatic arthritis with distal interphalangeal joint involvement,SNOMED,16,Psoriatic Arthritis
+40396350,200958001,Psoriatic arthritis - destructive type,SNOMED,16,Psoriatic Arthritis
+40401312,203733001,[X]Other psoriatic arthropathies,SNOMED,16,Psoriatic Arthritis
+42616653,M07.00,"Distal interphalangeal psoriatic arthropathy, multiple sites",ICD10,16,Psoriatic Arthritis
+42616654,M07.01,"Distal interphalangeal psoriatic arthropathy, shoulder region",ICD10,16,Psoriatic Arthritis
+42616655,M07.02,"Distal interphalangeal psoriatic arthropathy, upper arm",ICD10,16,Psoriatic Arthritis
+42616656,M07.03,"Distal interphalangeal psoriatic arthropathy, forearm",ICD10,16,Psoriatic Arthritis
+42616657,M07.04,"Distal interphalangeal psoriatic arthropathy, hand",ICD10,16,Psoriatic Arthritis
+42616658,M07.05,"Distal interphalangeal psoriatic arthropathy, pelvic region and thigh",ICD10,16,Psoriatic Arthritis
+42616659,M07.06,"Distal interphalangeal psoriatic arthropathy, lower leg",ICD10,16,Psoriatic Arthritis
+42616660,M07.07,"Distal interphalangeal psoriatic arthropathy, ankle and foot",ICD10,16,Psoriatic Arthritis
+42616661,M07.08,"Distal interphalangeal psoriatic arthropathy, other",ICD10,16,Psoriatic Arthritis
+42616662,M07.09,"Distal interphalangeal psoriatic arthropathy, site unspecified",ICD10,16,Psoriatic Arthritis
+42616663,M07.10,"Arthritis mutilans, multiple sites",ICD10,16,Psoriatic Arthritis
+42616664,M07.11,"Arthritis mutilans, shoulder region",ICD10,16,Psoriatic Arthritis
+42616665,M07.12,"Arthritis mutilans, upper arm",ICD10,16,Psoriatic Arthritis
+42616666,M07.13,"Arthritis mutilans, forearm",ICD10,16,Psoriatic Arthritis
+42616667,M07.14,"Arthritis mutilans, hand",ICD10,16,Psoriatic Arthritis
+42616668,M07.15,"Arthritis mutilans, pelvic region and thigh",ICD10,16,Psoriatic Arthritis
+42616669,M07.16,"Arthritis mutilans, lower leg",ICD10,16,Psoriatic Arthritis
+42616670,M07.17,"Arthritis mutilans, ankle and foot",ICD10,16,Psoriatic Arthritis
+42616671,M07.18,"Arthritis mutilans, other",ICD10,16,Psoriatic Arthritis
+42616672,M07.19,"Arthritis mutilans, site unspecified",ICD10,16,Psoriatic Arthritis
+42616673,M07.20,"Psoriatic spondylitis, multiple sites",ICD10,16,Psoriatic Arthritis
+42616674,M07.21,"Psoriatic spondylitis, shoulder region",ICD10,16,Psoriatic Arthritis
+42616675,M07.22,"Psoriatic spondylitis, upper arm",ICD10,16,Psoriatic Arthritis
+42616676,M07.23,"Psoriatic spondylitis, forearm",ICD10,16,Psoriatic Arthritis
+42616677,M07.24,"Psoriatic spondylitis, hand",ICD10,16,Psoriatic Arthritis
+42616678,M07.25,"Psoriatic spondylitis, pelvic region and thigh",ICD10,16,Psoriatic Arthritis
+42616679,M07.26,"Psoriatic spondylitis, lower leg",ICD10,16,Psoriatic Arthritis
+42616680,M07.27,"Psoriatic spondylitis, ankle and foot",ICD10,16,Psoriatic Arthritis
+42616681,M07.28,"Psoriatic spondylitis, other",ICD10,16,Psoriatic Arthritis
+42616682,M07.29,"Psoriatic spondylitis, site unspecified",ICD10,16,Psoriatic Arthritis
+42616683,M07.30,"Other psoriatic arthropathies, multiple sites",ICD10,16,Psoriatic Arthritis
+42616684,M07.31,"Other psoriatic arthropathies, shoulder region",ICD10,16,Psoriatic Arthritis
+42616685,M07.32,"Other psoriatic arthropathies, upper arm",ICD10,16,Psoriatic Arthritis
+42616686,M07.33,"Other psoriatic arthropathies, forearm",ICD10,16,Psoriatic Arthritis
+42616687,M07.34,"Other psoriatic arthropathies, hand",ICD10,16,Psoriatic Arthritis
+42616688,M07.35,"Other psoriatic arthropathies, pelvic region and thigh",ICD10,16,Psoriatic Arthritis
+42616689,M07.36,"Other psoriatic arthropathies, lower leg",ICD10,16,Psoriatic Arthritis
+42616690,M07.37,"Other psoriatic arthropathies, ankle and foot",ICD10,16,Psoriatic Arthritis
+42616691,M07.38,"Other psoriatic arthropathies, other",ICD10,16,Psoriatic Arthritis
+42616692,M07.39,"Other psoriatic arthropathies, site unspecified",ICD10,16,Psoriatic Arthritis
+44797441,4.32E+14,[X]Other psoriatic arthropathies,SNOMED,16,Psoriatic Arthritis
+45533640,L40.54,Psoriatic juvenile arthropathy,ICD10CM,16,Psoriatic Arthritis
+45548196,L40.50,"Arthropathic psoriasis, unspecified",ICD10CM,16,Psoriatic Arthritis
+45548197,L40.52,Psoriatic arthritis mutilans,ICD10CM,16,Psoriatic Arthritis
+45553054,M07.2,Psoriatic spondylitis,ICD10,16,Psoriatic Arthritis
+45557703,L40.5,Arthropathic psoriasis,ICD10,16,Psoriatic Arthritis
+45577120,M07.0,Distal interphalangeal psoriatic arthropathy,ICD10,16,Psoriatic Arthritis
+45586768,L40.53,Psoriatic spondylitis,ICD10CM,16,Psoriatic Arthritis
+45591706,M07.3,Other psoriatic arthropathies,ICD10,16,Psoriatic Arthritis
+45596373,L40.59,Other psoriatic arthropathy,ICD10CM,16,Psoriatic Arthritis
+45601222,L40.51,Distal interphalangeal psoriatic arthropathy,ICD10CM,16,Psoriatic Arthritis
+45601290,M07.1,Arthritis mutilans,ICD10,16,Psoriatic Arthritis
+45755462,M07,Psoriatic and enteropathic arthropathies,ICD10,16,Psoriatic Arthritis
+46274123,1.06E+16,Psoriatic arthritis mutilans,SNOMED,16,Psoriatic Arthritis
+4079733,239802003,Juvenile psoriatic arthritis,SNOMED,16,Psoriatic Arthritis
+4079734,239803008,Juvenile psoriatic arthritis with psoriasis,SNOMED,16,Psoriatic Arthritis
+4083680,239804002,Juvenile psoriatic arthritis without psoriasis,SNOMED,16,Psoriatic Arthritis
+40400229,201804001,Juvenile psoriatic arthritis with psoriasis,SNOMED,16,Psoriatic Arthritis
+42616788,M09.00,"Juvenile arthritis in psoriasis, multiple sites",ICD10,16,Psoriatic Arthritis
+42616789,M09.01,"Juvenile arthritis in psoriasis, shoulder region",ICD10,16,Psoriatic Arthritis
+42616790,M09.02,"Juvenile arthritis in psoriasis, upper arm",ICD10,16,Psoriatic Arthritis
+42616791,M09.03,"Juvenile arthritis in psoriasis, forearm",ICD10,16,Psoriatic Arthritis
+42616792,M09.04,"Juvenile arthritis in psoriasis, hand",ICD10,16,Psoriatic Arthritis
+42616793,M09.05,"Juvenile arthritis in psoriasis, pelvic region and thigh",ICD10,16,Psoriatic Arthritis
+42616794,M09.06,"Juvenile arthritis in psoriasis, lower leg",ICD10,16,Psoriatic Arthritis
+42616795,M09.07,"Juvenile arthritis in psoriasis, ankle and foot",ICD10,16,Psoriatic Arthritis
+42616796,M09.08,"Juvenile arthritis in psoriasis, other",ICD10,16,Psoriatic Arthritis
+42616797,M09.09,"Juvenile arthritis in psoriasis, site unspecified",ICD10,16,Psoriatic Arthritis
+45538646,M09.0,Juvenile arthritis in psoriasis,ICD10,16,Psoriatic Arthritis
+3519736,5.68E+14,"Arthritis associated with other disease, distal radioulnar joint",SNOMED,17,Other Inflammatory Arthritis
+3519738,5.68E+14,"Arthritis associated with other disease, distal interphalangeal joint of finger",SNOMED,17,Other Inflammatory Arthritis
+3521013,6.66E+14,"Arthritis associated with other disease, subtalar joint",SNOMED,17,Other Inflammatory Arthritis
+3521014,6.66E+14,"Arthritis associated with other disease, interphalangeal joint of toe",SNOMED,17,Other Inflammatory Arthritis
+3533056,5.67E+14,Other general diseases with associated arthropathy,SNOMED,17,Other Inflammatory Arthritis
+3534395,5.88E+14,"Arthritis associated with other disease, sternoclavicular joint",SNOMED,17,Other Inflammatory Arthritis
+3534397,5.88E+14,"Arthritis associated with other disease, wrist",SNOMED,17,Other Inflammatory Arthritis
+3534398,5.88E+14,"Arthritis associated with other disease, metacarpophalangeal joint",SNOMED,17,Other Inflammatory Arthritis
+3534399,5.88E+14,"Arthritis associated with other disease, proximal interphalangeal joint of finger",SNOMED,17,Other Inflammatory Arthritis
+3534401,5.88E+14,"Arthritis associated with other disease, sacroiliac joint",SNOMED,17,Other Inflammatory Arthritis
+3540642,6.82E+14,"Arthritis associated with other disease, shoulder",SNOMED,17,Other Inflammatory Arthritis
+3540643,6.82E+14,"Arthritis associated with other disease, acromioclavicular joint",SNOMED,17,Other Inflammatory Arthritis
+3540644,6.82E+14,"Arthritis associated with other disease, elbow",SNOMED,17,Other Inflammatory Arthritis
+3541166,6.90E+14,"Arthritis associated with other disease, other tarsal joint",SNOMED,17,Other Inflammatory Arthritis
+3541167,6.90E+14,"Arthritis associated with other disease, 1st metatarsophalangeal joint",SNOMED,17,Other Inflammatory Arthritis
+3541168,6.90E+14,"Arthritis associated with other disease, lesser metatarsophalangeal joint",SNOMED,17,Other Inflammatory Arthritis
+3541547,6.95E+14,"Arthritis associated with other disease, tibiofibular joint",SNOMED,17,Other Inflammatory Arthritis
+3541548,6.95E+14,"Arthritis associated with other disease, ankle",SNOMED,17,Other Inflammatory Arthritis
+3541737,6.98E+14,"Arthritis associated with other disease, talonavicular joint",SNOMED,17,Other Inflammatory Arthritis
+3565935,5.88E+14,"Arthritis associated with other disease, hip",SNOMED,17,Other Inflammatory Arthritis
+4035744,239821006,Secondary inflammatory arthritis,SNOMED,17,Other Inflammatory Arthritis
+4114430,201741005,"Arthritis associated with other disease, sternoclavicular joint",SNOMED,17,Other Inflammatory Arthritis
+4114431,201745001,"Arthritis associated with other disease, wrist",SNOMED,17,Other Inflammatory Arthritis
+4114432,201747009,"Arthritis associated with other disease, proximal interphalangeal joint of finger",SNOMED,17,Other Inflammatory Arthritis
+4114434,201750007,"Arthritis associated with other disease, hip",SNOMED,17,Other Inflammatory Arthritis
+4114436,201753009,"Arthritis associated with other disease, tibiofibular joint",SNOMED,17,Other Inflammatory Arthritis
+4114437,201755002,"Arthritis associated with other disease, subtalar joint",SNOMED,17,Other Inflammatory Arthritis
+4114928,201739009,Other general diseases with associated arthropathy,SNOMED,17,Other Inflammatory Arthritis
+4114929,201740006,"Arthritis associated with other disease, shoulder",SNOMED,17,Other Inflammatory Arthritis
+4114930,201748004,"Arthritis associated with other disease, distal interphalangeal joint of finger",SNOMED,17,Other Inflammatory Arthritis
+4115045,201751006,"Arthritis associated with other disease, sacroiliac joint",SNOMED,17,Other Inflammatory Arthritis
+4115046,201757005,"Arthritis associated with other disease, other tarsal joint",SNOMED,17,Other Inflammatory Arthritis
+4115047,201758000,"Arthritis associated with other disease, 1st metatarsophalangeal joint",SNOMED,17,Other Inflammatory Arthritis
+4115048,201760003,"Arthritis associated with other disease, interphalangeal joint of toe",SNOMED,17,Other Inflammatory Arthritis
+4116145,201746000,"Arthritis associated with other disease, metacarpophalangeal joint",SNOMED,17,Other Inflammatory Arthritis
+4116146,201756001,"Arthritis associated with other disease, talonavicular joint",SNOMED,17,Other Inflammatory Arthritis
+4116147,201759008,"Arthritis associated with other disease, lesser metatarsophalangeal joint",SNOMED,17,Other Inflammatory Arthritis
+4116435,201742003,"Arthritis associated with other disease, acromioclavicular joint",SNOMED,17,Other Inflammatory Arthritis
+4116436,201743008,"Arthritis associated with other disease, elbow",SNOMED,17,Other Inflammatory Arthritis
+4116437,201744002,"Arthritis associated with other disease, distal radioulnar joint",SNOMED,17,Other Inflammatory Arthritis
+4116438,201754003,"Arthritis associated with other disease, ankle",SNOMED,17,Other Inflammatory Arthritis
+4220761,417180005,Undifferentiated inflammatory arthritis,SNOMED,17,Other Inflammatory Arthritis
+4291025,3723001,Arthritis,SNOMED,17,Other Inflammatory Arthritis
+40353937,268092005,Synovitis &/or tenosynovitis,SNOMED,17,Other Inflammatory Arthritis
+44783868,699861000,"Granulomatous inflammatory arthritis, dermatitis and uveitis, familial",SNOMED,17,Other Inflammatory Arthritis
+44810522,8.79E+14,Talonavicular osteoarthritis secondary to inflammatory arthritis,SNOMED,17,Other Inflammatory Arthritis
+44810526,8.79E+14,Subtalar osteoarthritis secondary to inflammatory arthritis,SNOMED,17,Other Inflammatory Arthritis
+44810531,8.79E+14,Calcaneocuboid osteoarthritis secondary to inflammatory arthritis,SNOMED,17,Other Inflammatory Arthritis
+44810537,8.79E+14,Osteoarthritis of midfoot secondary to inflammatory arthritis,SNOMED,17,Other Inflammatory Arthritis
+44810541,8.79E+14,Osteoarthritis of first metatarsophalangeal joint secondary to inflammatory arthritis,SNOMED,17,Other Inflammatory Arthritis
+44813975,8.79E+14,Osteoarthritis of ankle secondary to inflammatory arthritis,SNOMED,17,Other Inflammatory Arthritis
+45763802,700316000,Subtalar osteoarthritis secondary to inflammatory arthritis,SNOMED,17,Other Inflammatory Arthritis
+45763803,700317009,Calcaneocuboid osteoarthritis secondary to inflammatory arthritis,SNOMED,17,Other Inflammatory Arthritis
+45763804,700318004,Osteoarthritis of ankle secondary to inflammatory arthritis,SNOMED,17,Other Inflammatory Arthritis
+45763815,700331009,Talonavicular osteoarthritis secondary to inflammatory arthritis,SNOMED,17,Other Inflammatory Arthritis
+45763819,700336004,Osteoarthritis of first metatarsophalangeal joint secondary to inflammatory arthritis,SNOMED,17,Other Inflammatory Arthritis
+45765981,703054007,Osteoarthritis of midfoot secondary to inflammatory arthritis,SNOMED,17,Other Inflammatory Arthritis
+437082,9631008,Ankylosing spondylitis,SNOMED,18,Ankylosing Spondylitis
+1570654,M45,Ankylosing spondylitis,ICD10CM,18,Ankylosing Spondylitis
+4030579,129564003,Ankylosing spondylarthritis and eye lesions,SNOMED,18,Ankylosing Spondylitis
+4035614,239810002,Ankylosing spondylitis with organ / system involvement,SNOMED,18,Ankylosing Spondylitis
+4035741,239811003,Ankylosing spondylitis with multisystem involvement,SNOMED,18,Ankylosing Spondylitis
+4060449,162930007,On examination - ankylosing spondylitis chest deformity,SNOMED,18,Ankylosing Spondylitis
+4079735,239806000,Juvenile spondyloarthropathy,SNOMED,18,Ankylosing Spondylitis
+4083681,239805001,Juvenile ankylosing spondylitis,SNOMED,18,Ankylosing Spondylitis
+35208754,M08.1,Juvenile ankylosing spondylitis,ICD10CM,18,Ankylosing Spondylitis
+37203959,786077003,Ankylosing spondylitis co-occurrent with anterior uveitis,SNOMED,18,Ankylosing Spondylitis
+40320828,156619005,Ankylosing spondylitis,SNOMED,18,Ankylosing Spondylitis
+40400227,201802002,Juvenile ankylosing spondylitis,SNOMED,18,Ankylosing Spondylitis
+42616731,M08.10,"Juvenile ankylosing spondylitis, multiple sites",ICD10,18,Ankylosing Spondylitis
+42616732,M08.11,"Juvenile ankylosing spondylitis, shoulder region",ICD10,18,Ankylosing Spondylitis
+42616733,M08.13,"Juvenile ankylosing spondylitis, forearm",ICD10,18,Ankylosing Spondylitis
+42616734,M08.14,"Juvenile ankylosing spondylitis, hand",ICD10,18,Ankylosing Spondylitis
+42616735,M08.15,"Juvenile ankylosing spondylitis, pelvic region and thigh",ICD10,18,Ankylosing Spondylitis
+42616736,M08.16,"Juvenile ankylosing spondylitis, lower leg",ICD10,18,Ankylosing Spondylitis
+42616737,M08.17,"Juvenile ankylosing spondylitis, ankle and foot",ICD10,18,Ankylosing Spondylitis
+42616738,M08.18,"Juvenile ankylosing spondylitis, other",ICD10,18,Ankylosing Spondylitis
+42616739,M08.19,"Juvenile ankylosing spondylitis, site unspecified",ICD10,18,Ankylosing Spondylitis
+42619386,M08.12,"Juvenile ankylosing spondylitis, upper arm",ICD10,18,Ankylosing Spondylitis
+45533840,M45.1,Ankylosing spondylitis of occipito-atlanto-axial region,ICD10CM,18,Ankylosing Spondylitis
+45533841,M45.2,Ankylosing spondylitis of cervical region,ICD10CM,18,Ankylosing Spondylitis
+45543577,M45.5,Ankylosing spondylitis of thoracolumbar region,ICD10CM,18,Ankylosing Spondylitis
+45548418,M45.0,Ankylosing spondylitis of multiple sites in spine,ICD10CM,18,Ankylosing Spondylitis
+45548419,M45.6,Ankylosing spondylitis lumbar region,ICD10CM,18,Ankylosing Spondylitis
+45553184,M45.4,Ankylosing spondylitis of thoracic region,ICD10CM,18,Ankylosing Spondylitis
+45567561,M45.8,Ankylosing spondylitis sacral and sacrococcygeal region,ICD10CM,18,Ankylosing Spondylitis
+45582150,M45.9,Ankylosing spondylitis of unspecified sites in spine,ICD10CM,18,Ankylosing Spondylitis
+45586969,M45.3,Ankylosing spondylitis of cervicothoracic region,ICD10CM,18,Ankylosing Spondylitis
+45591841,M45,Ankylosing spondylitis,ICD10,18,Ankylosing Spondylitis
+45601454,M45.7,Ankylosing spondylitis of lumbosacral region,ICD10CM,18,Ankylosing Spondylitis
+45606073,M08.1,Juvenile ankylosing spondylitis,ICD10,18,Ankylosing Spondylitis
+78799,13470001,Chronic ulcerative ileocolitis,SNOMED,19,Ulcerative Colitis
+81893,64766004,Ulcerative colitis,SNOMED,19,Ulcerative Colitis
+1569619,K51,Ulcerative colitis,ICD10CM,19,Ulcerative Colitis
+1569628,K51.5,Left sided colitis,ICD10CM,19,Ulcerative Colitis
+1569629,K51.51,Left sided colitis with complications,ICD10CM,19,Ulcerative Colitis
+1569630,K51.8,Other ulcerative colitis,ICD10CM,19,Ulcerative Colitis
+1569632,K51.9,"Ulcerative colitis, unspecified",ICD10CM,19,Ulcerative Colitis
+3545198,8.22E+14,Ulcerative pancolitis,SNOMED,19,Ulcerative Colitis
+3545214,8.23E+14,Left sided ulcerative colitis,SNOMED,19,Ulcerative Colitis
+3545513,8.35E+14,Ulcerative pancolitis,SNOMED,19,Ulcerative Colitis
+3545523,8.35E+14,Left sided ulcerative colitis,SNOMED,19,Ulcerative Colitis
+4005188,12109003,Hemolytic anemia associated with ulcerative colitis,SNOMED,19,Ulcerative Colitis
+4029372,128600008,Acute ulcerative colitis,SNOMED,19,Ulcerative Colitis
+4031048,14311001,Severe chronic ulcerative colitis,SNOMED,19,Ulcerative Colitis
+4057683,196990002,Ulcerative proctocolitis NOS,SNOMED,19,Ulcerative Colitis
+4259504,410484008,Iritis with ulcerative colitis,SNOMED,19,Ulcerative Colitis
+4301738,78324009,Mild chronic ulcerative colitis,SNOMED,19,Ulcerative Colitis
+4302002,78712000,Moderate chronic ulcerative colitis,SNOMED,19,Ulcerative Colitis
+37116301,732966008,Secondary autoimmune hemolytic anemia co-occurrent and due to ulcerative colitis,SNOMED,19,Ulcerative Colitis
+40317144,155764007,Ulcerative colitis,SNOMED,19,Ulcerative Colitis
+40346310,266447004,Ulcerative colitis,SNOMED,19,Ulcerative Colitis
+40364800,27701000,Proctocolitis,SNOMED,19,Ulcerative Colitis
+40392452,196988003,Ulcerative colitis,SNOMED,19,Ulcerative Colitis
+40479839,444548001,Ulcerative pancolitis,SNOMED,19,Ulcerative Colitis
+40482865,445243001,Left sided ulcerative colitis,SNOMED,19,Ulcerative Colitis
+44795679,4.13E+14,[X]Other ulcerative colitis,SNOMED,19,Ulcerative Colitis
+45533604,K51.5,Left sided colitis,ICD10,19,Ulcerative Colitis
+45557655,K51,Ulcerative colitis,ICD10,19,Ulcerative Colitis
+45567310,K51.90,"Ulcerative colitis, unspecified, without complications",ICD10CM,19,Ulcerative Colitis
+45586718,K51.50,Left sided colitis without complications,ICD10CM,19,Ulcerative Colitis
+45586720,K51.8,Other ulcerative colitis,ICD10,19,Ulcerative Colitis
+45586721,K51.80,Other ulcerative colitis without complications,ICD10CM,19,Ulcerative Colitis
+45605941,K51.9,"Ulcerative colitis, unspecified",ICD10,19,Ulcerative Colitis
+45755436,K51.1,Ulcerative (chronic) ileocolitis,ICD10,19,Ulcerative Colitis
+80182,396230008,Dermatomyositis,SNOMED,20,Dermatomyositis
+1326704,M33.03,Juvenile dermatomyositis without myopathy,ICD10CM,20,Dermatomyositis
+1326705,M33.13,Other dermatomyositis without myopathy,ICD10CM,20,Dermatomyositis
+1326706,M33.93,"Dermatopolymyositis, unspecified without myopathy",ICD10CM,20,Dermatomyositis
+1570614,M33,Dermatopolymyositis,ICD10CM,20,Dermatomyositis
+1570615,M33.0,Juvenile dermatomyositis,ICD10CM,20,Dermatomyositis
+1570616,M33.1,Other dermatomyositis,ICD10CM,20,Dermatomyositis
+1570618,M33.9,"Dermatopolymyositis, unspecified",ICD10CM,20,Dermatomyositis
+4005037,1212005,Childhood type dermatomyositis,SNOMED,20,Dermatomyositis
+4033497,238936001,Sclerodermatomyositis,SNOMED,20,Dermatomyositis
+4081250,238935002,Dermatomyositis sine myositis,SNOMED,20,Dermatomyositis
+4084268,281358000,Idiopathic dermatomyositis,SNOMED,20,Dermatomyositis
+4214825,396229003,Adult type dermatomyositis,SNOMED,20,Dermatomyositis
+4314120,86365006,Poikilodermatomyositis,SNOMED,20,Dermatomyositis
+37395588,3.12E+14,Juvenile dermatomyositis co-occurrent with respiratory involvement,SNOMED,20,Dermatomyositis
+40320285,156456005,Dermatomyositis,SNOMED,20,Dermatomyositis
+40405495,201445002,Dermatomyositis (& [Poikilodermatomyositis]),SNOMED,20,Dermatomyositis
+40405496,201446001,Juvenile dermatomyositis,SNOMED,20,Dermatomyositis
+40558188,38826005,Dermatomyositis,SNOMED,20,Dermatomyositis
+44801345,4.62E+14,[X]Other dermatomyositis,SNOMED,20,Dermatomyositis
+45533827,M33.09,Juvenile dermatomyositis with other organ involvement,ICD10CM,20,Dermatomyositis
+45538753,M33.1,Other dermatomyositis,ICD10,20,Dermatomyositis
+45553168,M33.19,Other dermatomyositis with other organ involvement,ICD10CM,20,Dermatomyositis
+45553169,M33.9,"Dermatopolymyositis, unspecified",ICD10,20,Dermatomyositis
+45553170,M33.90,"Dermatopolymyositis, unspecified, organ involvement unspecified",ICD10CM,20,Dermatomyositis
+45557864,M33.01,Juvenile dermatomyositis with respiratory involvement,ICD10CM,20,Dermatomyositis
+45562710,M33.10,"Other dermatomyositis, organ involvement unspecified",ICD10CM,20,Dermatomyositis
+45567546,M33,Dermatopolymyositis,ICD10,20,Dermatomyositis
+45567547,M33.00,"Juvenile dermatomyositis, organ involvement unspecified",ICD10CM,20,Dermatomyositis
+45572446,M33.11,Other dermatomyositis with respiratory involvement,ICD10CM,20,Dermatomyositis
+45572447,M33.91,"Dermatopolymyositis, unspecified with respiratory involvement",ICD10CM,20,Dermatomyositis
+45582127,M33.92,"Dermatopolymyositis, unspecified with myopathy",ICD10CM,20,Dermatomyositis
+45586956,M33.99,"Dermatopolymyositis, unspecified with other organ involvement",ICD10CM,20,Dermatomyositis
+45591821,M33.02,Juvenile dermatomyositis with myopathy,ICD10CM,20,Dermatomyositis
+45591822,M33.12,Other dermatomyositis with myopathy,ICD10CM,20,Dermatomyositis
+45601435,M33.0,Juvenile dermatomyositis,ICD10,20,Dermatomyositis
+44796752,4.20E+14,"[X]Dermatopolymyositis, unspecified",SNOMED,20,Dermatomyositis
+80182,396230008,Dermatomyositis,SNOMED,20,Dermatomyositis
+44796752,4.20E+14,"[X]Dermatopolymyositis, unspecified",SNOMED,21,Polymyositis
+80182,396230008,Dermatomyositis,SNOMED,21,Polymyositis
+45582127,M33.92,"Dermatopolymyositis, unspecified with myopathy",ICD10CM,21,Polymyositis
+45586956,M33.99,"Dermatopolymyositis, unspecified with other organ involvement",ICD10CM,21,Polymyositis
+80800,31384009,Polymyositis,SNOMED,21,Polymyositis
+1570617,M33.2,Polymyositis,ICD10CM,21,Polymyositis
+4055369,196136009,Lung disease with polymyositis,SNOMED,21,Polymyositis
+4084780,281357005,Idiopathic polymyositis,SNOMED,21,Polymyositis
+4343926,239898008,Polymyositis with malignant disease,SNOMED,21,Polymyositis
+4345576,240120003,Eosinophilic polymyositis,SNOMED,21,Polymyositis
+4346977,239899000,Polymyositis associated with autoimmune disease,SNOMED,21,Polymyositis
+37395589,3.18E+14,Myopathy co-occurrent and due to polymyositis,SNOMED,21,Polymyositis
+40320286,156457001,Polymyositis,SNOMED,21,Polymyositis
+45548402,M33.20,"Polymyositis, organ involvement unspecified",ICD10CM,21,Polymyositis
+45557865,M33.22,Polymyositis with myopathy,ICD10CM,21,Polymyositis
+45567548,M33.2,Polymyositis,ICD10,21,Polymyositis
+45591823,M33.29,Polymyositis with other organ involvement,ICD10CM,21,Polymyositis
+45596564,M33.21,Polymyositis with respiratory involvement,ICD10CM,21,Polymyositis
+139803,47000000,Acute transverse myelitis,SNOMED,22,Transverse Myelitis
+4044077,230378004,Acute non-infective transverse myelitis,SNOMED,22,Transverse Myelitis
+35207373,G37.3,Acute transverse myelitis in demyelinating disease of central nervous system,ICD10CM,22,Transverse Myelitis
+45605536,G37.3,Acute transverse myelitis in demyelinating disease of central nervous system,ICD10,22,Transverse Myelitis
+72398,62918002,Arthropathy in Behcet's syndrome,SNOMED,23,Behcets Disease
+72399,201492003,Arthropathy in Behcet's syndrome of multiple sites,SNOMED,23,Behcets Disease
+74720,201491005,Arthropathy in Behcet's syndrome of the ankle and/or foot,SNOMED,23,Behcets Disease
+76776,201490006,Arthropathy in Behcet's syndrome of the lower leg,SNOMED,23,Behcets Disease
+76778,201489002,Arthropathy in Behcet's syndrome of the pelvic region and thigh,SNOMED,23,Behcets Disease
+81100,201488005,Arthropathy in Behcet's syndrome of the hand,SNOMED,23,Behcets Disease
+81656,201485008,Arthropathy in Behcet's syndrome of the shoulder region,SNOMED,23,Behcets Disease
+436642,310701003,Behcet's syndrome,SNOMED,23,Behcets Disease
+438503,201487000,Arthropathy in Behcet's syndrome of the forearm,SNOMED,23,Behcets Disease
+439352,201486009,Arthropathy in Behcet's syndrome of the upper arm,SNOMED,23,Behcets Disease
+3533066,5.67E+14,Arthropathy in Behcet's syndrome of unspecified site,SNOMED,23,Behcets Disease
+3569218,5.95E+14,Arthropathy in Behcet's syndrome of other specified sites,SNOMED,23,Behcets Disease
+4063586,201493008,Arthropathy in Behcet's syndrome of other specified sites,SNOMED,23,Behcets Disease
+4067202,201494002,Arthropathy in Behcet's syndrome NOS,SNOMED,23,Behcets Disease
+4070155,21542005,"Behcet's syndrome, neurologic type",SNOMED,23,Behcets Disease
+4138971,3275009,"Behcet's syndrome, vascular type",SNOMED,23,Behcets Disease
+4146247,267884002,Arthropathy in Behcet's syndrome of unspecified site,SNOMED,23,Behcets Disease
+4176016,428169009,Arthropathy in Behcet's syndrome of the ankle,SNOMED,23,Behcets Disease
+4176931,427967009,Arthropathy in Behcet's syndrome of the spine,SNOMED,23,Behcets Disease
+4202809,54034003,"Behcet's syndrome, intestinal type",SNOMED,23,Behcets Disease
+4203452,53485006,"Behcet's syndrome, incomplete type",SNOMED,23,Behcets Disease
+4211990,57484009,"Behcet's syndrome, complete type",SNOMED,23,Behcets Disease
+4293711,403443000,Beh√ßet's disease affecting oral mucosa,SNOMED,23,Behcets Disease
+4343930,239922003,Behcet's disease with multisystem involvement,SNOMED,23,Behcets Disease
+4347061,239921005,Behcet's disease with organ/system involvement,SNOMED,23,Behcets Disease
+35208833,M35.2,Behcet's disease,ICD10CM,23,Behcets Disease
+40320119,154424000,Behcet's disease,SNOMED,23,Behcets Disease
+40405898,201484007,Arthropathy in Behcet's syndrome (& [unspecified site]),SNOMED,23,Behcets Disease
+40585629,41225007,Beh√ßet's syndrome,SNOMED,23,Behcets Disease
+45548404,M35.2,Beh√ßet disease,ICD10,23,Behcets Disease
+76685,91637004,Myasthenia gravis,SNOMED,24,Myasthenia Gravis
+1568401,G70.0,Myasthenia gravis,ICD10CM,24,Myasthenia Gravis
+4043730,230686005,Generalized myasthenia,SNOMED,24,Myasthenia Gravis
+4045732,230687001,Myopathy in myasthenia gravis,SNOMED,24,Myasthenia Gravis
+4046355,230669004,Genetically determined myasthenia,SNOMED,24,Myasthenia Gravis
+4048782,230684008,Ocular myasthenia,SNOMED,24,Myasthenia Gravis
+4102496,193208002,Myasthenia gravis NOS,SNOMED,24,Myasthenia Gravis
+4105021,193207007,Juvenile or adult myasthenia gravis,SNOMED,24,Myasthenia Gravis
+4135454,31839002,"Myasthenia gravis, adult form",SNOMED,24,Myasthenia Gravis
+4189667,414927004,Ocular myasthenia with strabismus,SNOMED,24,Myasthenia Gravis
+4204694,55051001,"Myasthenia gravis, juvenile form",SNOMED,24,Myasthenia Gravis
+40322815,155092009,Myasthenia gravis,SNOMED,24,Myasthenia Gravis
+43531560,7.75E+13,Myasthenia gravis with exacerbation,SNOMED,24,Myasthenia Gravis
+43531561,7.75E+13,Myasthenia gravis without exacerbation,SNOMED,24,Myasthenia Gravis
+44797408,4.33E+14,[X]Myasthenic syndromes in endocrine diseases classified elsewhere,SNOMED,24,Myasthenia Gravis
+44800181,4.64E+14,[X]Myasthenic syndromes in other diseases classified elsewhere,SNOMED,24,Myasthenia Gravis
+45557252,G70.00,Myasthenia gravis without (acute) exacerbation,ICD10CM,24,Myasthenia Gravis
+45566900,G70.01,Myasthenia gravis with (acute) exacerbation,ICD10CM,24,Myasthenia Gravis
+45576606,G70.0,Myasthenia gravis,ICD10,24,Myasthenia Gravis
+134618,60216004,Toxic diffuse goiter with thyrotoxic crisis,SNOMED,25,Graves Disease
+138717,267374005,Toxic diffuse goiter,SNOMED,25,Graves Disease
+1567896,E05.0,Thyrotoxicosis with diffuse goiter,ICD10CM,25,Graves Disease
+3573203,6.04E+14,Toxic diffuse goitre NOS,SNOMED,25,Graves Disease
+4030350,237824009,Juvenile Graves' disease,SNOMED,25,Graves Disease
+4034811,237499004,Thyrotoxicosis due to Graves' disease,SNOMED,25,Graves Disease
+4049335,15470004,Toxic diffuse goiter with acropachy,SNOMED,25,Graves Disease
+4095104,26151008,Graves' disease with acropachy AND with thyrotoxic crisis,SNOMED,25,Graves Disease
+4095901,190243000,Toxic diffuse goiter NOS,SNOMED,25,Graves Disease
+4165874,479003,Graves' disease with pretibial myxedema AND with thyrotoxic crisis,SNOMED,25,Graves Disease
+4185522,55807009,Exophthalmos due to toxic diffuse goiter,SNOMED,25,Graves Disease
+4232076,353295004,Graves' disease,SNOMED,25,Graves Disease
+4243976,60268006,Toxic diffuse goiter with pretibial myxedema,SNOMED,25,Graves Disease
+4279396,367367004,Basedow's disease,SNOMED,25,Graves Disease
+4280939,66628005,Toxic diffuse goiter with exophthalmos AND with thyrotoxic storm,SNOMED,25,Graves Disease
+40320731,154656003,Toxic diffuse goiter,SNOMED,25,Graves Disease
+40386261,190240002,Toxic diffuse goiter (& [Basedow's disease] or [Graves' disease]),SNOMED,25,Graves Disease
+40438630,237823003,Graves' disease,SNOMED,25,Graves Disease
+40547692,367449005,Graves' disease,SNOMED,25,Graves Disease
+45557103,E05.00,Thyrotoxicosis with diffuse goiter without thyrotoxic crisis or storm,ICD10CM,25,Graves Disease
+45595787,E05.01,Thyrotoxicosis with diffuse goiter with thyrotoxic crisis or storm,ICD10CM,25,Graves Disease
+45600628,E05.0,Thyrotoxicosis with diffuse goitre,ICD10,25,Graves Disease
+436956,75331009,Evans syndrome,SNOMED,26,Anemia
+441269,413603009,Autoimmune hemolytic anemia,SNOMED,26,Anemia
+725238,D59.10,"Autoimmune hemolytic anemia, unspecified",ICD10CM,26,Anemia
+725239,D59.11,Warm autoimmune hemolytic anemia,ICD10CM,26,Anemia
+725240,D59.12,Cold autoimmune hemolytic anemia,ICD10CM,26,Anemia
+725241,D59.13,Mixed type autoimmune hemolytic anemia,ICD10CM,26,Anemia
+725242,D59.19,Other autoimmune hemolytic anemia,ICD10CM,26,Anemia
+4005188,12109003,Hemolytic anemia associated with ulcerative colitis,SNOMED,26,Anemia
+4009790,111582001,Hemolytic anemia associated with rheumatic disorder,SNOMED,26,Anemia
+4039536,11781007,Autoimmune hemolytic anemia due to complement,SNOMED,26,Anemia
+4077896,18889005,Hemolytic anemia associated with chronic inflammatory disease,SNOMED,26,Anemia
+4098017,191210005,Primary cold-type hemolytic anemia,SNOMED,26,Anemia
+4098753,191211009,Primary warm-type hemolytic anemia,SNOMED,26,Anemia
+4098755,191215000,Autoimmune hemolytic anemia NOS,SNOMED,26,Anemia
+4130191,127052005,Secondary warm autoimmune hemolytic anemia,SNOMED,26,Anemia
+4130679,127051003,Primary (idiopathic) warm autoimmune hemolytic anemia,SNOMED,26,Anemia
+4130680,127061005,"Autoimmune hemolytic anemia, categorized by antibody class AND/OR complement",SNOMED,26,Anemia
+4131127,127050002,Secondary autoimmune hemolytic anemia,SNOMED,26,Anemia
+4131128,127055007,Chronic cold agglutinin disease,SNOMED,26,Anemia
+4131915,127049002,Primary (idiopathic) autoimmune hemolytic anemia,SNOMED,26,Anemia
+4131917,127057004,Paroxysmal cold hemoglobinuria,SNOMED,26,Anemia
+4143167,33491002,Autoimmune hemolytic anemia due to IgA plus complement,SNOMED,26,Anemia
+4146745,30048004,Cold erythema associated with hemolysins,SNOMED,26,Anemia
+4149042,35703006,Post-viral paroxysmal cold hemoglobinuria,SNOMED,26,Anemia
+4160887,398937006,Cold autoimmune hemolytic anemia,SNOMED,26,Anemia
+4174376,50253007,Secondary paroxysmal cold hemoglobinuria,SNOMED,26,Anemia
+4209139,5603006,Autoimmune hemolytic anemia due to IgG,SNOMED,26,Anemia
+4215784,71832003,Autoimmune hemolytic anemia due to IgM,SNOMED,26,Anemia
+4219853,3978000,Warm autoimmune hemolytic anemia,SNOMED,26,Anemia
+4238904,91411007,Autoimmune hemolytic anemia due to IgA,SNOMED,26,Anemia
+4269919,62609001,Autoimmune hemolytic anemia due to IgG plus complement,SNOMED,26,Anemia
+4271197,62871001,Idiopathic paroxysmal cold hemoglobinuria,SNOMED,26,Anemia
+4281372,66184009,Hemolytic anemia associated with lymphoproliferative disorder,SNOMED,26,Anemia
+4320480,69746005,Hemolytic anemia associated with systemic lupus erythematosus,SNOMED,26,Anemia
+35206732,D59.1,Other autoimmune hemolytic anemias,ICD10CM,26,Anemia
+36713763,718716008,Autoimmune hemolytic anemia mixed type,SNOMED,26,Anemia
+37116297,732962005,Secondary autoimmune hemolytic anemia co-occurrent and due to chronic inflammatory disease,SNOMED,26,Anemia
+37116298,732963000,Secondary autoimmune hemolytic anemia co-occurrent and due to lymphoproliferative disorder,SNOMED,26,Anemia
+37116300,732965007,Secondary autoimmune hemolytic anemia co-occurrent and due to rheumatic disorder,SNOMED,26,Anemia
+37116301,732966008,Secondary autoimmune hemolytic anemia co-occurrent and due to ulcerative colitis,SNOMED,26,Anemia
+37117740,732960002,Secondary autoimmune hemolytic anemia co-occurrent and due to systemic lupus erythematosus,SNOMED,26,Anemia
+40310689,1468004,Cold autoimmune hemolytic anemia,SNOMED,26,Anemia
+40321691,154803002,Autoimmune hemolytic anemia,SNOMED,26,Anemia
+40390052,191209000,(Autoimmune hemolytic anemias) or (Coombs positive hemolysis),SNOMED,26,Anemia
+40390393,191224009,Cold Donath Landsteiner type autoimmune hemolytic anemia,SNOMED,26,Anemia
+40431447,234382005,Cold hemagglutinin disease,SNOMED,26,Anemia
+44795774,4.11E+14,[X]Other autoimmune haemolytic anaemias,SNOMED,26,Anemia
+45557091,D69.41,Evans syndrome,ICD10CM,26,Anemia
+45566703,D59.1,Other autoimmune haemolytic anaemias,ICD10,26,Anemia

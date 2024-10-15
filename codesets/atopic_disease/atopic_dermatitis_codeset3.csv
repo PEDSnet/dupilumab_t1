@@ -1,0 +1,48 @@
+concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason
+4223641,Acute atopic dermatitis of hand,Condition,SNOMED,Clinical Finding,S,402229003,7/31/03,12/31/99,NA
+4296193,Adult atopic dermatitis,Condition,SNOMED,Clinical Finding,S,402197001,7/31/03,12/31/99,NA
+4298601,Adult atopic dermatitis commencing in adult life,Condition,SNOMED,Clinical Finding,S,402200000,7/31/03,12/31/99,NA
+4297362,Adult atopic dermatitis persistent from childhood,Condition,SNOMED,Clinical Finding,S,402198006,7/31/03,12/31/99,NA
+4298600,Adult atopic dermatitis recurrent in adult life,Condition,SNOMED,Clinical Finding,S,402199003,7/31/03,12/31/99,NA
+1569765,Atopic dermatitis,Condition,ICD10CM,3-char nonbill code,NA,L20,1/1/12,12/31/99,NA
+40319730,Atopic dermatitis,Condition,SNOMED,Clinical Finding,NA,156331003,1/1/70,1/31/02,U
+133834,Atopic dermatitis,Condition,SNOMED,Clinical Finding,S,24079001,1/31/02,12/31/99,NA
+4290737,Atopic dermatitis aggravated by type 1 immune reaction,Condition,SNOMED,Clinical Finding,S,402188000,7/31/03,12/31/99,NA
+442067,Atopic dermatitis and related conditions,Condition,SNOMED,Clinical Finding,NA,200769008,1/31/02,1/27/22,U
+3530804,Atopic dermatitis and related conditions,Condition,SNOMED,Clinical Finding,NA,5.32E+14,4/1/10,4/1/12,U
+40482226,Atopic dermatitis due to animal dander,Condition,SNOMED,Clinical Finding,S,442145005,7/31/09,12/31/99,NA
+4061737,Atopic dermatitis NOS,Condition,SNOMED,Clinical Finding,NA,200779005,1/31/02,1/31/10,U
+3534150,Atopic dermatitis NOS,Condition,SNOMED,Clinical Finding,NA,5.85E+14,4/1/10,4/1/12,U
+4031012,Atopic dermatitis of bilateral hands,Condition,SNOMED,Clinical Finding,S,238541000,1/31/02,12/31/99,NA
+4290740,Atopic dermatitis of eyelid,Condition,SNOMED,Clinical Finding,S,402193002,7/31/03,12/31/99,NA
+4298598,Atopic dermatitis of face,Condition,SNOMED,Clinical Finding,S,402192007,7/31/03,12/31/99,NA
+4296190,Atopic dermatitis of scalp,Condition,SNOMED,Clinical Finding,S,402191000,7/31/03,12/31/99,NA
+35208450,"Atopic dermatitis, unspecified",Condition,ICD10CM,4-char billing code,NA,L20.9,1/1/07,12/31/99,NA
+40319736,Atopic eczema/dermatitis NOS,Condition,SNOMED,Clinical Finding,NA,156337004,1/1/70,1/31/02,U
+4148919,Atopic eczema/dermatitis NOS,Condition,SNOMED,Clinical Finding,NA,267841003,1/31/02,1/31/10,U
+3540255,Atopic eczema/dermatitis NOS,Condition,SNOMED,Clinical Finding,NA,6.77E+14,4/1/10,10/1/12,U
+45543364,Atopic neurodermatitis,Condition,ICD10CM,5-char billing code,NA,L20.81,1/1/70,12/31/99,NA
+4066382,Atopic neurodermatitis,Condition,SNOMED,Clinical Finding,S,200775004,1/31/02,12/31/99,NA
+4296191,Cheilitis due to atopic dermatitis,Condition,SNOMED,Clinical Finding,S,402194008,7/31/03,12/31/99,NA
+4296192,Childhood atopic dermatitis,Condition,SNOMED,Clinical Finding,S,402196005,7/31/03,12/31/99,NA
+4223478,Chronic atopic dermatitis of hand,Condition,SNOMED,Clinical Finding,S,402230008,7/31/03,12/31/99,NA
+4206125,Chronic lichenified atopic dermatitis,Condition,SNOMED,Clinical Finding,S,309461001,1/31/02,12/31/99,NA
+4031631,Discoid atopic dermatitis,Condition,SNOMED,Clinical Finding,S,238543002,1/31/02,12/31/99,NA
+40581054,Discoid pattern atopic dermatitis,Condition,SNOMED,Clinical Finding,NA,402184003,7/31/03,7/31/04,U
+4290735,Discoid pattern atopic hand dermatitis,Condition,SNOMED,Clinical Finding,S,402185002,7/31/03,12/31/99,NA
+4080927,Erythrodermic atopic dermatitis,Condition,SNOMED,Clinical Finding,S,238544008,1/31/02,12/31/99,NA
+40319732,Flexural atopic dermatitis,Condition,SNOMED,Clinical Finding,NA,156333000,1/1/70,1/31/02,U
+4290734,Flexural atopic dermatitis,Condition,SNOMED,Clinical Finding,S,402183009,7/31/03,12/31/99,NA
+4210912,Flexural eczema,Condition,SNOMED,Clinical Finding,S,57092006,1/31/02,12/31/99,NA
+4080928,Follicular atopic dermatitis,Condition,SNOMED,Clinical Finding,S,238545009,1/31/02,12/31/99,NA
+4298597,Generalized atopic dermatitis,Condition,SNOMED,Clinical Finding,S,402186001,7/31/03,12/31/99,NA
+4297478,Impetiginized atopic dermatitis,Condition,SNOMED,Clinical Finding,S,402201001,7/31/03,12/31/99,NA
+4298599,Infantile atopic dermatitis,Condition,SNOMED,Clinical Finding,S,402195009,7/31/03,12/31/99,NA
+4031630,Inverse pattern atopic dermatitis,Condition,SNOMED,Clinical Finding,S,238542007,1/31/02,12/31/99,NA
+1569766,Other atopic dermatitis,Condition,ICD10CM,4-char nonbill code,NA,L20.8,1/1/12,12/31/99,NA
+45567351,Other atopic dermatitis,Condition,ICD10CM,5-char billing code,NA,L20.89,1/1/70,12/31/99,NA
+4031013,Photoaggravated atopic dermatitis,Condition,SNOMED,Clinical Finding,S,238548006,1/31/02,12/31/99,NA
+4033671,Photosensitive atopic dermatitis,Condition,SNOMED,Clinical Finding,S,238547001,1/31/02,12/31/99,NA
+4080929,Pruriginous atopic dermatitis,Condition,SNOMED,Clinical Finding,S,238546005,1/31/02,12/31/99,NA
+4290736,Prurigo pattern atopic dermatitis,Condition,SNOMED,Clinical Finding,S,402187005,7/31/03,12/31/99,NA
+4290738,Xerosis due to atopic dermatitis,Condition,SNOMED,Clinical Finding,S,402189008,7/31/03,12/31/99,NA

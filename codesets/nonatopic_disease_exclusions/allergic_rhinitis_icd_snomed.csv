@@ -1,0 +1,63 @@
+concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason
+35207972,Allergic rhinitis due to pollen,Condition,ICD10CM,4-char billing code,NA,J30.1,2007-01-01,2099-12-31,NA
+35207973,Other seasonal allergic rhinitis,Condition,ICD10CM,4-char billing code,NA,J30.2,2007-01-01,2099-12-31,NA
+45552885,Allergic rhinitis due to food,Condition,ICD10CM,4-char billing code,NA,J30.5,2014-07-01,2099-12-31,NA
+1569473,Other allergic rhinitis,Condition,ICD10CM,4-char nonbill code,NA,J30.8,2012-01-01,2099-12-31,NA
+45601125,Allergic rhinitis due to animal (cat) (dog) hair and dander,Condition,ICD10CM,5-char billing code,NA,J30.81,1970-01-01,2099-12-31,NA
+45581853,Other allergic rhinitis,Condition,ICD10CM,5-char billing code,NA,J30.89,1970-01-01,2099-12-31,NA
+45591555,"Allergic rhinitis, unspecified",Condition,ICD10CM,4-char billing code,NA,J30.9,1970-01-01,2099-12-31,NA
+45757081,Allergic rhinitis caused by feathers,Condition,SNOMED,Clinical Finding,S,10629391000119103,2015-01-31,2099-12-31,NA
+46269743,Allergic rhinitis caused by insects,Condition,SNOMED,Clinical Finding,S,10629431000119108,2015-07-31,2099-12-31,NA
+45757082,Allergic rhinitis caused by mold,Condition,SNOMED,Clinical Finding,S,10629471000119106,2015-01-31,2099-12-31,NA
+46269767,Acute severe exacerbation of asthma co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10674711000119105,2015-07-31,2099-12-31,NA
+46269771,Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10675551000119104,2015-07-31,2099-12-31,NA
+46269773,Severe persistent asthma controlled co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10675631000119109,2015-07-31,2099-12-31,NA
+46269775,Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10675711000119106,2015-07-31,2099-12-31,NA
+46269777,Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10675991000119100,2015-07-31,2099-12-31,NA
+46269779,Mild persistent asthma controlled co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10676111000119102,2015-07-31,2099-12-31,NA
+46269782,Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10676231000119102,2015-07-31,2099-12-31,NA
+46269785,Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10676511000119109,2015-07-31,2099-12-31,NA
+46269787,Moderate persistent controlled asthma co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10676591000119100,2015-07-31,2099-12-31,NA
+46269789,Moderate persistent asthma uncontrolled co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,10676671000119102,2015-07-31,2099-12-31,NA
+46270028,Severe persistent asthma co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,124991000119109,2015-07-31,2099-12-31,NA
+46273454,Moderate persistent asthma co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,125001000119103,2015-07-31,2099-12-31,NA
+46270029,Mild persistent asthma co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,125011000119100,2015-07-31,2099-12-31,NA
+46270030,Intermittent asthma co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,125021000119107,2015-07-31,2099-12-31,NA
+40316085,Seasonal allergic rhinitis,Condition,SNOMED,Clinical Finding,NA,155536000,1970-01-01,2002-01-31,U
+40316086,(Allergic rhinitis: [NOS] or [perennial] or [seasonal]) or (vasomotor rhinitis),Condition,SNOMED,Clinical Finding,NA,155537009,1970-01-01,2002-01-31,D
+40316544,Extrinsic asthma - atopy (& pollen),Condition,SNOMED,Clinical Finding,NA,155575009,1970-01-01,2002-01-31,D
+46270156,Allergic rhinitis due to animal hair and dander,Condition,SNOMED,Clinical Finding,S,156051000119109,2015-07-31,2099-12-31,NA
+40395080,Rhinitis: [perennial] or [allergic],Condition,SNOMED,Clinical Finding,NA,195817007,1970-01-01,2002-01-31,D
+40395081,Pollinosis (& allergic rhinitis due to pollens),Observation,SNOMED,Undefined,NA,195818002,1970-01-01,2002-01-31,D
+40395084,(Hay fever) or (allergic rhinitis) due to unspecified allergen,Condition,SNOMED,Clinical Finding,NA,195820004,1970-01-01,2002-01-31,D
+4110499,Allergic rhinitis NOS,Condition,SNOMED,Clinical Finding,NA,195821000,2002-01-31,2010-01-31,U
+40395876,(Hay fever with asthma) or (extrinsic asthma without status asthmaticus),Condition,SNOMED,Clinical Finding,NA,195970002,1970-01-01,2022-01-27,U
+256439,Allergic rhinitis due to pollen,Condition,SNOMED,Clinical Finding,S,21719001,2002-01-31,2099-12-31,NA
+4048478,Hay fever - other allergen,Condition,SNOMED,Clinical Finding,NA,232351005,2002-01-31,2010-01-31,U
+4048170,Hay fever - unspecified allergen,Condition,SNOMED,Clinical Finding,NA,232352003,2002-01-31,2022-01-27,U
+4048171,Perennial allergic rhinitis with seasonal variation,Condition,SNOMED,Clinical Finding,S,232353008,2002-01-31,2099-12-31,NA
+4123253,Hay fever with asthma,Condition,SNOMED,Clinical Finding,S,233683003,2002-01-31,2099-12-31,NA
+4148122,Allergic rhinitis due to other allergens,Condition,SNOMED,Clinical Finding,NA,266344005,2002-01-31,2022-01-27,U
+4143977,Allergic rhinitis due to unspecified allergen,Condition,SNOMED,Clinical Finding,NA,266345006,2002-01-31,2022-01-27,U
+40345747,(Allergic rhinitis: [NOS] or [perennial] or [seasonal]) or (vasomotor rhinitis),Condition,SNOMED,Clinical Finding,NA,266386004,1970-01-01,2002-01-31,D
+40362679,Seasonal allergic rhinitis,Condition,SNOMED,Clinical Finding,NA,278515004,1970-01-01,2002-01-31,D
+4280726,Seasonal allergic rhinitis,Condition,SNOMED,Clinical Finding,S,367498001,2002-01-31,2099-12-31,NA
+4242372,Atopic rhinitis,Condition,SNOMED,Clinical Finding,NA,38103000,2002-01-31,2011-01-31,U
+443558,Allergic rhinitis due to animal dander,Condition,SNOMED,Clinical Finding,S,429195002,2008-01-31,2099-12-31,NA
+40481374,Allergic rhinitis due to food,Condition,SNOMED,Clinical Finding,S,441978001,2009-07-31,2099-12-31,NA
+44798305,[X]Other seasonal allergic rhinitis,Condition,SNOMED,Clinical Finding,NA,442551000000105,2009-04-01,2015-04-01,U
+40486433,Perennial allergic rhinitis,Condition,SNOMED,Clinical Finding,S,446096008,2011-01-31,2099-12-31,NA
+42709857,Allergic rhinitis due to house dust mite,Condition,SNOMED,Clinical Finding,S,449729000,2012-01-31,2099-12-31,NA
+44801694,[X]Other allergic rhinitis,Condition,SNOMED,Clinical Finding,NA,470021000000107,2009-04-01,2015-04-01,U
+3557653,Allergic rhinitis NOS,Condition,SNOMED,Clinical Finding,NA,581961000000109,2010-04-01,2012-04-01,U
+257007,Allergic rhinitis,Condition,SNOMED,Clinical Finding,S,61582004,2002-01-31,2099-12-31,NA
+3558015,Hay fever - other allergen,Condition,SNOMED,Clinical Finding,NA,669891000000101,2010-04-01,2012-10-01,U
+4283362,Hay asthma,Condition,SNOMED,Clinical Finding,NA,67415000,2002-01-31,2011-01-31,U
+40623000,Seasonal allergic rhinitis,Condition,SNOMED,Clinical Finding,NA,70369002,1970-01-01,2002-01-31,D
+45766684,Allergic rhinitis due to Dermatophagoides farinae,Condition,SNOMED,Clinical Finding,S,703903005,2015-01-31,2099-12-31,NA
+45766713,Allergic rhinitis due to Dermatophagoides pteronyssinus,Condition,SNOMED,Clinical Finding,S,703937002,2015-01-31,2099-12-31,NA
+252936,Allergic rhinitis due to animals,Condition,SNOMED,Clinical Finding,S,91925003,2002-01-31,2099-12-31,NA
+4241525,Allergic rhinitis due to grass pollen,Condition,SNOMED,Clinical Finding,S,91926002,2002-01-31,2099-12-31,NA
+4241526,Allergic rhinitis due to tree pollen,Condition,SNOMED,Clinical Finding,S,91927006,2002-01-31,2099-12-31,NA
+4240899,Allergic rhinitis due to weed pollen,Condition,SNOMED,Clinical Finding,S,91928001,2002-01-31,2099-12-31,NA
+46273452,Acute exacerbation of asthma co-occurrent with allergic rhinitis,Condition,SNOMED,Clinical Finding,S,99031000119107,2015-07-31,2099-12-31,NA
