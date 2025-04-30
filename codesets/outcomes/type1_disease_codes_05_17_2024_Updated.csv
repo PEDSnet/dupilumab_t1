@@ -754,6 +754,36 @@
 45577247,M35.03,Sicca syndrome with myopathy,ICD10CM,11,Sjorens Disease
 45577247,M35.03,Sjogren syndrome with myopathy,ICD10CM,11,Sjorens Disease
 46270481,3.21E+14,Tubulointerstitial nephropathy due to Sjogren syndrome,SNOMED,11,Sjorens Disease
+141933,68225006,Alopecia areata,SNOMED,12,Alopecia
+1569792,L63,Alopecia areata,ICD10CM,12,Alopecia
+4056343,19754005,Alopecia totalis,SNOMED,12,Alopecia
+4239312,5860009,Ophiasis,SNOMED,12,Alopecia
+4263194,46586006,Diffuse alopecia areata,SNOMED,12,Alopecia
+4300094,77363004,Concentric alopecia areata,SNOMED,12,Alopecia
+4300910,403320008,Circumscribed alopecia areata of scalp,SNOMED,12,Alopecia
+4300911,403321007,Circumscribed alopecia areata of eyelashes/eyebrows,SNOMED,12,Alopecia
+4300912,403322000,Circumscribed alopecia areata of beard area,SNOMED,12,Alopecia
+4300913,403323005,Circumscribed alopecia areata of limbs,SNOMED,12,Alopecia
+4300914,403324004,Circumscribed alopecia areata of trunk,SNOMED,12,Alopecia
+4312756,86166000,Alopecia universalis,SNOMED,12,Alopecia
+35208591,L63.0,Alopecia (capitis) totalis,ICD10CM,12,Alopecia
+35208592,L63.1,Alopecia universalis,ICD10CM,12,Alopecia
+35208593,L63.2,Ophiasis,ICD10CM,12,Alopecia
+35208594,L63.8,Other alopecia areata,ICD10CM,12,Alopecia
+35208595,L63.9,"Alopecia areata, unspecified",ICD10CM,12,Alopecia
+36715349,720980004,"Alopecia, psychomotor epilepsy, periodontal pyorrhea, intellectual disability syndrome",SNOMED,12,Alopecia
+40397268,201131001,Alopecia areata (& ophiasis),SNOMED,12,Alopecia
+40397283,201145007,Alopecia universalis,SNOMED,12,Alopecia
+40397294,201155006,Ophiasic alopecia areata,SNOMED,12,Alopecia
+40405439,201395002,[X]Other alopecia areata,SNOMED,12,Alopecia
+40442541,238727007,Circumscribed alopecia,SNOMED,12,Alopecia
+44797953,4.40E+14,[X]Other alopecia areata,SNOMED,12,Alopecia
+45533646,L63,Alopecia areata,ICD10,12,Alopecia
+45543376,L63.0,Alopecia (capitis) totalis,ICD10,12,Alopecia
+45548201,L63.1,Alopecia universalis,ICD10,12,Alopecia
+45557708,L63.8,Other alopecia areata,ICD10,12,Alopecia
+45577048,L63.2,Ophiasis,ICD10,12,Alopecia
+45596382,L63.9,"Alopecia areata, unspecified",ICD10,12,Alopecia
 138502,56727007,Vitiligo,SNOMED,13,Vitiligo
 1568479,H02.73,Vitiligo of eyelid and periocular area,ICD10CM,13,Vitiligo
 3656848,3.31E+14,Vitiligo of skin of right upper eyelid and periocular area,SNOMED,13,Vitiligo
